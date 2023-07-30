@@ -1,5 +1,5 @@
 ---
-# import '../../styles/global.css';
+layout: ../../layouts/MarkdownPostLayout.astro
 
 title: 私の3番目のブログ記事
 author: Astro学習者
