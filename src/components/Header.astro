@@ -1,13 +1,15 @@
 ---
-import Humburger from './Humburger.astro';
-import Navigation from './Navigation.astro';
-import ThemeIcon from './ThemeIcon.astro';
+import Donation from "./Donation.astro";
+
+const { chapterTitle } = Astro.props;
 ---
 
 <header>
-  <nav>
-    <Humburger />
-    <ThemeIcon />
-    <Navigation />
-  </nav>
+  <div class="main-chapter row justify-content-end">
+    <div id="chapter_num" style="visibility: hidden;">1</div>
+    <h1 id="single-file-line-up">{chapterTitle}</h1>
+    <div class="fig">
+      <img src="/assets/images/hananiawan-1.png" alt="cover" />
+    </div>
+  </div>
 </header>

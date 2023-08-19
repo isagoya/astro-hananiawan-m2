@@ -1,11 +1,15 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import '../styles/global.css';
+import Navigation from "../components/Navigation.astro";
+import HeaderCover from "../components/HeaderCover.astro";
+import Footer from "../components/Footer.astro";
+import Donation from "../components/Donation.astro";
+import "../styles/main.css";
+// import '../styles/global.css';
 // const pageTitle = "ホームページ";
-const {pageTitle} = Astro.props;
+const { pageTitle, pageType } = Astro.props;
 ---
-<html lang="ja">
+
+<!-- <html lang="ja">
   <head>
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -21,5 +25,34 @@ const {pageTitle} = Astro.props;
     <script>
       import "../scripts/menu.js";
     </script>
+  </body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <!-- <link rel="stylesheet" href="../../../src/styles/main.css" /> -->
+    <title>{pageTitle}</title>
+  </head>
+
+  <body>
+    <Navigation />
+    <div class="main" id={pageType}>
+      <div class="container-fluid">
+        <slot />
+        <Footer />
+      </div>
+    </div>
   </body>
 </html>

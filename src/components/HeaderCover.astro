@@ -1,0 +1,34 @@
+---
+import Humburger from './Humburger.astro';
+import Navigation from './Navigation.astro';
+import ThemeIcon from './ThemeIcon.astro';
+
+const book = {
+  title:'H ana ni Awan',
+  subTitle: 'Meet the Flower',
+  auther: 'Iha Toshio',
+  imageUrl:  '/assets/images/hananiawan-cover1.jpg'
+};
+
+---
+
+<!--<header>
+  <nav>
+     <Humburger />
+    <ThemeIcon />
+    <Navigation />
+
+
+  </nav>
+</header> -->
+
+<header id="meet-the-flowers" class="row justify-content-center">
+  <div class="col-md-6 col-lg-4">
+    <h1>{book.title}</h1>
+    <h1 style="font-size: 1.6rem;">{book.subTitle}</h1>
+    <p>Author: {book.auther}</p>
+    <div class="fig" id="fig-cover"><img src={book.imageUrl} alt="cover"
+        style="width: 100%;">
+    </div>
+  </div>
+</header>
