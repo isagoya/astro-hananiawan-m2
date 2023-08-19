@@ -123,6 +123,12 @@ section:nth-child(odd) {
 .pagination {
   margin-top: 1rem;
 }
+/* .page-item.active .page-link {
+  pointer-events: none;
+} */
+.pagination li.active a {
+  pointer-events: none
+}
 
 .offcanvas-body ul {
   list-style: none;
