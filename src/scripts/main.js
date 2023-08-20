@@ -156,7 +156,7 @@ function setPagination() {
     prev_url = 'index.html#'
     console.log(prev_url);
   } else {
-    prev_url = `chapt-${Number(chapter_num) - 1}.html#`;
+    prev_url = `/chapt-${Number(chapter_num) - 1}.html#`;
     console.log(prev_url);
   }
   prev.firstElementChild.setAttribute('href', prev_url)
@@ -164,7 +164,7 @@ function setPagination() {
   active.firstElementChild.textContent = chapter_num;
   console.log(active.firstElementChild.textContent);
   let next = document.getElementById('next');
-  let next_url = `chapt-${Number(chapter_num) + 1}.html#`
+  let next_url = `/chapt-${Number(chapter_num) + 1}.html#`
   next.firstElementChild.setAttribute('href', next_url)
   // 11ページまでを表示する
   if (Number(chapter_num) > (11 - 1)) {
