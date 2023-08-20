@@ -1,66 +1,16 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import Pagination from "../components/Pagination.astro";
-import HtmlData from './data/chapt2_inner.html'
+import HtmlData from "./data/chapt2_inner.html";
 
-const title =  "";
+const title = "";
 const type = "contents";
 ---
 
-<BaseLayout pageTitle = {title} pageType = {type}>
-<!-- <Header chapterTitle = {title} /> -->
-
-<HtmlData />
-<Footer>
-  <Pagination />
-</Footer>
-
+<BaseLayout pageTitle={title} pageType={type}>
+  <HtmlData />
+  <Footer>
+    <Pagination />
+  </Footer>
 </BaseLayout>
-
-<!-- <script src="../scripts/main.js"></script> -->
-<script>
-  setHeadTitle();
-
-  function setHeadTitle(){
-    let h1_elements = document.getElementsByTagName('h1');
-    let chapter_element = h1_elements.item(0);
-    let chapter_title = chapter_element.textContent;
-    // チャプター番号（ページ番号）を得る
-    let chapter_num = document.getElementById('chapter_num').textContent;
-    
-    console.log(chapter_num);
-
-      // ページネイションの設定
-  let prev = document.getElementById('prev');
-  let prev_url
-  if(Number(chapter_num) == 1) {
-    prev_url = 'index.html#'
-    console.log(prev_url);
-  } else {
-    prev_url = `chapt-${Number(chapter_num) - 1}.html#`;        
-    console.log(prev_url);
-  }
-  prev.firstElementChild.setAttribute('href', prev_url)
-  let active = document.getElementById('active');
-  active.firstElementChild.textContent = chapter_num;
-  console.log(active.firstElementChild.textContent);
-  let next = document.getElementById('next');
-  let next_url = `chapt-${Number(chapter_num) + 1}.html#`
-  next.firstElementChild.setAttribute('href', next_url)
-  // 11ページまでを表示する
-  if (Number(chapter_num) > (11 - 1)) {
-    next.setAttribute('style', 'visibility: hidden;');
-  }
-
-    console.log(chapter_title);
-    // head要素を取得
-    // const head = document.head;
-    // // 最後の子要素の後に<title>を追加
-    //   head.insertAdjacentHTML('beforeend', '<title>Hana ni Awan•' + chapter_title + '</title>');
-    
-    const title_element = document.getElementsByTagName('title')
-    title_element.item(0).textContent = `Hana ni Awan • ${chapter_title}`
-  }
-</script>
