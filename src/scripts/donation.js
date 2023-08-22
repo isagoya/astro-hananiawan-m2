@@ -1,6 +1,6 @@
 setDonationHtml();
 
-function setDonationHtml() {
+function setDonationHtml(){
   let header_element = document.getElementsByTagName('header').item(0);
   console.log(header_element);
   let donation_element = `
@@ -11,6 +11,9 @@ function setDonationHtml() {
     </div>
   </div>
   `;
-  header_element.insertAdjacentHTML('beforeend', donation_element);
+  header_element.insertAdjacentHTML('afterbegin', donation_element);
 
 }
+
+
+
