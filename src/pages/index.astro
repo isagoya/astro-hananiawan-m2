@@ -1,211 +1,28 @@
 ---
 // import '../styles/global.css';
-import Navigation from '../components/Navigation.astro';
-import HeaderCover from '../components/HeaderCover.astro';
-import Footer from '../components/Footer.astro';
+import Navigation from "../components/Navigation.astro";
+import HeaderCover from "../components/HeaderCover.astro";
+import Footer from "../components/Footer.astro";
 
-import BaseLayout from '../layouts/BaseLayout.astro';
+import BaseLayout from "../layouts/BaseLayout.astro";
 
-import Donation from '../components/Donation.astro';
-import PaginationCover from '../components/PaginationCover.astro';
+import Donation from "../components/Donation.astro";
+import PaginationCover from "../components/PaginationCover.astro";
+import Introduce from "./data/introduce.html";
+import TableOfContens from "./data/table-of-contents.html";
 
-const title = 'Hana ni Awan • Introduction'
-const type = 'cover';
+const title = "Hana ni Awan • Introduction";
+const type = "cover";
 ---
 
-<BaseLayout pageTitle={title} pageType = {type}>
-	<!-- <h2>私の素晴らしいブログのサブタイトル</h2>
-	<Greeting client:load messages = {["どうも", "こんにちは", "初めまして", "ようこそ"]}></Greeting>
-	<Greeting client:load messages = {["Hej", "Hello", "Hola", "Habari"]}></Greeting> -->
+<BaseLayout pageTitle={title} pageType={type}>
+  <HeaderCover />
+  <Donation />
 
-	<HeaderCover />
-	<Donation />
+  <Introduce />
+  <TableOfContens />
+</BaseLayout>
 
-				<section id="introduction" class="main-chapter row justify-content-center">
-					<!-- <div class="row justify-content-center"> -->
-					<div class="col-md-6" id="textbox">
-						<h1>Introduction</h1>
-						<p>In 1958, at the age of 15, I was celebrating my second June at Okinawa Airakuen, a sanatorium for Hansen's
-							disease in Okinawa Prefecture.</p>
-						<p>The Nobel Prize winner for literature, Yasunari Kawabata, spoke to me with his hand on my knee.
-							<br />Saying, &quot;Write a lot. Store it all up inside you.&quot;
-						</p>
-						<p>I hear this call from the depths of my memory. This quiet voice led me to the joy of reading the books were
-							filled with dreams that could flap their wings. There was no world where one person could humiliate another,
-							or where a single &quot;stigma&quot; could deny a human life.</p>
-						<p>Writing brings joy to people, and this conviction grew stronger as I grew older.
-							I write about &quot;leprosy,&quot; which has passed over me. It has been over ten years since I became
-							obsessed with this idea.</p>
-						<p>The abolition of the Leprosy Prevention Law in April 1996 gave me the motivation to do so.</p>
-						<p>Writing about the disease, is not a pleasant experience. It requires a great deal of determination to
-							unearth the pain and recall the memories of a time gone by. And the deeper the grief and the heavier the
-							pain, the more so.</p>
-						<p>The act of recalling the memories of family members and others involved and connecting them through writing
-							was also a journey of self-reflection. Like stop motion, scenes from that time and place come to mind—the
-							sounds of that time, the colors I encountered, and even the scents I smelled.
-						<p>The act of &quot;marking oneself&quot;, begins with dismantling myself. Then, I must create a self that can
-							look at myself calmly.
-						<p>Before writing about the past, I tried to maintain a bird's-eye view of it as much as possible.</p>
-						<p></p>
-						<div class="spacer"></div>
-						<p>In the &quot;House for Prayers&quot; in Airakuen, the sermon &quot;The Last Supper&quot; by Tokuda, a
-							Sunday School teacher, spoke to the anxious heart of a 14-year-old.
-						</p>
-						<p>Leonardo da Vinci started drawing with Christ in the center. It was easy to find his model, as well as
-							models of the disciples. However, he could not find the last remaining model of Judas.</p>
-						<p>Da Vinci traveled for days and days across the country in search of a model of Judas.</p>
-						<p>he stepped into one town, he found a crowd of people shouting jeers in their mouths, saying, &quot;Strike
-							the thieves! Hit the criminals harder!&quot; Perplexed, Da Vinci stretched his head and peeked into the
-							crowd, only to see a beggar being beaten by the shopkeeper. The beggar was crying and asking for
-							forgiveness, but it didn't look like he was going to get it.</p>
-						<p>Da Vinci felt sorry for the beggar and gave some gold coins to the shopkeeper, finally rescuing the crying
-							beggar. The beggar prostrated himself at da Vinci's feet, thanked him for saving him, and kissed his feet.
-							As the beggar raised his tear-stained face, he smiled.</p>
-						<p>Da Vinci realized that this beggar was the very Judas he had been looking for all along.</p>
-						<p>He rushed the beggar back home and was finally able to paint Judas.</p>
-						<p>At last, &quot;The Last Supper&quot; was completed.</p>
-						<p>Da Vinci gave the beggar gold coins in return. The beggar, clutching the gold coins, said, <br />&quot;Sir,
-							I have been given coins from you twice. The first time was when I finished this man's modeling.&quot;
-							<br />The beggar's finger pointed to the center of the completed The Last Supper.</p>
-						<p>The eyes of the 14-year-old boy sitting in the second row, far right seat in the church hall, caught sight
-							of Christ and Judas.</p>
-						<p></p>
-						<p>The eighty-nine years of "bad law" for leprosy is a history of forcing those who are sick to abandon their
-							humanity. Therefore, the tears of those who were stigmatized continued to be shed without drying up.</p>
-						<p>Leprosy Prevention Law, which caused so much suffering and sorrow for mankind, drew its curtain so easily
-							against the weight of its sordid history. Society has left lepers behind and forgotten that they even exist,
-							and now it is trying to erase and bury them as peacefully as possible from Japan’s medical history.</p>
-						<p>What were the 89 years imposed on leprosy patients? Japanese people living in Japan today have a
-							responsibility to answer that question.</p>
-						<p></p>
-						<p>book is a memoir of my life and a message from a leprosy survivor to my readers. It is my hope that as many
-							people as possible will read this book and reflect on it in your own hearts.
-						<p>In some parts of this book, the term "leprosy" is used for historical references and proper nouns, but all
-							references to the disease are now referred to as "Hansen's disease."</p>
-	
-					</div>
-				</section>
-	
-				<section id="table-of-contents" class="main-chapter row justify-content-center">
-					<div class="col-md-6">
-						<h1>Table of Contents</h1>
-						<ul>
-							<li><a href="#introduction">Introduction</a></li>
-							<li><a href="chapt-1.html#">Single File Line Up</a>
-								<ul>
-									<li><a href="chapt-1.html#oppadake">Oppadake</a></li>
-									<li><a href="chapt-1.html#minamidaito-island">Minamidaito Island</a></li>
-									<li><a href="chapt-1.html#single-file-line-up*">Single file lineup</a></li>
-									<li><a href="chapt-1.html#tonuka-cave">Tonuka Cave</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-2.html#">Yagaji Island</a>
-								<ul>
-									<li><a href="chapt-2.html#deigo-flowers-(erythrina-variegate)">Deigo flowers (Erythrina
-											variegate)</a></li>
-									<li><a href="chapt-2.html#sanyamabushi">Sanyamabushi</a></li>
-									<li><a href="chapt-2.html#father's-back">Father's back</a></li>
-									<li><a href="chapt-2.html#sata-andagi-(okinawan-brown-sugar-tempura)">Sata Andagi (Okinawan
-											doughnuts)</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-3.html#">Mangrove</a>
-								<ul>
-									<li><a href="chapt-3.html#paranku-in-the-early-morning">Paranku in the early morning</a></li>
-									<li><a href="chapt-3.html#slender-hands">Slender hands</a></li>
-									<li><a href="chapt-3.html#visiting-day">Visiting day</a></li>
-									<li><a href="chapt-3.html#the-torrent-of-souls">The torrent of souls</a></li>
-									<li><a href="chapt-3.html#score-brand-hill">Score Brand Hill</a></li>
-									<li><a href="chapt-3.html#school-for-the-seven">School for the seven</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-4.html#">February Wind</a>
-								<ul>
-									<li><a href="chapt-4.html#escape">Escape</a></li>
-									<li><a href="chapt-4.html#flashing">Flashing</a></li>
-									<li><a href="chapt-4.html#oneway-passport">Oneway passport</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-5.html#">Airano</a>
-								<ul>
-									<li><a href="chapt-5.html#smoke-from-Sakurajima">Smoke from Sakurajima</a></li>
-									<li><a href="chapt-5.html#forced-repatriation">Forced repatriation</a></li>
-									<li><a href="chapt-5.html#connected-route">Connected route</a></li>
-									<li><a href="chapt-5.html#evening-primrose">Evening primrose (Oenothera glazioviana)</a></li>
-									<li><a href="chapt-5.html#notification-of-rejection">Notification of rejection</a></li>
-									<li><a href="chapt-5.html#the-thirty-first-successful-applicant">The thirty-first successful
-											applicant</a></li>
-									<li><a href="chapt-5.html#dark-tracks">Dark Tracks</a></li>
-									<li><a href="chapt-5.html#transporting-infectious-disease-patients">Transporting infectious disease
-											patients</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-6.html#">Seto Island Sea</a>
-								<ul>
-									<li><a href="chapt-6.html#oku-high-school-niirada-classroom">Oku high school Niirada classroom</a>
-									</li>
-									<li><a href="chapt-6.html#blue-blade">Blue blade</a></li>
-									<li><a href="chapt-4.html#cyborg">Cyborg</a></li>
-									<li><a href="chapt-6.html#informed-consent">Informed consent</a></li>
-									<li><a href="chapt-6.html#okinawa-Ties">Okinawa Ties</a></li>
-									<li><a href="chapt-6.html#wall-of-a-wall">Wall of a wall</a></li>
-									<li><a href="chapt-6.html#refusal">Refusal</a></li>
-									<li><a href="chapt-6.html#ticket">Ticket</a></li>
-									<li><a href="chapt-6.html#erased-face">Erased face</a></li>
-								</ul>
-							</li>
-						 	<li><a href="chapt-7.html#">Brand</a>
-								<ul>
-									<li><a href="chapt-7.html#holly-Gate">Holly Gate</a></a></li>
-									<li><a href="chapt-7.html#in-the-pocket">In the pocket</a></li>
-									<li><a href="chapt-7.html#soft-landing">Soft-landing</a></li>
-									<li><a href="chapt-7.html#the-way-back">The way back</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-8.html#">Human Rainbow</a>
-								<ul>
-									<li><a href="chapt-8.html#our-Pledge">Our Pledge</a></li>
-									<li><a href="chapt-8.html#blue-partitioning-screen">Blue partitioning screen</a></li>
-									<li><a href="chapt-8.html#workplace-debate">Workplace debate</a></li>
-									<li><a href="chapt-8.html#the-Bottom-of-the-bowl">The Bottom of the bowl</a></li>
-									<li><a href="chapt-8.html#the-form-of-human">The form of human</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-9.html#">House of Sand</a>
-								<ul>
-									<li><a href="chapt-9.html#wind-wrought-pattern-on-the-sands">Wind-wrought pattern on the sands</a>
-									</li>
-									<li><a href="chapt-9.html#the-human-archipelago">The human archipelago</a></li>
-									<li><a href="chapt-9.html#quicksand">Quicksand</a></li>
-									<li><a href="chapt-9.html#whitecaps">Whitecaps</a></li>
-								</ul>
-							</li>
-							<li><a href="chapt-10.html#">Rhizome</a>
-								<ul>
-									<li><a href="chapt-10.html#doorplate">Doorplate</a></li>
-									<li><a href="chapt-10.html#rhizome">Rhizome</a>
-								</ul>
-							<li><a href="chapt-11.html#">Kagiyade huu</a>
-								<ul>
-									<li><a href="chapt-11.html#group-of-urns">Group of urns</a></li>
-									<li><a href="chapt-11.html#perceptual-thread">Perceptual thread</a></li>
-									<li><a href="chapt-11.html#kagiyade-huu">Kagiyade huu</a></li>
-									<li><a href="chapt-11.html#family">Family</a></li>
-								</ul>
-							</li>
-							<li><a href="sum1.html">Summing up 1 Right about-face!</a></li>
-							<li><a href="sum2.html">Summing up 2 The Silence of Damian</a></li>
-							<li><a href="refer.html">References</a></li>
-							<li><a href="afterword.html">Afterword</a></li>
-	
-						</ul>
-					</div>
-				</section>
-	
-			</div> <!-- end content-fluid -->
-		</div> <!-- end main -->
-
-		<Footer>
-			<PaginationCover />
-		</Footer>
-	
+<Footer>
+  <PaginationCover />
+</Footer>

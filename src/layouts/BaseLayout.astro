@@ -26,8 +26,7 @@ const { pageTitle, pageType } = Astro.props;
 
     <!-- <link rel="stylesheet" href="../../../src/styles/main.css" /> -->
     <title>{pageTitle}</title>
-    <link rel=”icon” href=“/favicon.ico”>
-
+    <link rel="”icon”" href="“/favicon.ico”" />
   </head>
 
   <body>
@@ -36,9 +35,10 @@ const { pageTitle, pageType } = Astro.props;
       <div class="container-fluid">
         <slot />
       </div>
+      <!-- end content-fluid -->
     </div>
+    <!-- end main -->
 
     <script src="../scripts/main.js"></script>
-
   </body>
 </html>
