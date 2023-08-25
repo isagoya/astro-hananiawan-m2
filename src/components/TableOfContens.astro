@@ -4,15 +4,15 @@ const title = 'Table of Contents';
 ---
 <section id="table-of-contents" class="main-chapter row justify-content-center">
 	<div class="col-md-6">
-		<h1 id={title.toLowerCase().replaceAll(" ", "_")}>{title}</h1>
+		<h1 id={title.toLowerCase().replaceAll(" ", "-")}>{title}</h1>
     <ul>
       {chapters.map((chapter) => {
-        let anchor = chapter.fileName + '/#' + chapter.title.toLowerCase().replaceAll(' ','_');
+        let anchor = chapter.fileName + '/index.html#';
         console.log(chapter);
         return <li><a href={anchor}>{chapter.title}</a>
           <ul>
             {chapter.subChapters.map((subChapter) => {
-              anchor = chapter.fileName + '.html#' + subChapter.toLowerCase().replaceAll(' ','_');
+              anchor = chapter.fileName + '/index.html#' + subChapter.toLowerCase().replaceAll(' ','-');
               return <li><a href={anchor}>{subChapter}</a></li>;})}
           </ul>
           </li>;

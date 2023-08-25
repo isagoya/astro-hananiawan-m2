@@ -21,7 +21,7 @@ const title = 'Hana ni Awan • meet the flowers';
         <p><a href="/#"><strong>{title}</strong></a></p>
         <ul>
           {chapters.map((chapter) => {
-            let anchor = chapter.fileName + ".html#" + chapter.title.toLowerCase().replaceAll(" ", "_");
+            let anchor = chapter.fileName + ".html#" + chapter.title.toLowerCase().replaceAll(" ", "-");
             return <li class="accordion-item">
             <div class="accordion-header" id={"headingOne" + chapter.fileName}>
               <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target={"#collapseOne" + chapter.fileName} aria-expanded="true" aria-controls={"collapseOne" + chapter.fileName}>
@@ -33,7 +33,7 @@ const title = 'Hana ni Awan • meet the flowers';
               <div class="accordion-body">
                 <ul>
                   {chapter.subChapters.map((subChapter) => {
-                    anchor = "/" + chapter.fileName + ".html#" + subChapter.toLowerCase().replaceAll(" ", "_");
+                    anchor = "/" + chapter.fileName + ".html#" + subChapter.toLowerCase().replaceAll(" ", "-");
                   return <li><a href={anchor}>{subChapter}</a></li>
                   })}
                   
