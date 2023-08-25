@@ -1,5 +1,6 @@
 ---
-
+import chapters from '../pages/data/chapters.json';
+const title = 'Hana ni Awan • meet the flowers';
 ---
 
   <button type="button" class="btn btn-light" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-expanded="false" aria-controls="offcanvasExample">
@@ -17,10 +18,35 @@
     <div class="accordion" id="accordionExample">
 
       <div>
-        <p><a href="/#"><strong>Hana ni Awan • meet the flowers</strong></a></p>
+        <p><a href="/#"><strong>{title}</strong></a></p>
         <ul>
+          {chapters.map((chapter) => {
+            let anchor = chapter.fileName + ".html#" + chapter.title.toLowerCase().replaceAll(" ", "_");
+            return <li class="accordion-item">
+            <div class="accordion-header" id={"headingOne" + chapter.fileName}>
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target={"#collapseOne" + chapter.fileName} aria-expanded="true" aria-controls={"collapseOne" + chapter.fileName}>
+                <a href={anchor}>{chapter.title}</a>
+                <!-- {chapter.title} -->
+              </button>
+            </div>
+        <div id={"collapseOne" + chapter.fileName} class="accordion-collapse collapse" aria-labelledby={"headingOne" + chapter.fileName} data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                <ul>
+                  {chapter.subChapters.map((subChapter) => {
+                    anchor = "/" + chapter.fileName + ".html#" + subChapter.toLowerCase().replaceAll(" ", "_");
+                  return <li><a href={anchor}>{subChapter}</a></li>
+                  })}
+                  
+                </ul>
+              </div>
+            </div>
+          </li> <!-- end .acordion-item -->
+
+})}
+
           <li class="accordion-item"><a href="/#introduction">Introduction</a></li>
           <li class="accordion-item"><a href="/#table-of-contents">Table of Contents</a></li>
+
           <li class="accordion-item">
             <div class="accordion-header" id="headingOne">
               <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
