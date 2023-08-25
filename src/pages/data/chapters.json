@@ -1,7 +1,12 @@
 [
   {
     "title": "Introduction",
-    "subChapters": ["Introduction", "Table of Contents"],
+    "subChapters": [],
+    "fileName": "index"
+  },
+  {
+    "title": "Table of Contents",
+    "subChapters": [],
     "fileName": "index"
   },
   {
