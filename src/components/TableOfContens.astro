@@ -7,12 +7,12 @@ const title = 'Table of Contents';
 		<h1 id={title.toLowerCase().replaceAll(" ", "-")}>{title}</h1>
     <ul>
       {chapters.map((chapter) => {
-        let anchor = chapter.fileName + '/index.html#';
+        let anchor = chapter.fileName + '.html#' + chapter.title.toLowerCase().replaceAll(' ','-');;
         console.log(chapter);
         return <li><a href={anchor}>{chapter.title}</a>
           <ul>
             {chapter.subChapters.map((subChapter) => {
-              anchor = chapter.fileName + '/index.html#' + subChapter.toLowerCase().replaceAll(' ','-');
+              anchor = chapter.fileName + '.html#' + subChapter.toLowerCase().replaceAll(' ','-');
               return <li><a href={anchor}>{subChapter}</a></li>;})}
           </ul>
           </li>;
