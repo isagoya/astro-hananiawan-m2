@@ -38,9 +38,9 @@ const title = 'Hana ni Awan • meet the flowers';
                 <ul>
                   {chapter.subChapters.map((subChapter) => {
                     if (subChapter == chapter.subChapters[0]) {
-                      anchor = "/" + chapter.fileName + ".html#";
+                      anchor = "/" + chapter.fileName + "/index.html#";
                     } else {
-                    anchor = "/" + chapter.fileName + ".html#" + subChapter.toLowerCase().replaceAll(" ", "-");
+                    anchor = "/" + chapter.fileName + "/index.html#" + subChapter.toLowerCase().replaceAll(" ", "-");
                     }
                   return <li><a href={anchor}>{subChapter}</a></li>
                   })}
