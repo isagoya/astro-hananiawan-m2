@@ -21,7 +21,7 @@ const title = 'Hana ni Awan • meet the flowers';
         <p><a href="/#"><strong>{title}</strong></a></p>
         <ul>
           {chapters.map((chapter) => {
-            let anchor = "../" + chapter.fileName + ".html#" + chapter.title.toLowerCase().replaceAll(" ", "-");
+            let anchor = "../" + chapter.fileName + "/#" + chapter.title.toLowerCase().replaceAll(" ", "-");
             console.log(anchor);
             if (chapter.subChapters.length == 0) {
               return <li class="accordion-item"><a href={anchor}>{chapter.title}</a></li>

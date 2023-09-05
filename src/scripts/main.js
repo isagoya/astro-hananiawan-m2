@@ -27,7 +27,7 @@ function setPagination() {
   let prev = document.getElementById('prev');
   let prev_url
   if (Number(chapter_num) == 1) {
-    prev_url = 'index.html#'
+    prev_url = '../index.html#'
     console.log(prev_url);
   } else {
     prev_url = `/chapt-${Number(chapter_num) - 1}/index.html#`;
