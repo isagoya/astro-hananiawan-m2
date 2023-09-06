@@ -20,7 +20,7 @@ const title = 'Hana ni Awan • meet the flowers';
       <div>
         <p><a href="/#"><strong>{title}</strong></a></p>
         <ul>
-          {chapters.map((chapter, index) => {
+          {chapters.slice(0, 13).map((chapter, index) => {
             let anchor = "../" + chapter.fileName + "/#" + chapter.title.toLowerCase().replaceAll(" ", "-");
             // console.log(anchor);
             if ( index == 0 || index == 1) {
