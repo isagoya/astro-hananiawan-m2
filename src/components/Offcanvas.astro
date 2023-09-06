@@ -20,10 +20,11 @@ const title = 'Hana ni Awan • meet the flowers';
       <div>
         <p><a href="/#"><strong>{title}</strong></a></p>
         <ul>
-          {chapters.map((chapter) => {
+          {chapters.map((chapter, index) => {
             let anchor = "../" + chapter.fileName + "/#" + chapter.title.toLowerCase().replaceAll(" ", "-");
             console.log(anchor);
-            if (chapter.subChapters.length == 0) {
+            if ( index == 0 || index == 1) {
+              anchor = "../" + "#" + chapter.title.toLowerCase().replaceAll(" ", "-");
               return <li class="accordion-item"><a href={anchor}>{chapter.title}</a></li>
             } else {
             return <li class="accordion-item">
@@ -33,7 +34,7 @@ const title = 'Hana ni Awan • meet the flowers';
                 <!-- {chapter.title} -->
               </button>
             </div>
-        <div id={"collapse-" + chapter.fileName} class="accordion-collapse collapse" aria-labelledby={"heading-" + chapter.fileName} data-bs-parent="#accordionExample">
+            <div id={"collapse-" + chapter.fileName} class="accordion-collapse collapse" aria-labelledby={"heading-" + chapter.fileName} data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <ul>
                   {chapter.subChapters.map((subChapter) => {
@@ -49,8 +50,8 @@ const title = 'Hana ni Awan • meet the flowers';
               </div>
             </div>
           </li> <!-- end .acordion-item -->
-        }
-})}
+          }
+          })}
 
         </ul>
       </div>
