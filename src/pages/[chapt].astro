@@ -1,0 +1,45 @@
+---
+import chapters from "./data/chapters.json";
+
+// `./src/pages/data`の`.html`で終わるすべてのファイルをインポート
+const components = await Astro.glob('./data/*.html');
+
+export function getStaticPaths() {
+  let staticPath = [];
+  //chaoter.jsonの配列3番目から13番目までを読み込む
+  chapters.slice(2, 13).map((chapter, index) => {
+    staticPath.push({params: {chapt: 'chapt-' + (index + 1)}});
+    // staticPath.push({params: {chapt: chapter.fileName }});
+  })
+  console.log(staticPath);
+
+  return staticPath;
+}
+
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Footer from "../components/Footer.astro";
+import Pagination from "../components/Pagination.astro";
+// import HtmlData from "../data/chapt1_inner.html";
+
+const { chapt } = Astro.params;
+console.log( chapt );
+const num = parseInt(chapt.replaceAll(/[^0-9]/g, ""));
+console.log("num:", num)
+// const title = chapters[num + 1].title;
+const title = "";
+const type = "contents";
+
+---
+
+<BaseLayout pageTitle={title} pageType={type}>
+
+  {components.slice(num - 1, num).map((component) => (
+      <component.default size={24} />
+  ))}
+  
+  <!-- <HtmlData /> -->
+  <Footer>
+    <Pagination />
+    <script src = "../scripts/donation.js"></script>
+  </Footer>
+</BaseLayout>
