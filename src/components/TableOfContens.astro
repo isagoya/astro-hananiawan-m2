@@ -6,7 +6,7 @@ const title = 'Table of Contents';
 	<div class="col-md-6">
 		<h1 id={title.toLowerCase().replaceAll(" ", "-")}>{title}</h1>
     <ul>
-      {chapters.map((chapter) => {
+      {chapters.slice(0,13).map((chapter) => {
         let anchor = chapter.fileName + '/#';
         console.log(chapter);
         return <li><a href={anchor}>{chapter.title}</a>
