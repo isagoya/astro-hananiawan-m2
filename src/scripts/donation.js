@@ -2,7 +2,7 @@ setDonationHtml();
 
 function setDonationHtml(){
   let header_element = document.getElementsByTagName('header').item(0);
-  console.log(header_element);
+  // console.log(header_element);
   let donation_element = `
   <div id="donation" class="row justify-content-start" style="padding-top:0; padding-bottom:0; margin:0 10px;">
   <div class="col-md-4" style="text-align: center;">

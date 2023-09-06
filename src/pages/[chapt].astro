@@ -4,6 +4,7 @@ import chapters from "./data/chapters.json";
 // `./src/pages/data`の`.html`で終わるすべてのファイルをインポート
 const components = await Astro.glob('./data/*.html');
 
+// ページ分の param を用意する
 export function getStaticPaths() {
   let staticPath = [];
   //chaoter.jsonの配列3番目から13番目までを読み込む
@@ -11,7 +12,7 @@ export function getStaticPaths() {
     staticPath.push({params: {chapt: 'chapt-' + (index + 1)}});
     // staticPath.push({params: {chapt: chapter.fileName }});
   })
-  console.log(staticPath);
+  // console.log(staticPath);
 
   return staticPath;
 }
@@ -22,9 +23,9 @@ import Pagination from "../components/Pagination.astro";
 // import HtmlData from "../data/chapt1_inner.html";
 
 const { chapt } = Astro.params;
-console.log( chapt );
+// console.log( chapt );
 const num = parseInt(chapt.replaceAll(/[^0-9]/g, ""));
-console.log("num:", num)
+// console.log("num:", num)
 // const title = chapters[num + 1].title;
 const title = "";
 const type = "contents";
@@ -34,7 +35,7 @@ const type = "contents";
 <BaseLayout pageTitle={title} pageType={type}>
 
   {components.slice(num - 1, num).map((component) => (
-      <component.default size={24} />
+      <component.default  />
   ))}
   
   <!-- <HtmlData /> -->
