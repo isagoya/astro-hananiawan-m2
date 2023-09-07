@@ -1,9 +1,46 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
-import Footer from "../components/Footer.astro";
 
-const title = "404error";
-const type = "content";
 ---
 
-<BaseLayout pageTitle={title} pageType={type} />
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!-- Bootstrap CSS -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous"
+        />
+
+        <!-- <link rel="stylesheet" href="../../../src/styles/main.css" /> -->
+        <title>404 error</title>
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="/_astro/404.ea14cb88.css" />
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col mt-5 align-self-end">
+                    <h1
+                        class="text-center fs-1 fw-bold p-3 mb-2 bg-secondary text-white"
+                    >
+                        Sorry! File not found
+                    </h1>
+                    <img
+                        src="./assets/images/hananiawan-cover1.jpg"
+                        alt="cover image"
+                        width="600"
+                    />
+                </div>
+                <div class="col"></div>
+            </div>
+        </div>
+    </body>
+</html>
