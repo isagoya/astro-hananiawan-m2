@@ -8,9 +8,14 @@ const title = "Table of Contents";
 		<h1 id={title.toLowerCase().replaceAll(" ", "-")}>{title}</h1>
 		<ul>
 			{
-				chapters.slice(0, 13).map((chapter) => {
-					let anchor = chapter.fileName + "/#";
-					// console.log(chapter);
+				chapters.slice(0, 13).map((chapter, i) => {
+					let anchor = "";
+					if (i == 0 || i == 1) {
+						anchor = "#" + chapter.title.toLowerCase().replaceAll(" ", "-");
+					} else {
+						anchor = chapter.fileName + "/#";
+					}
+					console.log(anchor);
 					return (
 						<li>
 							<a href={anchor}>{chapter.title}</a>
