@@ -2,7 +2,7 @@
 import chapters from "./data/chapters.json";
 
 // `./src/pages/data`の`.html`で終わるすべてのファイルをインポート
-const components = await Astro.glob('./data/*.html');
+const dataHtmls = await Astro.glob('./data/*.html');
 
 // ページ分の param を用意する
 export function getStaticPaths() {
@@ -43,8 +43,8 @@ const type = "contents";
 
 <BaseLayout pageTitle={title} pageType={type}>
 
-  {components.slice(i, i + 1).map((component) => (
-      <component.default size={24} />
+  {dataHtmls.slice(i, i + 1).map((dataHtml) => (
+      <dataHtml.default size={24} />
   ))}
 
   <!-- <HtmlData /> -->
