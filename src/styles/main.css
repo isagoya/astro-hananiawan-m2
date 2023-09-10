@@ -214,4 +214,10 @@ section:nth-child(even) {
 
 }
 
+@media print{
+  nav {
+    display: none;
+  }
+}
+
 
