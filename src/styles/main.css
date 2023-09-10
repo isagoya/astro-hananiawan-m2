@@ -215,7 +215,10 @@ section:nth-child(even) {
 }
 
 @media print{
-  nav {
+  #navbar {
+    display: none;
+  }
+  #donation {
     display: none;
   }
 }
