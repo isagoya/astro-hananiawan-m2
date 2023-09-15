@@ -1,0 +1,39 @@
+
+/* .change-font-size {
+  display: flex;
+  justify-items: center;
+} */
+
+.change-fs {
+  background-color: #fff;
+  border: 1px solid #999;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1rem;
+  line-height: 1;
+  /* padding: 11px; */
+  text-align: center;
+  vertical-align: middle;
+  width: 36px;
+}	
+
+.change-fs:hover, .change-fs.active {
+    background-color: gray;
+    color: #fff;
+}
+
+.change-fs.small {
+  font-size: 1rem;
+  width: 1.2rem;
+  height: 1.2rem;
+}
+.change-fs.middle {
+  font-size: 1.2rem;
+  width: 1.4rem;
+  height: 1.4rem;
+}
+.change-fs.large {
+  font-size: 1.4rem;
+  width: 1.6rem;
+  height: 1.6rem;
+}
