@@ -31,9 +31,9 @@ import Pagination from "../components/Pagination.astro";
 import Header from "../components/Header.astro";
 
 const { chapt } = Astro.params;
-console.log('chapt:', chapt );
+// console.log('chapt:', chapt );
 const {chapter, i} = Astro.props;
-console.log( chapter, i );
+// console.log( chapter, i );
 
 const num = parseInt(chapt.replaceAll(/[^0-9]/g, ""));
 console.log("num:", num)
