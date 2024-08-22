@@ -28,13 +28,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import Footer from "../components/Footer.astro";
 import Pagination from "../components/Pagination.astro";
 // import HtmlData from "../data/chapt1_inner.html";
+import Header from "../components/Header.astro";
 
 const { chapt } = Astro.params;
-// console.log( chapt );
+console.log('chapt:', chapt );
 const {chapter, i} = Astro.props;
+console.log( chapter, i );
 
 const num = parseInt(chapt.replaceAll(/[^0-9]/g, ""));
-// console.log("num:", num)
+console.log("num:", num)
 // const title = chapters[num + 1].title;
 const title = "";
 const type = "contents";
@@ -42,6 +44,7 @@ const type = "contents";
 ---
 
 <BaseLayout pageTitle={title} pageType={type}>
+  <Header title={chapter.title} num={num} />
 
   {dataHtmls.slice(i, i + 1).map((dataHtml) => (
       <dataHtml.default size={24} />
