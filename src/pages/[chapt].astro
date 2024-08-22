@@ -2,7 +2,7 @@
 import chapters from "./data/chapters.json";
 
 // `./src/pages/data`の`.html`で終わるすべてのファイルをインポート
-const dataHtmls = await Astro.glob('./data/*.html');
+const dataHtmls = await Astro.glob('./md/*.md');
 
 // ページ分の param を用意する
 export function getStaticPaths() {
