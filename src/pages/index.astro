@@ -9,10 +9,11 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import Donation from "../components/Donation.astro";
 import PaginationCover from "../components/PaginationCover.astro";
 import Introduce from "./data/introduce.html";
+import Prologue from "./md/prologue.md";
 // import TableOfContens from "./data/table-of-contents.html";
 import TableOfContens from "../components/TableOfContens.astro";
 
-const title = "Hana ni Awan • Introduction";
+const title = "Hana ni Awan • Prologue";
 const type = "cover";
 ---
 
@@ -20,7 +21,8 @@ const type = "cover";
   <HeaderCover />
   <Donation />
 
-  <Introduce />
+  <Prologue />
+  <!-- <Introduce /> -->
   <TableOfContens />
 </BaseLayout>
 
