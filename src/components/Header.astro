@@ -9,6 +9,7 @@ const imageUrl = "/assets/images/hananiawan-" + num + ".png"
     <div class="main-chapter row justify-content-end">
         <div id="chapter_num" style="visibility: hidden;">{num}</div>
         <h1 id={title}>{title}</h1>
-        <div class="fig"><img src={imageUrl} alt="cover"></div>
+        <!-- chpter num が12以上になったら画像を表示しない -->
+        {num >= 12 ? '' : <div class="fig"><img src={imageUrl} alt="cover"></div>}
     </div>
 </header>
