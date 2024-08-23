@@ -28,7 +28,7 @@ function setTagToContents() {
   // '.container-fluid' クラスの子要素である全てのヘッダータグを取得
     //  var headers = document.querySelectorAll('.container-fluid > :is(h1, h2, h3, h4, h5, h6)');  
     // '.container-fluid' クラスの子要素であるh2ヘッダータグを取得
-    var headers = document.querySelectorAll('.container-fluid > :is(h2)');  
+    var headers = document.querySelectorAll('.container-fluid > :is(h1, h2)');  
     //  console.log(headers);
 
      // 取得した各ヘッダータグについて処理
@@ -112,7 +112,8 @@ function setPagination() {
   let next_url = `/chapt-${Number(chapter_num) + 1}/index.html#`
   next.firstElementChild.setAttribute('href', next_url)
   // 11ページまでを表示する
-  if (Number(chapter_num) > (11 - 1)) {
+  // 13ページまでを表示する
+  if (Number(chapter_num) > (13 - 1)) {
     next.setAttribute('style', 'visibility: hidden;');
   }
 
