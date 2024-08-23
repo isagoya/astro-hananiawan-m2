@@ -1,6 +1,6 @@
 [
   {
-    "title": "Introduction",
+    "title": "Prologue",
     "subChapters": [],
     "fileName": "index"
   },
@@ -10,75 +10,75 @@
     "fileName": "index"
   },
   {
-    "title": "Single File Line Up",
-    "subChapters": ["Oppadake", "Minamidaito Island", "Single file line up*", "Tonuka Cave"],
+    "title": "Single File",
+    "subChapters": ["Mt.Oppadake", "Minamidaito Island", "Single  File", "Tōnuka Cave"],
     "fileName": "chapt-1"
   },
   {
     "title": "Yagaji Island",
-    "subChapters": ["Deigo flowers (Erythrina variegate)","Sanyamabushi" ,"Father's back", "Sata Andagi (Okinawan doughnuts)"],
+    "subChapters": ["Deigo Flower（Indian Coral Tree）", "Sanyama-bushi (Ryukyuan Classical Music)", "My Father’s Back", "Sata Andagi (Okinawan Doughnut)" ],
     "fileName": "chapt-2"
   },
   {
     "title": "Mangrove",
-    "subChapters": ["Paranku in the early morning", "Slender hands", "Visiting day", "The torrent of souls", "Score Brand Hill", "School for the seven"],
+    "subChapters": ["The First thing in the morning, Paranku", "Slender Hands", "Visiting Day", "Torrent of my Soul", "Scorebrand Memorial Hill", "School for Seven Students"],
     "fileName": "chapt-3"
   },
   {
-    "title": "February Wind",
-    "subChapters": ["Escape", "Flashing", "Oneway passport"],
+    "title": "Ninguwachikajimai (Monsoon in February)",
+    "subChapters": ["Escape", "Flashing Light", "One-Way Passport"],
     "fileName": "chapt-4"
 
   },
   {
     "title": "Airano",
-    "subChapters": ["Smoke from Sakurajima", "Forced repatriation", "Connected route", "Evening primrose (Oenothera glazioviana)", "Notification of rejection", "The thirty-first successful applicant", "Dark Tracks", "Transporting infectious disease patients"],
+    "subChapters": ["Smoke from Sakurajima Volcano", "Forced Repatriation", "Connected Route", "Evening Primrose", "Notice of Rejection", "The 31st Person to Pass the Exam", "Railway Track in the Dark", "Because Transporting Infected Patients"],
     "fileName": "chapt-5"
 
   },
   {
     "title": "Seto Island Sea",
-    "subChapters": ["Oku High School Niirada Classroom", "Blue Blade", "Cyborg", "Informed Consent", "Okinawa Ties", "Wall of A Wall", "Refusal", "Ticket", "Erased Face"],
+    "subChapters": ["Oku High School Niirada Class", "Blue Blade", "Modified Man", "Informed Consent", "Bonds of Okinawa", "Wall after Wall", "Rejection", "The Ticket", "Erased Faces"],
     "fileName": "chapt-6"
 
   },
   {
-    "title": "Brand",
-    "subChapters": ["Holly Gate", "In the Pocket", "Soft Landing", "The Way Back"],
+    "title": "Stigma",
+    "subChapters": ["The Gate of Holly Tree", "In My Pockets", "Soft Landing", "The way back"],
     "fileName": "chapt-7"
 
   },
   {
     "title": "Human Rainbow",
-    "subChapters": ["Our Pledge", "Blue Partitioning Screen", "Workplace Debate", "The Bottom of the Bowl", "The Form of Human"],
+    "subChapters": ["Our Pledge", "Blue Partition", "Workplace Discussion", "Bottom of Bowl", "Human Shape"],
     "fileName": "chapt-8"
 
   },
   {
-    "title": "Fragile as Sand",
-    "subChapters": ["Wind Wrought Pattern on the Sands", "The Human Archipelago", "Quicksand", "Whitecaps"],
+    "title": "Sand House",
+    "subChapters": ["Ripples", "Human Archipelago (NHK TVProgram:Various Lifestyles)", "Quicksand", "Wave Crest"],
     "fileName": "chapt-9"
   },
   {
-    "title": "Rhizome",
-    "subChapters": ["Doorplate", "Rhizome"],
+    "title": "Underground Stem",
+    "subChapters": ["Nameplate", "Underground  Stem"],
     "fileName": "chapt-10"
 
   },
   {
-    "title": "Kagiyade Huu",
-    "subChapters": ["Group of Urns", "Perceptual Thread", "Kagiyade Huu", "Family"],
+    "title": "Kagiyadefuu (Ryukyuan Dance for a Feast)",
+    "subChapters": ["Group of Urns", "Threads of Perception", "Kagiyadefuu (Ryukyuan Dance for a Feast)", "The Family"],
     "fileName": "chapt-11"
 
   },
   {
-    "title": "Summing up 1 Right about-face!",
+    "title": "Supplement 1 About face!",
     "subChapters": [],
     "fileName": ""
 
   },
   {
-    "title": "Summing up 2 The Silence of Damian",
+    "title": "Supplement 2 The Silence of Damien",
     "subChapters": [],
     "fileName": ""
 
