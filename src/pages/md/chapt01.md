@@ -2,7 +2,7 @@
 title: Single File
 ---
 
-{/* <!-- # Single File --> */}
+<!-- # Single File -->
 
 ## Mt. Oppadake
 
