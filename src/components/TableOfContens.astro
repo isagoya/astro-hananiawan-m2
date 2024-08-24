@@ -3,9 +3,9 @@ import chapters from "../pages/data/chapters.json";
 const title = "Table of Contents";
 ---
 
-<section id="table-of-contents" class="main-chapter row justify-content-center">
-	<div class="col-md-6">
-		<h1 id={title.toLowerCase().replaceAll(" ", "-")}>{title}</h1>
+<!-- <section id="table-of-contents" class="main-chapter row justify-content-center">
+	<div class="col-md-6"> -->
+		<h2 id={title.toLowerCase().replaceAll(" ", "-")}>{title}</h2>
 		<ul>
 			{
 				chapters.slice(0, 13).map((chapter, i) => {
@@ -39,5 +39,5 @@ const title = "Table of Contents";
 				})
 			}
 		</ul>
-	</div>
-</section>
+	<!-- </div>
+</section> -->

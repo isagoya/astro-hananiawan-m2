@@ -100,19 +100,19 @@ section:nth-child(even) {
   background-color: rgb(240, 240, 240);
 }
 
-#table-of-contents a {
+section #table-of-contents + .group a {
   text-decoration: none;
   color: #000000;
 }
-#table-of-contents ul li {
+section #table-of-contents + .group ul li {
   margin-top: 0.6rem;
   font-weight: bold;
 }
-#table-of-contents ul li li {
+section #table-of-contents + .group ul li li {
   margin-top: 0.1rem;
   font-weight: normal;
 }
-#table-of-contents li {
+section #table-of-contents + .group li {
   list-style: none;
 }
 
