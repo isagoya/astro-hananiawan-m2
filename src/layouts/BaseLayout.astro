@@ -8,7 +8,7 @@ import Meta from '../components/Meta.astro'
 import "../styles/main.css";
 // import '../styles/global.css';
 // const pageTitle = "ホームページ";
-const { pageTitle, pageType } = Astro.props;
+const { pageTitle, pageType, title, num } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -33,7 +33,7 @@ const { pageTitle, pageType } = Astro.props;
   </head>
 
   <body>
-    <Navigation />
+    <Navigation title={title} num={num}/>
     <div class="main" id={pageType}>
       <div class="container-fluid">
         <slot />

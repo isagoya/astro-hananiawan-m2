@@ -45,7 +45,7 @@ const type = "contents";
 
 ---
 
-<BaseLayout pageTitle={title} pageType={type}>
+<BaseLayout pageTitle={title} pageType={type} title={chapter.title} num={num}>
   <Header title={chapter.title} num={num} />
 
   {dataHtmls.slice(i, i + 1).map((dataHtml) => (

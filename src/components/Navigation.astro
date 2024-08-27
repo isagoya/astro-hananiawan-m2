@@ -3,13 +3,17 @@
 // import ThemeIcon from './ThemeIcon.astro';
 import Offcanvas from './Offcanvas.astro';
 import FontSizeButton from './FontSizeButton.astro';
+
+const { title, num } = Astro.props;
+// const roman = ['Ⅰ', 'Ⅱ', 'Ⅲ', 'Ⅳ', 'Ⅴ', 'Ⅵ', 'Ⅶ', 'Ⅷ', 'Ⅸ', 'Ⅹ', 'Ⅺ', '', ''];
+const roman = ['ⅰ','ⅱ', 'ⅲ', 'ⅳ', 'ⅴ', 'ⅵ', 'ⅶ', 'ⅷ', 'ⅸ', 'ⅹ', 'ⅺ', 'ⅻ', '', ''];
 ---
 
 
 <!-- ナビゲーションバー -->
 <nav class="navbar navbar-light bg-light fixed-top" id="navbar">
   <!-- タイトル -->
-  <a class="navbar-brand" href="/index.html">Hana ni Awan</a>
+  <a class="navbar-brand" href="/index.html">Hana ni Awan • { num < 12 ? roman[num] + '.' : roman[num]}{ title }</a>
   <FontSizeButton />
   <!-- <ThemeIcon /> -->
   <Offcanvas />
