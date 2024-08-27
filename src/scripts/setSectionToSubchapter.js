@@ -7,8 +7,8 @@ function setTagToContents() {
   // https://dubdesign.net/javascript/insertbefore-divtag/
   // '.container-fluid' クラスの子要素である全てのヘッダータグを取得
     //  var headers = document.querySelectorAll('.container-fluid > :is(h1, h2, h3, h4, h5, h6)');  
-    // '.container-fluid' クラスの子要素であるh2ヘッダータグを取得
-    var headers = document.querySelectorAll('.container-fluid > :is(h1, h2)');  
+    // '.container-fluid' クラスの子要素であるヘッダータグかつあらかじめあるsectionタグを取得
+    var headers = document.querySelectorAll('.container-fluid > :is(h1, h2, h3, h4, h5, h6, section)');  
     //  console.log(headers);
 
      // 取得した各ヘッダータグについて処理
@@ -16,7 +16,7 @@ function setTagToContents() {
 
         // <section>タグを作る
         const section = document.createElement('section');
-        
+
         // h2 ヘッダータグの後ろの内容をグループ化する
 
         // ヘッダータグ名を小文字で取得
@@ -40,9 +40,9 @@ function setTagToContents() {
             // 保存しておいた次の要素がヘッダータグと同じであればループを抜ける
             if (next && next.nodeName.toLowerCase() === h_tag) {
                 break;
-            } 
-            // 保存しておいた次の要素が存在しない、もしくはヘッダータグであればループを抜ける
-            else if (!next || next.matches(':is(h1, h2, h3, h4, h5, h6)')) {
+            }
+            // 保存しておいた次の要素が存在しない、もしくはヘッダータグかつあらかじめあるsectionタグであればループを抜ける
+            else if (!next || next.matches(':is(h1, h2, h3, h4, h5, h6, section)')) {
                 break;
             }
 
@@ -64,5 +64,24 @@ function setTagToContents() {
         // <section>にクラスを追加
         section.classList.add('sub-chapter', 'row', 'justify-content-center');
      });
+
+    //  脚注(footnotes)にクラスを追加
+     var sections = document.querySelectorAll('section.footnotes');
+    //  console.log(sections);
+     sections.forEach(function(section) {
+        section.classList.add('col-md-8');
+     })
+
+     const pres = document.querySelectorAll('pre.astro-code');
+     const div = document.createElement('div')
+
+    //  console.log(pres);
+     pres.forEach(function(pre) {
+        console.log(pre.innerHTML);
+        // pre.classList.add('col-md-8');
+        const text = document.createTextNode(pre.textContent); // テキストを作成
+        div.appendChild(text);
+        pre.replaceWith(pre);
+     })
 
 }
