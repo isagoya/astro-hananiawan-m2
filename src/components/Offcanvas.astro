@@ -11,7 +11,7 @@ const title = 'Hana ni Awan • meet the flowers';
 
   <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
   <div class="offcanvas-header">
-    <h5 class="offcanvas-title" id="offcanvasExampleLabel">index</h5>
+    <h5 class="offcanvas-title" id="offcanvasExampleLabel" style="display: none">Index</h5>
     <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="close"></button>
   </div>
   <div class="offcanvas-body">
@@ -24,7 +24,7 @@ const title = 'Hana ni Awan • meet the flowers';
             let anchor = "../" + chapter.fileName + "/#" + chapter.title.toLowerCase().replaceAll(" ", "-");
             // console.log(anchor, index);
             if ( index == 0 || index == 1 ) {
-              anchor = "../" + "#" + chapter.fileName.toLowerCase().replaceAll(" ", "-");
+              anchor = "../" + "#" + chapter.title.toLowerCase().replaceAll(" ", "-");
               return <li class="accordion-item"><a href={anchor}>{chapter.title}<br>{chapter.subAlias}</a></li>
             } else if ( index == 13 || index == 14 ) {
               // anchor = "/" + chapter.fileName + "/" + "#" + chapter.title.toLowerCase().replaceAll(" ", "-");
@@ -44,9 +44,10 @@ const title = 'Hana ni Awan • meet the flowers';
                     if (subChapter == chapter.subChapters[0]) {
                       anchor = "/" + chapter.fileName + "/#";
                     } else {
-                    anchor = "/" + chapter.fileName + "/#" + (subChapter + '-' + chapter.subAlias[i]).toLowerCase().replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").replaceAll("’", "").replaceAll(':', '');
+                      chapter.subAlias[i] == '' ? subChapter : subChapter += chapter.subAlias[i];
+                    anchor = "/" + chapter.fileName + "/#" + subChapter.toLowerCase().replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").replaceAll("’", "").replaceAll(':', '');
                     }
-                    // console.log(chapter.subAlias[i]);
+                    console.log(anchor);
                   return <li><a href={anchor}>{subChapter}<br>{chapter.subAlias[i]}</a></li>
                   })}
                 </ul>

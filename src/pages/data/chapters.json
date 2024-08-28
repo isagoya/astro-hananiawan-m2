@@ -17,7 +17,7 @@
     "title": "Single File",
     "description": "",
     "subChapters": ["Mt.Oppadake", "Minamidaito Island", "Single  File", "Tōnuka Cave"],
-    "subAlias": [],
+    "subAlias": ["", "", "", ""],
     "fileName": "chapt-1"
   },
   {
@@ -31,14 +31,14 @@
     "title": "Mangrove",
     "description": "",
     "subChapters": ["The First thing in the morning, Paranku", "Slender Hands", "Visiting Day", "Torrent of my Soul", "Scorebrand Memorial Hill", "School for Seven Students"],
-    "subAlias": [],
+    "subAlias": ["", "", "", "", "", ""],
     "fileName": "chapt-3"
   },
   {
     "title": "Ninguwachikajimai",
     "description": "(Monsoon in February)",
     "subChapters": ["Escape", "Flashing Light", "One-Way Passport"],
-    "subAlias": [],
+    "subAlias": ["", "", "", ""],
     "fileName": "chapt-4"
 
   },
@@ -46,7 +46,7 @@
     "title": "Airano",
     "description": "",
     "subChapters": ["Smoke from Sakurajima Volcano", "Forced Repatriation", "Connected Route", "Evening Primrose", "Notice of Rejection", "The 31st Person to Pass the Exam", "Railway Track in the Dark", "Because Transporting Infected Patients"],
-    "subAlias": [],
+    "subAlias": ["", "", "", "", "", "", "", ""],
     "fileName": "chapt-5"
 
   },
@@ -54,7 +54,7 @@
     "title": "Seto Island Sea",
     "description": "",
     "subChapters": ["Oku High School Niirada Class", "Blue Blade", "Modified Man", "Informed Consent", "Bonds of Okinawa", "Wall after Wall", "Rejection", "The Ticket", "Erased Faces"],
-    "subAlias": [],
+    "subAlias": ["", "", "", "", "", "", "", "", ""],
     "fileName": "chapt-6"
 
   },
@@ -62,7 +62,7 @@
     "title": "Stigma",
     "description": "",
     "subChapters": ["The Gate of Holly Tree", "In My Pockets", "Soft Landing", "The way back"],
-    "subAlias": [],
+    "subAlias": ["", "", "", ""],
     "fileName": "chapt-7"
 
   },
@@ -70,7 +70,7 @@
     "title": "Human Rainbow",
     "description": "",
     "subChapters": ["Our Pledge", "Blue Partition", "Workplace Discussion", "Bottom of Bowl", "Human Shape"],
-    "subAlias": [],
+    "subAlias": ["", "", "", "", "", "", ""],
     "fileName": "chapt-8"
 
   },
@@ -85,7 +85,7 @@
     "title": "Underground Stem",
     "description": "",
     "subChapters": ["Nameplate", "Underground  Stem"],
-    "subAlias": [],
+    "subAlias": ["", "", ""],
     "fileName": "chapt-10"
 
   },
