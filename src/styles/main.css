@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+:root {
+  --odd-bg-color: var(--bs-white);
+  --even-bg-color: rgb(240, 240, 240);
+}
+
 .spacer {
   margin-top: 3rem;
 }
@@ -114,6 +119,33 @@ section #table-of-contents + .group ul li li {
 }
 section #table-of-contents + .group li {
   list-style: none;
+}
+
+section .group blockquote {
+  font-family: serif;
+  padding-left: 1.6rem;
+  /* font-size: larger; */
+}
+
+section .group dl {
+  padding-left: 0.8rem;
+}
+
+section .group dl dt {
+  margin-bottom: 1rem;
+}
+
+section .group dl dt::before,
+section .group dl dd::before  {
+  display: inline-block;
+}
+
+section .group dl dt::before {
+  content: '●';
+}
+
+section .group dl dd::before {
+  content: '◎';
 }
 
 .offcanvas-end {
