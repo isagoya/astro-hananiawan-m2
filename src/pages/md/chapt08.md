@@ -16,27 +16,19 @@ In March 1969, the buds of the cherry blossom avenue began to change color.
 
 I stopped in front of the frame hanging on the wall and turned discolored.
 
-   Our Pledge
-
-(Pioneer Road)
-
-1. We are the pioneers who open roads where no one has dared to go.
-
-  (Joy of Work)
-
-2. We feel that life is worth living when we work hard against adversity rather than spend in comfort and receive pity.
-
-    (Infinite Possibilities)
-
-3. We believe in infinite possibilities and continue to strive to develop new skills, even when something is inferior to others.
-
-    (Solidarity & Cooperation)
-
-4. We encourage each other and build happiness through unwavering solidarity and cooperation.
-
-    (Right to Life)
-
-5. We all work together to realize a society in which all people can live as humanely as possible.
+> Our Pledge
+>
+> (Pioneer Road)
+> 1. We are the pioneers who open roads where no one has dared to go.
+> (Joy of Work)
+> 2. We feel that life is worth living when we work hard against adversity rather than spend in comfort and receive pity.
+> (Infinite Possibilities)
+> 3. We believe in infinite possibilities and continue to strive to develop new skills, even when something is inferior to others.
+> (Solidarity & Cooperation)
+> 4. We encourage each other and build happiness through unwavering solidarity and cooperation.
+> (Right to Life)
+> 5. We all work together to realize a society in which all people can live as humanely as possible.
+>
 
 “What is this, Mr. Yabe?”
 
@@ -48,7 +40,7 @@ I stopped in front of the frame hanging on the wall and turned discolored.
 
 “Mr. Yabe, what kind of place is Tokyo Colony?”
 
-“It is a social welfare facility, a kind of vocational rehabilitation facility called 'Jusan.'*1 It provides knowledge and skills to prepare someone for a specific job. It is the only social welfare institution that is involved in economic activities. At the time of its establishment, when people recovering from tuberculosis wanted to work in society, they were not readily accepted, so they created their own workplaces to become socially independent by acquiring skills and earning money. Now it is mainly for people recovering from tuberculosis, but I heard that they plan to open a facility for the physically handicapped in two years.
+“It is a social welfare facility, a kind of vocational rehabilitation facility called 'Jusan.'[^1] It provides knowledge and skills to prepare someone for a specific job. It is the only social welfare institution that is involved in economic activities. At the time of its establishment, when people recovering from tuberculosis wanted to work in society, they were not readily accepted, so they created their own workplaces to become socially independent by acquiring skills and earning money. Now it is mainly for people recovering from tuberculosis, but I heard that they plan to open a facility for the physically handicapped in two years.
 
  “They looked healthy to me.”
 
@@ -68,61 +60,31 @@ This was the beginning of the Tokyo Colony. Then, in 1961, ten facilities that s
 
 My eyes were glued to the message written by Chairman Nomura Minoru for the first issue in February 1961.
 
-“This association was born as an organization for nationwide communication and cooperation among those who struggle with the difficulties of returning to society, not only for themselves, but also for the sake of others who suffer from the same illnesses and get stuck.
-
-What narrows their paths? We all know that there are many problems and
-
- none of them is small. Not only we, but also officials, scientists, doctors and
-
- social workers understand it. Although some measures have been taken, albeit
-
-in a meager and crude way, there are still a number of tuberculosis survivors
-
-who are in trouble, suffering from the burden of their lives and worried about
-
-tomorrow's relapse.
-
-The problem is too big, too complicated, too inaccessible. This is the voice
-
-of the public. But those who cannot stand idly by, those who feel it in their own
-
-skin, have no choice but to stand up. Here are two different approaches to the
-
-problem, one from the outside, the other from the inside…”
+> “This association was born as an organization for nationwide communication and cooperation among those who struggle with the difficulties of returning to society, not only for themselves, but also for the sake of others who suffer from the same illnesses and get stuck.…… (omission)
+>
+> What narrows their paths? We all know that there are many problems and none of them is small. Not only we, but also officials, scientists, doctors and social workers understand it. Although some measures have been taken, albeit in a meager and crude way, there are still a number of tuberculosis survivors who are in trouble, suffering from the burden of their lives and worried about tomorrow's relapse.  
+>
+> The problem is too big, too complicated, too inaccessible. This is the voice of the public. But those who cannot stand idly by, those who feel it in their own skin, have no choice but to stand up. Here are two different approaches to the problem, one from the outside, the other from the inside. (later omission)”
 
 I also found that in the National Colony Monthly Report No. 5, August, Chairman Nomura shed light on the dream I had been searching for.
 
-      “We are in high spirits for the upcoming Tuberculosis Prevention Week at
-
-  the end of October, when we will organize a meeting of the Tuberculosis
-
-  Colonies scattered throughout the country. We are very small and poor in
-
-numbers and skills. There are less than 15, including those in the planning
-
-  stage. The total number of cured people in the colony is 250 to 260.
-
-It would not be worth the buzzing of a bee to the eyes of politicians or
-
-businessmen. Even the word in high spirit might be common only among us.
-
-However, a preparatory meeting was held at the end of July, and a total of
-
-   10 institutions had gathered, some from as far away as Yamagata, Fukuoka,
-
-   Kumamoto, Yamaguchi, Nagano and Kanagawa prefectures. I told them, “This may be the first attempt in the world, let alone in Japan.”
-
-  It had no significance because of its novelty. Each attempt began under
-
-     uncontrollable circumstances with empty hands and from nothing with the   spirit, “Who can do this but us? It was born before any law was in place, and it has been the impetus for the enactment of laws.
-
-Every social need begins in private hands. These are the general rules of the business world.
-
-   For that reason I expect. I expect a lot. Not because I have any influential background, such as political, ideological or social. It is just to win without fighting. That is why I expect it.
-
-I think Tokugawa Ieyasu (Japan's first general in the Edo period) must have
-
-felt the same when he considered which side to take in the stone battle on the bank of the Abeno River. People are strong when they are weak and can live most purely when they are the fewest...”
+> “We are in high spirits for the upcoming Tuberculosis Prevention Week at the end of October, when we will organize a meeting of the Tuberculosis Colonies scattered throughout the country. We are very small and poor in numbers and skills. There are less than 15, including those in the planning stage. The total number of cured people in the colony is 250 to 260.
+>
+>It would not be worth the buzzing of a bee to the eyes of politicians or businessmen. Even the word in high spirit might be common only among us.
+>
+> However, a preparatory meeting was held at the end of July, and a total of 10 institutions had gathered, some from as far away as Yamagata, Fukuoka, Kumamoto, Yamaguchi, Nagano and Kanagawa prefectures.
+>
+> I told them, “This may be the first attempt in the world, let alone in Japan.”
+>
+> It had no significance because of its novelty. Each attempt began under uncontrollable circumstances with empty hands and from nothing with the   spirit, “Who can do this but us? It was born before any law was in place, and it has been the impetus for the enactment of laws.
+>
+> Every social need begins in private hands. These are the general rules of the business world.
+>
+> For that reason I expect. I expect a lot. Not because I have any influential background, such as political, ideological or social. It is just to win without fighting.
+>
+> That is why I expect it.
+>
+> I think Tokugawa Ieyasu (Japan's first general in the Edo period) must have felt the same when he considered which side to take in the stone battle on the bank of the Abeno River. People are strong when they are weak and can live most purely when they are the fewest.(later omission)”
 
  Examined in the relationship between the social welfare policies of the time, the Council for the Employment of the Physically Handicapped finally reported its measures on “Promoting Employment of Persons with Severe Physical Disabilities, Cured of Tuberculosis, and Mentally Retarded” only in May of that year, and it was surprising that the statements of Chairman Nomura were full of foresight so much.
 
@@ -130,7 +92,7 @@ Mr. Nomura’s argument sounded like a voice from heaven. I felt an electric cur
 
 ----- I didn't know that. There have been people who have started to walk on their own. Even though there is a difference between tuberculosis and Hansen's disease, I do not have to fight all by myself. Tokyo Colony, this is the place I have been looking for!
 
-*1 Social welfare facilities, 'jusan', provide necessary vocational training or a place to work for people who have difficulty being employed by ordinary companies due to disabilities or living conditions. Commonly known as social employment centers, or SELPs, they are established and operated in accordance with the Social Welfare Services Law, the Public Assistance Law, the Welfare Law for Persons with Physical Disabilities, the Welfare Law for the Mentally Disabled, and the Mental Health Law. Currently, there are about 1200 facilities with more than 50,000 users.
+[^1]: Social welfare facilities, 'jusan', provide necessary vocational training or a place to work for people who have difficulty being employed by ordinary companies due to disabilities or living conditions. Commonly known as social employment centers, or SELPs, they are established and operated in accordance with the Social Welfare Services Law, the Public Assistance Law, the Welfare Law for Persons with Physical Disabilities, the Welfare Law for the Mentally Disabled, and the Mental Health Law. Currently, there are about 1200 facilities with more than 50,000 users.
 
 ## Blue Partition
 
@@ -644,11 +606,11 @@ She contracted polio before she was two years old, which curled her spine and st
 
 “But I'm afraid to show him my body...if it would cause the end of...”
 
- “If it would destroy your relationship, I think you better ruin it as soon as possible.” 
+ “If it would destroy your relationship, I think you better ruin it as soon as possible.”
 
 “But I'm afraid to show him my body...then everything would end...”
 
- “If it would cause the end of your relationship, I think it is better for you to ruin it as soon as possible.” 
+ “If it would cause the end of your relationship, I think it is better for you to ruin it as soon as possible.”
 
  I kept her away. She bit her lip hard, wiped away her tears and left the room.
 
@@ -675,4 +637,3 @@ I understood everything.
  “Hello, Grandpa Iha, my birthday is coming up, Yukari, I want books.”
 
  Yukari is almost four years old.
-

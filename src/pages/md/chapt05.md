@@ -170,9 +170,9 @@ My father repeatedly bowed his head to Dr. Matsuda and said, “Thank you. Thank
 
  After the air raid on Okinawa on October 10, 1944, the leprosy sanatorium was also attacked by the U.S. military. Yagaji Island, adjacent to the Unten Port Submarine Base, and the neatly lined wards were mistaken for military facilities and subjected to particularly heavy attacks. About 1,000 bombs and rockets, 100 naval guns, 100,000 machine guns rained down on the lepers. The patients who had been burned out of their wards fled to the air-raid shelters, which were divided into five locations within the sanatorium, each with a capacity of 200 people. Dr. Matsuda also had to go around the shelters to care for these patients. The director of the sanatorium, Mr. Hayata Kou, finally foreseen that the sanatorium would be destroyed before a fierce attack by the U.S. military, decided to open the door of the sanatorium to the patients who wanted to go back to their homes.
 
- Commander Nimitz, who had taken over Okinawa, issued Military Orders Nos. 115*1 and 116*2 on February 8, 1946. The purpose was to relocate leprosy patients displaced by the war and to prohibit access to leprosy sanitariums. Leprosy patients in Okinawa were once again forced into sanatoriums by the military leadership. Thus, in Okinawa, they experienced twice, directly and indirectly, “forced internment by the military,” unlike any other in the world.
+ Commander Nimitz, who had taken over Okinawa, issued Military Orders No. 115[^1] and 116[^2] on February 8, 1946. The purpose was to relocate leprosy patients displaced by the war and to prohibit access to leprosy sanitariums. Leprosy patients in Okinawa were once again forced into sanatoriums by the military leadership. Thus, in Okinawa, they experienced twice, directly and indirectly, “forced internment by the military,” unlike any other in the world.
 
- Special Proclamation No. 13*3 was issued on February 10, 1947. The leprosy control program of the U.S. military government was now well established. In connection with this proclamation, a special proclamation*4 was notified by the sanatorium authorities to the patients on February 19.
+ Special Proclamation No. 13[^3] was issued on February 10, 1947. The leprosy control program of the U.S. military government was now well established. In connection with this proclamation, a special proclamation[^4] was notified by the sanatorium authorities to the patients on February 19.
 
  Clause 1 stated: “Those who escape or allow others to escape shall be punished by death.”
 
@@ -182,167 +182,59 @@ My father repeatedly bowed his head to Dr. Matsuda and said, “Thank you. Thank
 
 Therefore, Director Hayata, Medical Director Matsuda, and Chief Nurse Nishizaki Chika, whose legal domiciles were on the mainland, had to leave Airakuen in 1948.
 
-*1.  U.S. Navy Military Government Headquarters Directive No. 115 (February 8,
+[^1]:  U.S. Navy Military Government Headquarters Directive No. 115 (February 8, 1946)
 
-    1946)
+    1. All those found to be lepers are to be isolated at the Yagaji Island Leprosy Sanatorium, which is currently being restored. All lepers admitted to the Military Government Medical Facility are to be immediately transferred to The Nago Clinic and then transported to Yagaji Island via the Clinic.
+    2. Military government doctors are to communicate this order to all Okinawan doctors under their supervision and make all possible preparations for its execution.
 
-1. All those found to be lepers are to be isolated at the Yagaji Island Leprosy
+[^2]: U.S. Navy Military Government Headquarters Directive No. 116 (February 8, 1946)
 
-  Sanatorium, which is currently being restored. All lepers admitted to the
+    1. Isolation of lepers is considered necessary not only for the protection of Okinawans themselves but also for the protection of U.S. military officers stationed in Okinawa. The Yagaji Leprosy Sanatorium is currently being restored, and all those found to be lepers are being quarantined there.
 
-  Military Government Medical Facility are to be immediately transferred to
+    2. No one may enter Yagaji Island without the special permission of the Deputy Chief of the Military Government. Violators shall be subject to severe disciplinary action.
 
-  The Nago Clinic and then transported to Yagaji Island via the Clinic.
+    3. Generals engaged in temporary official duties on Yagaji Island and a small number of doctors and others who are interested in leprosy from a purely professional standpoint may obtain official permission to enter the island by applying to the Deputy Director-General through the military government's appointed military physician.
 
-2. Military government doctors are to communicate this order to all Okinawan
+[^3]: Special Proclamation No. 13 of the U.S. Military Government (February 10, 1947)
 
-  doctors under their supervision and make all possible preparations for its
+    To the inhabitants of the Nansei Islands and the surrounding seas:
+    In order to protect and preserve public health, it is deemed necessary to isolate those affected by leprosy and to establish and maintain a leprosy sanatorium in the Nansei Islands. For this purpose, the Secretary of the Military Government of the Nansei Islands and adjacent islands, Brigadier General Frederick El Hayden, U.S. Army, hereby issues the following proclamation.
 
-  execution.
+    Article 1: Explanation of Terms: The term “leprosy,” as used in this Proclamation and in all cases related thereto, means a chronic infectious disease caused by a specific bacterium, and the term “leper” means a person affected with leprosy.
 
-*2.  U.S. Navy Military Government Headquarters Directive No. 116 (February
+    Article 2 Establishment of leprosy sanatoriums: The civil government shall establish and maintain sanatoriums in isolated places for the complete isolation and treatment of those affected by leprosy who are in a condition to become infected or contagious.
 
-    8, 1946)
+    Article 3 Jurisdiction: The sanatoriums shall be under the supervision and control of the director of the Department of Public Health of the people's government in each administrative district.
 
-1. Isolation of lepers is considered necessary not only for the protection of
+    Article 4 Duties: The directors of public health of each civil government shall have the legal duty to establish facilities for the diagnosis, isolation, care, and treatment of lepers or suspected lepers who are in a potentially infectious state.
 
-  Okinawans themselves but also for the protection of U.S. military officers
+    Article 5 Reports on lepers: When a person suffering from leprosy or suspected of suffering from leprosy is found, a physician shall report it to the director of the Department of Public Health or his subordinate without delay. The director of the Department of Public Health or his subordinate, upon receiving said report, shall take immediate action.
 
-   stationed in Okinawa. The Yagaji Leprosy Sanatorium is currently being restored, and all those found to be lepers are being quarantined there.
+    Article 6 Treatment: Persons suffering from or suspected of having leprosy shall be admitted to a leprosy sanatorium for treatment and isolation until they have been certified, in the opinion of the director of the Department of Civil and Public Health or its duly authorized representative, as completely cured or as being non-infectious or disease-free.
 
-2. No one may enter Yagaji Island without the special permission of the Deputy
+    Article 7 Prohibition against aiding and abetting lepers: It shall be an offense for any person to conceal leprosy, conceal a leper, assist a leper to escape, or obstruct a leper from being taken away.
 
-  Chief of the Military Government. Violators shall be subject to severe
+    Article 8 Prohibited Areas: It shall be unlawful for any person to enter or be in any place or area designated as a leprosy sanatorium without official permission.
 
-disciplinary action.
+    Article 9 Penalties: Any person who violates the provisions of this proclamation s hall be punished by a special military court upon conviction of the offense, that is, a fine, corporal punishment, or both, or such other punishment as the court may determine.
 
-3. Generals engaged in temporary official duties on Yagaji Island and a small
+    Article 10 Authority to Issue Orders: The Deputy Secretary of the Military Government, through the Director of the Department of Public Health, shall make such orders or regulations as he deems necessary to accomplish the purpose of this proclamation and may amend the same from time to time.
 
-  number of doctors and others who are interested in leprosy from a purely
+    Article 11 Translation: In the event of any inconsistency or ambiguity between the original English text of this proclamation or any other proclamation, order, or regulation issued under the authority of this office and its translation, the English text shall be the primary text.
 
-professional standpoint may obtain official permission to enter the island
+    Article 12 Effective Date: This proclamation shall be effective as of February 10, 1947. Under the signature of the Hon. February 10, 1947, Commander-in-Chief of the Military Government of the Ryukyu Islands, Army Quartermaster General (Author's Note - Brigadier General) Frederick L. Hayden, Colonel William H. Craig, Deputy Director General of the Military Government, Infantry.
 
-by applying to the Deputy Director-General through the military
+[^4]: Special Declaration from the sanatorium authorities (February 19, 1947)
 
-government's appointed military physician.
+    Notice: The following new regulations have been promulgated by the U.S. Armed Forces, and we have been notified by that source. Please take note of them.
 
-*3. Special Proclamation No. 13 of the U.S. Military Government (February 10,
-
-   1947)
-
-   To the inhabitants of the Nansei Islands and the surrounding seas:
-
-In order to protect and preserve public health, it is deemed necessary to
-
-isolate those affected by leprosy and to establish and maintain a leprosy
-
-sanatorium in the Nansei Islands. For this purpose, the Secretary of the
-
-Military Government of the Nansei Islands and adjacent islands, Brigadier General Frederick El Hayden, U.S. Army, hereby issues the following proclamation.
-
-   Article 1: Explanation of Terms: The term “leprosy,” as used in this Proclamation and in all cases related thereto, means a chronic infectious disease caused by a specific bacterium, and the term “leper” means a person affected with leprosy.
-
-   Article 2 Establishment of leprosy sanatoriums: The civil government shall
-
-     establish and maintain sanatoriums in isolated places for the complete isolation
-
-     and treatment of those affected by leprosy who are in a condition to become infected or contagious.
-
-  Article 3 Jurisdiction: The sanatoriums shall be under the supervision and control of
-
-    the director of the Department of Public Health of the people's government in each
-
-    administrative district.
-
-  Article 4 Duties: The directors of public health of each civil government shall have
-
-    the legal duty to establish facilities for the diagnosis, isolation, care, and treatment
-
-    of lepers or suspected lepers who are in a potentially infectious state.
-
-  Article 5 Reports on lepers: When a person suffering from leprosy or suspected of
-
-    suffering from leprosy is found, a physician shall report it to the director of the
-
-    Department of Public Health or his subordinate without delay. The director of the
-
-    Department of Public Health or his subordinate, upon receiving said report, shall
-
-    take immediate action.
-
-  Article 6 Treatment: Persons suffering from or suspected of having leprosy shall be
-
-    admitted to a leprosy sanatorium for treatment and isolation until they have been
-
-   certified, in the opinion of the director of the Department of Civil and Public Health
-
-   or its duly authorized representative, as completely cured or as being non-infectious
-
-   or disease-free.
-
- Article 7 Prohibition against aiding and abetting lepers: It shall be an offense for any
-
-   person to conceal leprosy, conceal a leper, assist a leper to escape, or obstruct a
-
-   leper from being taken away.
-
-  Article 8 Prohibited Areas: It shall be unlawful for any person to enter or be in any
-
-    place or area designated as a leprosy sanatorium without official permission.
-
-  Article 9 Penalties: Any person who violates the provisions of this proclamation s hall
-
-    be punished by a special military court upon conviction of the offense, that is, a fine,
-
-    corporal punishment, or both, or such other punishment as the court may
-
-    determine.
-
-  Article 10 Authority to Issue Orders: The Deputy Secretary of the Military Government,
-
-    through the Director of the Department of Public Health, shall make such orders or
-
-    regulations as he deems necessary to accomplish the purpose of this proclamation
-
-    and may amend the same from time to time.
-
-  Article 11 Translation: In the event of any inconsistency or ambiguity between the
-
-    original English text of this proclamation or any other proclamation, order, or
-
-    regulation issued under the authority of this office and its translation, the English
-
-    text shall be the primary text.
-
-  Article 12 Effective Date: This proclamation shall be effective as of February 10, 1947.
-
-    Under the signature of the Hon. February 10, 1947, Commander-in-Chief of the
-
-    Military Government of the Ryukyu Islands, Army Quartermaster General (Author's
-
-    Note - Brigadier General) Frederick L. Hayden, Colonel William H. Craig, Deputy
-
-    Director General of the Military Government, Infantry.
-
-*4. Special Declaration from the sanatorium authorities (February 19, 1947)
-
-       Notice: The following new regulations have been promulgated by the U.S. Armed
-
-       Forces, and we have been notified by that source. Please take note of them.
-
-Notice:
+    Notice:
 
       1. Those who escape or allow others to escape shall be punished by death.
 
-      2. When a person is found using dynamite, they shall be shot immediately. (In
+      2. When a person is found using dynamite, they shall be shot immediately. (In addition to the above notice, the sanatorium authorities have also issued a notice stating that the following precautions have been decided upon.)
 
-        addition to the above notice, the sanatorium authorities have also issued a notice
-
-        stating that the following precautions have been decided upon.)
-
-      3. Private ownership of outdoor property, such as “Kuribune” (the boat hollowed
-
-        out of a log), shall not be permitted and shall be brought ashore at any time.
+      3. Private ownership of outdoor property, such as “Kuribune” (the boat hollowed out of a log), shall not be permitted and shall be brought ashore at any time.
 
 ## Connected Route
 
@@ -376,37 +268,37 @@ Ishigaki's house was one of a series for married couples that had the same house
 
 “This is the 'Guidelines for Entering and Exiting Patient Residential Areas' for outsiders and staff. It is much simpler now. Some people in Japan even lie that the reason there have been no cases of infection among the sanatorium staff in the long history of Japanese leprosy sanatoriums is because they have taken such strict precautions against contact with infected people… With the verification of time, the error is gradually being corrected.” It said the following.
 
-     [Guidelines for Entering and Exiting the Patient Area]
-
-Entering the Patient Area:
-
-1. Take off your clothes in the locker room and put on monpe (old work pants for women) in the next room.
-
-2. Put on socks and boots in the next room.
-
-3. Put on a jacket, hat and mask in the next room.
-
-4. After checking, enter the patient area.
-
-Exiting the Patient Area:
-
-1. Wipe shoes with a shoe mat soaked in disinfectant.
-
-2. Disinfect your hands.
-
-3. Take off your jacket and hat in the next room.
-
-4. Remove your mask in the next room.
-
-5. Take off your socks and boots in the next room.
-
-6. Soak your feet in disinfectant and wash your hands twice in the next room.
-
-7. Wipe with mercury sublimate gauze in the next room.
-
-8. Remove Monpe and soak feet in Lysol liquid in the next room.
-
-9. Bathe and change all clothes. Gargle with disinfectant.
+> [Guidelines for Entering and Exiting the Patient Area]  
+>
+> Entering the Patient Area:  
+>
+> 1. Take off your clothes in the locker room and put on monpe (old work pants for women) in the next room.  
+>
+> 2. Put on socks and boots in the next room.  
+>
+> 3. Put on a jacket, hat and mask in the next room.  
+>
+> 4. After checking, enter the patient area.  
+>
+> Exiting the Patient Area:  
+>
+> 1. Wipe shoes with a shoe mat soaked in disinfectant.  
+>
+> 2. Disinfect your hands.  
+>
+> 3. Take off your jacket and hat in the next room.  
+>
+> 4. Remove your mask in the next room.  
+>
+> 5. Take off your socks and boots in the next room.  
+>
+> 6. Soak your feet in disinfectant and wash your hands twice in the next room.  
+>
+> 7. Wipe with mercury sublimate gauze in the next room.  
+>
+> 8. Remove Monpe and soak feet in Lysol liquid in the next room.  
+>
+> 9. Bathe and change all clothes. Gargle with disinfectant.  
 
  “I suppose they still stubbornly cling to that educational attitude at Okinawa Airakuen,” he said.
 
@@ -588,7 +480,7 @@ Students who wanted to take the exam had to submit a written report from a docto
 
  Gradually, an indescribable anger welled up in my chest.
 
-## The 31st Person to Pass the Exam.
+## The 31st Person to Pass the Exam
 
 “Ok, let's ask them to explain directly! Ryuji, I will write them a letter. I need to make it clear why I was rejected. If I go on like this, I don't know what I got out of Okinawa for.
 
@@ -604,43 +496,39 @@ Students who wanted to take the exam had to submit a written report from a docto
 
 I rewrote the letter to the Okayama Board of Education over and over again.
 
-To the Okayama Prefectural Board of Education
-
-Dear Sirs,
-
-January 20, 1961
-
-Please excuse my rudeness in writing to you directly. My name is Iha Toshio who applied to Okayama Prefectural Oku High School from Kagoshima.
-
-    We received the acceptance letter from you today, and I myself was rejected.
-
-    Mr. Morimoto Kazutoshi, the principal of the Hoshizuka Branch of Oaira Junior High School, attended the exam on January 20, and he told me, “Iha's test results were not inferior to those of other students. I cannot accept his failure this time.
-
-     I myself am confident about the results of the test. I just cannot accept the failure this time.
-
-     I heard that we contacted Oku High School directly about my rejection, but we did not receive a reply.
-
-     What was the purpose for the establishment of the Niirada class of Oku High School in the first place?
-
-     As Japanese citizens, lepers are entitled to equal educational opportunities. Was it not to realize this concept of the Basic Education Law? Have you not used Article 75-2 of the “School Education Law” and stipulated it as Article 14-2 in the new “Leprosy Prevention Law” to realize this spirit? If this failure is due to the test results, I will study harder and try again next year.
-
-   If this time's rejection is due to my physical functions, it is beyond my control, and there is nothing I can do about it.
-
-I really want to know the reason for the rejection. The results will allow me to clearly choose the path I should take in the future. However, if the rejection was due to the physical findings, I cannot regret it enough. I had done everything by myself, both in junior high school and in the group life of the boys' and girls' dormitories. It was the same with physical education. For physical reasons, I could not stand up to others, but I never gave up my own participation in physical education, not even once.
-
-If it is unjustified for me to study in the Niirada Class of Oku High School because of my physical condition, where should I go to study?
-
-Since the door of the school for lepers has been closed to me, which high school should I go to?
-
-Am I not the one who should go to Oku High School?
-
-Even though I am physically handicapped, I have continued to make my own way. Please do not judge me just because of my physical condition. Please examine the circumstances of my group life in the past and decide.
-
-Thank you very much.
-
-Sincerely yours,
-
-January 20, 1961
+> To the Okayama Prefectural Board of Education  
+> Dear Sirs,  
+>
+> Please excuse my rudeness in writing to you directly. My name is Iha Toshio who applied to Okayama Prefectural Oku High School from Kagoshima.  
+>
+> We received the acceptance letter from you today, and I myself was rejected.  
+>
+> Mr. Morimoto Kazutoshi, the principal of the Hoshizuka Branch of Oaira Junior High School, attended the exam on January 20, and he told me, “Iha's test results were not inferior to those of other students. I cannot accept his failure this time.  
+>
+> I myself am confident about the results of the test. I just cannot accept the failure this time.  
+>
+> I heard that we contacted Oku High School directly about my rejection, but we did not receive a reply.  
+>
+> What was the purpose for the establishment of the Niirada class of Oku High School in the first place?  
+>
+> As Japanese citizens, lepers are entitled to equal educational opportunities. Was it not to realize this concept of the Basic Education Law? Have you not used Article 75-2 of the “School Education Law” and stipulated it as Article 14-2 in the new “Leprosy Prevention Law” to realize this spirit? If this failure is due to the test results, I will study harder and try again next year.  
+>
+> If this time's rejection is due to my physical functions, it is beyond my control, and there is nothing I can do about it.  
+>
+> I really want to know the reason for the rejection. The results will allow me to clearly choose the path I should take in the future. However, if the rejection was due to the physical findings, I cannot regret it enough. I had done everything by myself, both in junior high school and in the group life of the boys' and girls' dormitories. It was the same with physical education. For physical reasons, I could not stand up to others, but I never gave up my own participation in physical education, not even once.  
+>
+> If it is unjustified for me to study in the Niirada Class of Oku High School because of my physical condition, where should I go to study?  
+>
+> Since the door of the school for lepers has been closed to me, which high school should I go to?  
+>
+> Am I not the one who should go to Oku High School?  
+>
+> Even though I am physically handicapped, I have continued to make my own way. Please do not judge me just because of my physical condition. Please examine the circumstances of my group life in the past and decide.  
+>
+> Thank you very much.  
+>
+> Sincerely yours,  
+> January 20, 1961  
 
 It was almost midnight when I finished writing the letter.
 
@@ -819,4 +707,3 @@ The total distance from Shibushi to Okayama was 806 kilometers, and even in thos
 Those hours I spent straddling the tracks from Kagoshima to Okayama have changed my way of thinking.
 
 -----I will definitely punch a hole in that unforgivable wall!
-

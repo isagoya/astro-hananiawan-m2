@@ -76,35 +76,24 @@ Then we came to the eastern end of Tama Zenshoen, where the greenery was thick. 
 
 “The late Mr. Shimada Hitoshi sent me his collection of poems, ‘Next Winter,’ as his will, which includes a wonderful piece called ‘Mona Lisa.’ Let me read it to you.
 
-       There is poison in the smile of Mona Lisa.
-
-    　 They say that Leonardo da Vinci
-
-       Put the danger of knowing everything
-
-       Into his paintings.
-
-       The one who was stolen his laughter from his face
-
-       In Counting the things she had lost
-
-       His fingers became crooked
-
-A man unable to live the granted life
-
-Becomes clumsy even in weeping
-
-Such words emerge from his mouth
-
-“Why did you bring me into the world?”
-
-       Oh, Mother,
-
-       Please forgive me for sitting in darkness
-
-       Leonard,
-
-       Indeed, you lived too early in the age.
+> There is poison in the smile of Mona Lisa.  
+> They say that Leonardo da Vinci  
+> Put the danger of knowing everything  
+> Into his paintings.
+>
+> The one who was stolen his laughter from his face  
+> In Counting the things she had lost  
+> His fingers became crooked
+>
+> A man unable to live the granted life  
+> Becomes clumsy even in weeping  
+> Such words emerge from his mouth  
+> “Why did you bring me into the world?”
+>
+> Oh, Mother,  
+> Please forgive me for sitting in darkness  
+> Leonard,  
+> Indeed, you lived too early in the age.
 
  My son stood still with his shaking body.
 
@@ -296,25 +285,16 @@ My elder brother began to play the sanshin and sing in front of us. Two kotos (t
 
  Elder sister Atuko and younger sister Chieko came out from the left side of the stage and began to dance.
 
-It was ‘‘Kagiyadefuu*1”
+It was ‘‘Kagiyadefuu[^1]”
 
-　　   What can we compare with
-
-       The happiness of today
-
-       It is like flowers in buds
-
-       Opening in the morning dew.
+> What can we compare with  
+> The happiness of today  
+> It is like flowers in buds  
+> Opening in the morning dew.
 
 “Ah, how I wish I could have swung the souls of Ryou and Yui in this sound and blood bond.
 
-＊1 Kagiyadefuu Bushi(Tune)’ is the dance performed at the opening of happy
-
- celebrations. Also called ‘Gujinfuu’. It is named after the music played in front of
-
- the Ryukyu king. There are five imperial tunes: ‘Unnna-bushi’, ‘Nagaiheya Bushi’,
-
-‘Nakagusukuhantame Bushi’, ‘Kotei Bushi’ and ‘Kagiyadefuu-Bushi’
+[^1]: Kagiyadefuu Bushi(Tune)’ is the dance performed at the opening of happy celebrations. Also called ‘Gujinfuu’. It is named after the music played in front of the Ryukyu king. There are five imperial tunes: ‘Unnna-bushi’, ‘Nagaiheya Bushi’,‘Nakagusukuhantame Bushi’, ‘Kotei Bushi’ and ‘Kagiyadefuu-Bushi’
 
 ## The Family
 

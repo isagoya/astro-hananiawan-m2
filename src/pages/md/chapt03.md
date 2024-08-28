@@ -48,15 +48,11 @@ Father Kishimoto’s voice echoed through the hallway, and we all headed off to 
 
 The marble monument under the trees at the corner of the site is inscribed with the school song.
 
-Hope and confidence, morning and evening.
-
-        The bell of the forest, ring and tell the message
-
-        Friends, take hands encourage each other,
-
-        In the rainy mornings, even in the windy nights.
-
-        Let’s devote ourselves to the path of learning
+> Hope and confidence, morning and evening.  
+> The bell of the forest, ring and tell the message  
+> Friends, take hands encourage each other,  
+> In the rainy mornings, even in the windy nights.  
+> Let’s devote ourselves to the path of learning  
 
 Next to the school song was the bell, which rang out the time to the children. The bell was given to the school from the donation for the reconstruction of the war-damaged school during the time when Mr. Yara Chōbyō was the president of the Okinawa Teachers Association.
 
@@ -286,15 +282,11 @@ At the beach on the northern outskirts of Airakuen, the children were excited al
 
 As the sun set, everyone held hands around the blazing campfire and sang the dormitory song.
 
-In the flower garden of a small island,
-
-High hopes of innocent children
-
-Can not be wrapped up in small bodies
-
-Children of the wind, children of the rain, children of the light,
-
-Sing, boys and girls of the dormitory.
+> In the flower garden of a small island,
+> High hopes of innocent children
+> Can not be wrapped up in small bodies
+> Children of the wind, children of the rain, children of the light,
+> Sing, boys and girls of the dormitory.
 
 As we finish singing the third verse, Dad Kishimoto called us to sit down with a loud voice.
 

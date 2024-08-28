@@ -102,29 +102,17 @@ Our greeting was very tense.
 
  From the wedding speeches we can learn how the couple between a former Hansen's disease patient and a staff of the sanatorium created ripples around.
 
-      A man suffering from Hansen's disease and a woman caring for him will be
-
-married with the blessing of their parents. They will be married with the
-
-praise of their teachers and many friends from their past.
-
-     They will build their castle of transparent love and another layer of love around them. Many minds, groaning under unjustified prejudice and discrimination, stick through the couple with one direction.
-
-                (Shirabe Kazuoki, current president of Tokyo Colony)
-
-The people who turned our questions into determination, our loneliness into searing heat.
-
-The people who prepared us for change,
-
-The people who led us to the wider world of action, to the joy of being alive and the passion of gratitude and compassion for those who kept us alive and nurtured us from the deep abyss of questioning why we are alive and why we were born.
-
-Please observe the height of the flame of the corona into which we are growing.
-
-In response to the thousands of suns circling to support the turning point  of our lives.
-
-Please empower us with your living traditions for our willingness to keep burning!
-
-(Shimada Hitoshi, Hansen’s Poets Group)
+> A man suffering from Hansen's disease and a woman caring for him will be married with the blessing of their parents. They will be married with the praise of their teachers and many friends from their past.  
+> They will build their castle of transparent love and another layer of love around them. Many minds, groaning under unjustified prejudice and discrimination, stick through the couple with one direction.  
+> (Shirabe Kazuoki, current president of Tokyo Colony)
+>
+> The people who turned our questions into determination, our loneliness into searing heat.  
+> The people who prepared us for change,  
+> The people who led us to the wider world of action, to the joy of being alive and the passion of gratitude and compassion for those who kept us alive and nurtured us from the deep abyss of questioning why we are alive and why we were born.  
+> Please observe the height of the flame of the corona into which we are growing.  
+> In response to the thousands of suns circling to support the turning point  of our lives.  
+> Please empower us with your living traditions for our willingness to keep burning!  
+> (Shimada Hitoshi, Hansen’s Poets Group)
 
 ## Human Archipelago (NHK TVProgram:Various Lifestyles)
 
@@ -527,4 +515,3 @@ Even though he had drunk so much, his step was firm.
 Zow Zow Zack
 
 Wave Crest in a belt was absorbed into the seashore with its sound.
-

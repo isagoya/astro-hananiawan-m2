@@ -384,7 +384,7 @@ In the consultation room, I was half naked, surrounded by the director, Yajima R
 
  Dr. Hirako reported about me.
 
- “The applicant did not need to take Dapsone (DDS)*1 for eight years. The test results of his whole tissue samples show his perfect recovery.”
+ “The applicant did not need to take Dapsone (DDS)[^1] for eight years. The test results of his whole tissue samples show his perfect recovery.”
 
  Finally, Director Yazaki examined me by touch and announced.
 
@@ -410,5 +410,4 @@ Dr. Hirako called to me as he wrote on my medical report.
 
 “Thank you very much. But I have no intention of going through that gate again!
 
-*1 In 1943, the American Faget announced that a derivative of the sulfonamide drug Promin was effective as a treatment for leprosy. In Japan, after the war, Morizo Ishidate, a former professor at the University of Tokyo, succeeded in synthesizing the drug. Promin was injected intravenously. Subsequently, Dapsone was developed as an oral drug, paving the way for outpatient treatment. Rifampicin was subsequently developed. Since 1983, multidrug combination therapy (DDS, B663, and rifampicin) has been the mainstay of treatment. With this combination therapy, leprosy loses its infectivity in a few days.
-
+[^1]: In 1943, the American Faget announced that a derivative of the sulfonamide drug Promin was effective as a treatment for leprosy. In Japan, after the war, Morizo Ishidate, a former professor at the University of Tokyo, succeeded in synthesizing the drug. Promin was injected intravenously. Subsequently, Dapsone was developed as an oral drug, paving the way for outpatient treatment. Rifampicin was subsequently developed. Since 1983, multidrug combination therapy (DDS, B663, and rifampicin) has been the mainstay of treatment. With this combination therapy, leprosy loses its infectivity in a few days.

@@ -136,13 +136,10 @@ Dad Kishimoto hugged me and took out three envelopes from the back of a drawer. 
 
 ‟When the boarding ship is decided, send a telegram here. We have already in touch with them. You will surely be picked up at the port of Kagoshima. I already sent him a picture of you, Susumu.” The necessary information was on the paper.
 
-      Ishigaki Yaeo
-
-      Hoshizuka Keiaien
-
-      4204 Hoshizuka-cho, Kanoya Ward,
-
-      Kagoshima Prefecture
+> Ishigaki Yaeo  
+> Hoshizuka Keiaien  
+> 4204 Hoshizuka-cho, Kanoya Ward,  
+> Kagoshima Prefecture  
 
 ‟In this envelope is your graduation certificate. Give it to Mr. Ishigaki when you arrive in Keiaien. This is a temporary return permit I’ve prepared for you, just in case. I asked Mr. K. to write it for me before he retired.”
 

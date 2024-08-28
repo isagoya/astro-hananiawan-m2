@@ -1,7 +1,5 @@
 ---
-
-titel: Seto Island Sea -->
-
+title: Seto Island Sea
 ---
 
 <!-- # Seto Island Sea -->
@@ -106,23 +104,17 @@ As I was leaving the room, Dr. Hashizume called out to me
 
 That evening, I was preparing for my Chinese literature class in my room. Since Mr. Arai had been called on in yesterday's class, I was sure next would be my turn, according to the seating order.
 
-    The nation is broken, though mountains and rivers remain.
-
-In cities in the Spring, the grass and trees grow deeply.
-
-Sensing the moment, flowers shed tears.
-
-Hating the separation, birds are fearful at heart.
-
-The beacons have burnt continuously for three months.
-
-A letter from home is worth ten-thousand pieces of gold.
-
-My white hair is even scarcer from scratching.
-
-And can barely hold a hairpin. 
-
-(https://eastasiastudent.net/china/classical/du-fu-spring-view/ )
+> The nation is broken, though mountains and rivers remain.  
+> In cities in the Spring, the grass and trees grow deeply.  
+> Sensing the moment, flowers shed tears.  
+> Hating the separation, birds are fearful at heart.  
+> The beacons have burnt continuously for three months.  
+> A letter from home is worth ten-thousand pieces of gold.  
+> My white hair is even scarcer from scratching.  
+> And can barely hold a hairpin.  
+>
+> [chinese classical "du-fu-spring-view"](https://eastasiastudent.net/china/classical/du-fu-spring-view/)
+>
 
  “Good evening. Is this Mr. Iha's room?”
 
@@ -300,7 +292,7 @@ Dr. Hashizume stood next to my bed in his ordinary clothes with an excited face.
 
  The first surgery took place.
 
-The pronator teres muscle*1 was separated from the radius*2, and the flexor carpi radialis muscle was separated from the medial wrist joint. The flexor carpi radialis muscle was pulled out between the radius and ulna*3 to the dorsal side of the hand and divided into two, then the pronator teres muscle was connected to the extensor carpi radialis brevis and extensor carpi radialis longus muscles. One of the separated flexor carpi radialis muscles was attached to the extensor pollicis longus muscle*4, another one was attached to the extensor digitorum communis*5 , extensor digitorum propria*6 and extensor digiti mini. Then part of the tendon of the flexor carpi longus muscle was torn off and attached to the tendon of the abductor pollicis longus muscle to improve support for the thumb, and that was the end of the surgery.
+The pronator teres muscle[^1]: was separated from the radius[^2]:, and the flexor carpi radialis muscle was separated from the medial wrist joint. The flexor carpi radialis muscle was pulled out between the radius and ulna[^3]: to the dorsal side of the hand and divided into two, then the pronator teres muscle was connected to the extensor carpi radialis brevis and extensor carpi radialis longus muscles. One of the separated flexor carpi radialis muscles was attached to the extensor pollicis longus muscle[^4]:, another one was attached to the extensor digitorum communis[^5]: , extensor digitorum propria[^6]: and extensor digiti mini. Then part of the tendon of the flexor carpi longus muscle was torn off and attached to the tendon of the abductor pollicis longus muscle to improve support for the thumb, and that was the end of the surgery.
 
  Three weeks later, the cast was cut and the stitches removed.
 
@@ -338,7 +330,7 @@ They separated the flexor digitorum superficialis muscle of the third finger at 
 
  The third flexor digitorum superficialis is separated at the base of the finger, drawn out to the appendage site of the palm, quartered, and connected to the index, middle, ring, and the fourth finger.
 
- The third surgery would be completed with an opposite plasty for the thumb, using the flexor digitorum superficialis muscle of the fourth finger*7.
+ The third surgery would be completed with an opposite plasty for the thumb, using the flexor digitorum superficialis muscle of the fourth finger[^7]:.
 
 The same procedure was performed on the right hand.
 
@@ -352,19 +344,19 @@ I grabbed the ball and threw it.
 
 The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 
-*1 Rotator cirrus muscle: A muscle running from the end of the radius to the ulnar (little finger) side of the elbow on the front surface of the forearm, which twists the forearm inwards (palm facing downwards).
+[^1]: Rotator cirrus muscle: A muscle running from the end of the radius to the ulnar (little finger) side of the elbow on the front surface of the forearm, which twists the forearm inwards (palm facing downwards).
 
-*2 Radius: Tubular long bone on the outer side of the forearm.
+[^2]: Radius: Tubular long bone on the outer side of the forearm.
 
-*3 Ulna Tubular: long bone located on the inner side of the forearm along with the radius.
+[^3]: Ulna Tubular: long bone located on the inner side of the forearm along with the radius.
 
-*4 Extensor: digitorum longus muscle Functions to extend the thumb.
+[^4]: Extensor: digitorum longus muscle Functions to extend the thumb.
 
-*5 Extensor: digitorum totalis muscle A long muscle on the dorsal aspect of the forearm that functions to extend the index, middle, ring, and little fingers.
+[^5]: Extensor: digitorum totalis muscle A long muscle on the dorsal aspect of the forearm that functions to extend the index, middle, ring, and little fingers.
 
-*6 Intrinsic instruction extensor muscle: which functions to extend the index finger alone.
+[^6]: Intrinsic instruction extensor muscle: which functions to extend the index finger alone.
 
-*7 Superficial flexor of the third(fourth) finger Function to flex the middle joint of the middle and ring fingers
+[^7]: Superficial flexor of the third(fourth) finger Function to flex the middle joint of the middle and ring fingers
 
 原文p.156　図1,2,3
 
@@ -478,7 +470,7 @@ The Niirada Class had not been allowed to go on field trips since its founding.
 
 What stood in our way was the Leprosy Prevention Law. People who were called “patients” were allowed to leave the sanatorium only after they had been examined by a doctor and had received “permission to leave” or “permission to temporarily return home”.
 
-Since the founding of the school, it had been the earnest wish of all the students to have a school trip, but every year it had been denied. There were three reasons. 
+Since the founding of the school, it had been the earnest wish of all the students to have a school trip, but every year it had been denied. There were three reasons.
 
  First problem. Each of us had to get a “diagnostic permit” to go out. In one class, some were “allowed” and others “not allowed” depending on their individual symptoms, which made it impossible to do a group activity as a class.
 
@@ -734,35 +726,21 @@ I also studied there for five years. I was enrolled for five years in a four-yea
 
 There is a song that has long been my encouragement when I have lost my way and people, or myself. It is the school song of Niirada, Oku High School. The Niirada Class of Oku High School, which has this school song, is the starting point of my spirit.
 
-      The sky over Green Island is clear.
-
-The Seto Sea leading to the world
-
-The youth with high ideals,
-
-United here in Niirada
-
-There is hope for us who learn.
-
-Red tiles shine in the sunset
-
-The sound of the bell echoes in our hearts
-
-Youth with an important mission,
-
-Seeking the eternal truth
-
-There is pride for us who learn.
-
-The beach breeze is fragrant on the rough shore
-
-White walls shine in the morning sun
-
-Youth bound with firm vows
-
-Seeking the light of peace
-
-There is diligence for us who learn.
+> The sky over Green Island is clear.  
+> The Seto Sea leading to the world  
+> The youth with high ideals,  
+> United here in Niirada  
+> There is hope for us who learn.  
+> Red tiles shine in the sunset  
+> The sound of the bell echoes in our hearts  
+> Youth with an important mission,  
+> Seeking the eternal truth  
+> There is pride for us who learn.  
+> The beach breeze is fragrant on the rough shore  
+> White walls shine in the morning sun  
+> Youth bound with firm vows  
+> Seeking the light of peace  
+> There is diligence for us who learn.  
 
 In the spring of 1987, I received the commemorative publication ‘Niirada,’ a cloth-covered book in a box, sent by the Committee for the Commemoration of the Closing of the School. According to the book, 280 of the 307 graduates returned to society.
 
@@ -785,4 +763,3 @@ It should have been to develop human resources to break through the “unjustifi
 Outrageous! The 307 students gave their brilliant answers after 32 years by erasing their names and faces.
 
 The "soul" of the group, repeatedly rejected, will remain closed forever.
-
