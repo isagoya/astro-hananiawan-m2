@@ -54,7 +54,7 @@ So does Christianity. The Bible says that Hansen’s disease appears as a work o
 >
 > “This is the law for any leprous sore and scale, for the leprosy of　garmentand of a house, for a swelling and a scab and a bright spot, to  teach when it is unclean and when it is clean. This is the law of leprosy.”This is the law for any leprous sore and scale.” (ibid.54-57)
 
-＜引用の訳が抜けている＞
+<引用の訳が抜けている　p299,p300>
 
 According to the study by Arai Eiko, the word “leprosy” appears 55 times in the Old Testament and 13 times in the New Testament. (‘Hansen’s Disease and Christianity’ pp. 138,149; Iwanami-Shoten). The Canon law in the medieval England, Hansen’s disease patients were held funerals while they were alive and erased from their society. The status of Hansen’s disease in Christianity is said to have two meanings, “divine punishment” and “divine blessing,” but a common point is that both understand Hansen’s disease as the most terrible of all. Even though the Japan Bible Society only changed the word “leprosy” to “serious skin disease” in the Old Testament (1987) and the New Testament (1997), they have not yet made it clear that they re-examined or reflected on the interpretation of “leprosy” that their doctrine positioned, or their own shame in putting their hands in the movement of eradication through isolation.
 
