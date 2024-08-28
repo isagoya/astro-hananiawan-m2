@@ -1,6 +1,6 @@
 ---
 
-const { title, num } = Astro.props;
+const { title, num, description } = Astro.props;
 // console.log("header_num", num)
 const imageUrl = "/assets/images/hananiawan-" + num + ".png"
 ---
@@ -8,7 +8,7 @@ const imageUrl = "/assets/images/hananiawan-" + num + ".png"
 <header>
     <div class="main-chapter row justify-content-end">
         <div id="chapter_num" style="visibility: hidden;">{num}</div>
-        <h1 id={title}>{title}</h1>
+        <h1 id={title}>{title}<br>{description}</h1>
         <!-- chpter num が12以上になったら画像を表示しない -->
         {num >= 12 ? '' : <div class="fig"><img src={imageUrl} alt="cover"></div>}
     </div>

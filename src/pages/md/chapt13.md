@@ -2,7 +2,7 @@
 title: Supplement 2 The Silence of Damien
 ---
 
-## Supplement 2   The Silence of Damien
+## Suppl.2   The Silence of Damien
 
 The lights in the auditorium faded and the hymn began to play. There was the voice of Father Damien from the stage of total darkness.
 

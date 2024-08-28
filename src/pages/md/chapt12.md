@@ -1,7 +1,7 @@
 ---
 title: Supplement 1 About face!
 ---
-## Supplement 1 About face
+## Suppl.1 About face
 
 I opened my PC to find an e-mail from my son. After a short greeting, there were questions about Hansen’s disease. I immediately started typing the answers into the computer.
 

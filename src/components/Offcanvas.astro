@@ -25,10 +25,10 @@ const title = 'Hana ni Awan • meet the flowers';
             // console.log(anchor, index);
             if ( index == 0 || index == 1 ) {
               anchor = "../" + "#" + chapter.fileName.toLowerCase().replaceAll(" ", "-");
-              return <li class="accordion-item"><a href={anchor}>{chapter.title}</a></li>
+              return <li class="accordion-item"><a href={anchor}>{chapter.title}<br>{chapter.subAlias}</a></li>
             } else if ( index == 13 || index == 14 ) {
               // anchor = "/" + chapter.fileName + "/" + "#" + chapter.title.toLowerCase().replaceAll(" ", "-");
-              return <li class="accordion-item"><a href={anchor}>{chapter.title}</a></li>
+              return <li class="accordion-item"><a href={anchor}>{chapter.title}<br>{chapter.subAlias}</a></li>
             } else {
             return <li class="accordion-item">
             <div class="accordion-header" id={"headingOne" + chapter.fileName}>
@@ -40,13 +40,14 @@ const title = 'Hana ni Awan • meet the flowers';
             <div id={"collapse-" + chapter.fileName} class="accordion-collapse collapse" aria-labelledby={"heading-" + chapter.fileName} data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <ul>
-                  {chapter.subChapters.map((subChapter) => {
+                  {chapter.subChapters.map((subChapter, i) => {
                     if (subChapter == chapter.subChapters[0]) {
                       anchor = "/" + chapter.fileName + "/#";
                     } else {
-                    anchor = "/" + chapter.fileName + "/#" + subChapter.toLowerCase().replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").replaceAll("’", "").replaceAll(':', '');
+                    anchor = "/" + chapter.fileName + "/#" + (subChapter + '-' + chapter.subAlias[i]).toLowerCase().replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").replaceAll("’", "").replaceAll(':', '');
                     }
-                  return <li><a href={anchor}>{subChapter}</a></li>
+                    // console.log(chapter.subAlias[i]);
+                  return <li><a href={anchor}>{subChapter}<br>{chapter.subAlias[i]}</a></li>
                   })}
                 </ul>
               </div>

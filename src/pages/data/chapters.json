@@ -1,97 +1,131 @@
 [
   {
     "title": "Prologue",
+    "description": "",
     "subChapters": [],
+    "subAlias": [],
     "fileName": "index"
   },
   {
     "title": "Table of Contents",
+    "description": "",
     "subChapters": [],
+    "subAlias": [],
     "fileName": "index"
   },
   {
     "title": "Single File",
+    "description": "",
     "subChapters": ["Mt.Oppadake", "Minamidaito Island", "Single  File", "Tōnuka Cave"],
+    "subAlias": [],
     "fileName": "chapt-1"
   },
   {
     "title": "Yagaji Island",
-    "subChapters": ["Deigo Flower（Indian Coral Tree）", "Sanyama-bushi (Ryukyuan Classical Music)", "My Father’s Back", "Sata Andagi (Okinawan Doughnut)" ],
+    "description": "",
+    "subChapters": ["Deigo Flower", "Sanyama-bushi", "My Father’s Back", "Sata Andagi" ],
+    "subAlias": ["（Indian Coral Tree）", "(Ryukyuan Classical Music)", "", "(Okinawan Doughnut)"],
     "fileName": "chapt-2"
   },
   {
     "title": "Mangrove",
+    "description": "",
     "subChapters": ["The First thing in the morning, Paranku", "Slender Hands", "Visiting Day", "Torrent of my Soul", "Scorebrand Memorial Hill", "School for Seven Students"],
+    "subAlias": [],
     "fileName": "chapt-3"
   },
   {
-    "title": "Ninguwachikajimai (Monsoon in February)",
+    "title": "Ninguwachikajimai",
+    "description": "(Monsoon in February)",
     "subChapters": ["Escape", "Flashing Light", "One-Way Passport"],
+    "subAlias": [],
     "fileName": "chapt-4"
 
   },
   {
     "title": "Airano",
+    "description": "",
     "subChapters": ["Smoke from Sakurajima Volcano", "Forced Repatriation", "Connected Route", "Evening Primrose", "Notice of Rejection", "The 31st Person to Pass the Exam", "Railway Track in the Dark", "Because Transporting Infected Patients"],
+    "subAlias": [],
     "fileName": "chapt-5"
 
   },
   {
     "title": "Seto Island Sea",
+    "description": "",
     "subChapters": ["Oku High School Niirada Class", "Blue Blade", "Modified Man", "Informed Consent", "Bonds of Okinawa", "Wall after Wall", "Rejection", "The Ticket", "Erased Faces"],
+    "subAlias": [],
     "fileName": "chapt-6"
 
   },
   {
     "title": "Stigma",
+    "description": "",
     "subChapters": ["The Gate of Holly Tree", "In My Pockets", "Soft Landing", "The way back"],
+    "subAlias": [],
     "fileName": "chapt-7"
 
   },
   {
     "title": "Human Rainbow",
+    "description": "",
     "subChapters": ["Our Pledge", "Blue Partition", "Workplace Discussion", "Bottom of Bowl", "Human Shape"],
+    "subAlias": [],
     "fileName": "chapt-8"
 
   },
   {
+    "description": "",
     "title": "Sand House",
-    "subChapters": ["Ripples", "Human Archipelago (NHK TVProgram:Various Lifestyles)", "Quicksand", "Wave Crest"],
+    "subChapters": ["Ripples", "Human Archipelago", "Quicksand", "Wave Crest"],
+    "subAlias": ["", "(NHK TVProgram:Various Lifestyles)", "", ""],
     "fileName": "chapt-9"
   },
   {
     "title": "Underground Stem",
+    "description": "",
     "subChapters": ["Nameplate", "Underground  Stem"],
+    "subAlias": [],
     "fileName": "chapt-10"
 
   },
   {
-    "title": "Kagiyadefuu (Ryukyuan Dance for a Feast)",
-    "subChapters": ["Group of Urns", "Threads of Perception", "Kagiyadefuu (Ryukyuan Dance for a Feast)", "The Family"],
+    "title": "Kagiyadefuu",
+    "description": "(Ryukyuan Dance for a Feast)",
+    "subChapters": ["Group of Urns", "Threads of Perception", "Kagiyadefuu", "The Family"],
+    "subAlias": ["", "", "(Ryukyuan Dance for a Feast)", ""],
     "fileName": "chapt-11"
 
   },
   {
-    "title": "Supplement 1 About face!",
+    "title": "Suppl.1 About face!",
+    "description": "",
     "subChapters": [],
+    "subAlias": [],
     "fileName": "chapt-12"
 
   },
   {
-    "title": "Supplement 2 The Silence of Damien",
+    "title": "Suppl.2 The Silence of Damien",
+    "description": "",
     "subChapters": [],
+    "subAlias": [],
     "fileName": "chapt-13"
 
   },
   {
     "title": "References",
+    "description": "",
     "subChapters": [],
+    "subAlias": [],
     "fileName": ""
 
   },
   {
     "title": "Afterword",
+    "description": "",
     "subChapters": [],
+    "subAlias": [],
     "fileName": ""
 
   }
