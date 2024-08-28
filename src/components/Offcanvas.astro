@@ -20,11 +20,14 @@ const title = 'Hana ni Awan • meet the flowers';
       <div>
         <p><a href="/#"><strong>{title}</strong></a></p>
         <ul>
-          {chapters.slice(0, 13).map((chapter, index) => {
+          {chapters.slice(0, 15).map((chapter, index) => {
             let anchor = "../" + chapter.fileName + "/#" + chapter.title.toLowerCase().replaceAll(" ", "-");
-            // console.log(anchor);
-            if ( index == 0 || index == 1) {
-              anchor = "../" + "#" + chapter.title.toLowerCase().replaceAll(" ", "-");
+            // console.log(anchor, index);
+            if ( index == 0 || index == 1 ) {
+              anchor = "../" + "#" + chapter.fileName.toLowerCase().replaceAll(" ", "-");
+              return <li class="accordion-item"><a href={anchor}>{chapter.title}</a></li>
+            } else if ( index == 13 || index == 14 ) {
+              // anchor = "/" + chapter.fileName + "/" + "#" + chapter.title.toLowerCase().replaceAll(" ", "-");
               return <li class="accordion-item"><a href={anchor}>{chapter.title}</a></li>
             } else {
             return <li class="accordion-item">
