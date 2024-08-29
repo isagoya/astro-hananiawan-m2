@@ -1,4 +1,5 @@
 ---
+import { string } from 'astro/zod';
 import chapters from '../pages/data/chapters.json';
 const title = 'Hana ni Awan • meet the flowers';
 ---
@@ -41,14 +42,27 @@ const title = 'Hana ni Awan • meet the flowers';
               <div class="accordion-body">
                 <ul>
                   {chapter.subChapters.map((subChapter, i) => {
+                    let outputHtml : string;
+                    function setAnchorName(aaa){
+                      const anchorName = aaa.toLowerCase().replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").replaceAll("’", "").replaceAll(':', '');
+                      return anchorName;
+                    }
+                    // 一行目のサブチャプターは章頭にリンクする
                     if (subChapter == chapter.subChapters[0]) {
                       anchor = "/" + chapter.fileName + "/#";
+                      outputHtml = <li><a href={anchor}>{subChapter}</a></li>;
                     } else {
-                      chapter.subAlias[i] == '' ? subChapter : subChapter += chapter.subAlias[i];
-                      anchor = "/" + chapter.fileName + "/#" + subChapter.toLowerCase().replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").replaceAll("’", "").replaceAll(':', '');
+                      // 長いサブチャプターの名前は折り返えして表示する
+                      if (chapter.subAlias[i] != "") {
+                        anchor = "/" + chapter.fileName + "/#" + setAnchorName(subChapter + " " + chapter.subAlias[i]);
+                        outputHtml = <li><a href={anchor}>{subChapter}<br>{chapter.subAlias[i]}</a></li>;
+                      } else {
+                        anchor = "/" + chapter.fileName + "/#" + setAnchorName(subChapter);
+                        outputHtml = <li><a href={anchor}>{subChapter}</a></li>;
+                      }
                     }
-                    console.log(anchor);
-                  return <li><a href={anchor}>{subChapter}<br>{chapter.subAlias[i]}</a></li>
+                    {/* console.log(subChapter); */}
+                    return outputHtml;
                   })}
                 </ul>
               </div>
@@ -56,7 +70,6 @@ const title = 'Hana ni Awan • meet the flowers';
           </li> <!-- end .acordion-item -->
           }
           })}
-
         </ul>
       </div>
     </div>  <!-- end .acodion -->
