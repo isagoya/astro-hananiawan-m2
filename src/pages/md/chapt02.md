@@ -86,7 +86,6 @@ He slapped me on the cheek. Tears streamed from his eyes as he continued slappin
 
 My eyes, blurred with tears, saw the Deigo flowers overhanging the fence. Over my father's shoulder, I could clearly see the red petals of the Deigo flowers.
 
-
 ## Sanyama-bushi (Ryukyuan Classical Music)
 
   In October 1956, I returned to the first grade of junior high school.
@@ -123,7 +122,6 @@ At six in the morning, I tied the rope to the beam of the outside latrine. Just 
 
 "Oh... no... "
 
-
 In a great hurry, I removed the rope, wrapped it around my waist, covered it with my shirt, and then switched with her.
 
 The column clock of Central Hospital struck 9:00.
@@ -148,7 +146,6 @@ My grandmother uttered a voice that sounded like a scream as she listened to his
 
 Then she stood up with a loud clucking of her tongue and walked in front of me without saying a word to me. My grandmother was still proud of her samurai family, the Iha family, as she used to say. The only pride she had fell to the ground when her grandson was declared a leper.
 
-
 "Toshio, come and sit here."
 
 My father sat me down in front of the Buddhist altar. Then he took out a vermilion-painted sanshin (Okinawan traditional three-stringed instrument) box from the back of the closet. He had cut off the strings of sanshin by himself when his second son Okinori committed suicide at the age of 22 in August 1953.
@@ -162,7 +159,6 @@ Then he began to sing in a low, long, muffled voice. My grandmother leaned her b
 "Makotoka... jichika... wa... chimu... furi... burrito..."
 
 As a 14-year-old boy, that was all I could remember what came out from his mouth. With this faint memory as a clue, I searched for the lyrics of that time. Only after 40 years I could find out the lyrics.
-
 
 "Brother, I'm looking for some Ryukyuan song. Do you have any book that will be of my help?"
 
@@ -199,7 +195,6 @@ There was no doubt. It was this "Sanyamabushi" that my father had sung.
 The image of my father at that time came back from the depths of my memory.
 
 The Sanyama-bushi pierced my memory of that time. I wondered if what was happening to me was real? If so, I hope it is a daydream.
-
 
 ## My Father's Back
 
@@ -309,7 +304,6 @@ My father stared at me in silence and did not try to get up from his chair.
 
 "I know your heartache to leave him, but, now "
 
-
  Being urged again, my father finally got up and bowed deeply to him.
 
 "Well, take care of my son, please."
@@ -318,7 +312,6 @@ My father stared at me in silence and did not try to get up from his chair.
 
 From inside the gate, I watched my father walk away with his back arched.
 
-
 In the consulting room, a doctor and a nurse with masks and prophylactic gowns were waiting for me.
 
 "Come and sit here. Your new name is nice, isn't it? Susumu Sekiguchi, from now on you are Susumu Sekiguchi."
@@ -326,7 +319,6 @@ In the consulting room, a doctor and a nurse with masks and prophylactic gowns w
 "Ah!"
 
 On the doctor's chest was the name plate "Tajiri Isamu", which I saw yesterday.
-
 
 ## Sata Andagi (Okinawan Doughnut)
 
@@ -393,7 +385,6 @@ I could not move an inch for a while. Sweat powered out from my neck and forehea
 
 "No! "
 
-
 After a while, I found myself running upstairs to the bathroom with the Sata Andagi in my hand.
 
 The concrete toilet had an oval hole in it, and when I looked down, I could see a pale light shining in the side strip from the downstairs light fixture.
@@ -422,7 +413,6 @@ My sobbing was absorbed by the dimly lit chapel.
 
 That person was Aoki Keisai, the evangelist.
 
-
 Evangelist Aoki Keisai (1893-1969) was ordained as deacon in 1966. He was sent as a missionary to the lepers in Okinawa in 1927 at the age of 34 by Miss Eda Hanna Liddel, the director of the Kumamoto Kaishun Hospital. Deeply sympathized with the misery of the patients who had the same disease with him, driven out of their villages to hide into caves, he came to the conclusion that they needed a place to live in peace besides faith, and he stayed in Okinawa to find out the place for them.
 
 By 1909, five public leprosy sanatoriums had been established on the mainland. Okinawa Prefecture, the poorest prefecture in Japan at the time, had more than three times as many leprosy patients as any other prefecture on the mainland. Nevertheless, the establishment of sanatoriums was not realized because since 1910, the authorities of Okinawa Prefecture had repeatedly promoted plans to establish sanatoriums, but whenever the proposed site came to light, local residents fiercely opposed to the plan, despite the exercise of strong public authority.
@@ -438,7 +428,6 @@ But the place where the patients had finally arrived was not for a peaceful life
 "Father, forgive them." Evangelist Aoki prayed as he hid in the Pandanus trees.
 
 Three years later, his life's work was finally rewarded. In 1938, Okinawa Prefecture overcame the opposition of local residents and completed "Kunigami Airakuen. It was built on the wasteland purchased by Aoki and the adjacent land purchased by Okinawa MTL (Mission to Lepers - the organization for Christian mission, visitation and leprosy awareness) in the name of Rev. Hattori Danjiro.
-
 
 　I met Evangelist Aoki in 1957 when he had already lost both legs and the fingers of both hands. It was as if he was carrying the heavy burden all over his body in exchange for the salvation of the lepers in Okinawa.
 
