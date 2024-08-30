@@ -20,18 +20,32 @@ const title = "Table of Contents";
 						<li>
 							<a href={anchor}>{chapter.title}</a>
 							<ul>
-								{chapter.subChapters.map((subChapter) => {
-									anchor =
-										chapter.fileName +
-										"/#" +
-										subChapter
-											.toLowerCase()
-											.replaceAll(" ", "-");
-									return (
-										<li>
-											<a href={anchor}>{subChapter}</a>
-										</li>
-									);
+								{chapter.subChapters.map((subChapter, j) => {
+									if (chapter.subAlias[j] == '') {
+										anchor =
+											chapter.fileName +
+											"/#" +
+											subChapter
+												.toLowerCase()
+												.replaceAll(" ", "-");
+										return (
+											<li>
+												<a href={anchor}>{subChapter}</a>
+											</li>
+										);
+									} else {
+										anchor =
+											chapter.fileName +
+											"/#" +
+											(subChapter + " " + chapter.subAlias[j])
+												.toLowerCase()
+												.replaceAll(" ", "-").replaceAll("(", "").replaceAll(")", "").replaceAll("’", "").replaceAll(':', '');
+										return (
+											<li>
+												<a href={anchor}>{subChapter} {chapter.subAlias[j]}</a>
+											</li>
+										);
+									}
 								})}
 							</ul>
 						</li>
