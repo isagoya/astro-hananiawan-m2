@@ -133,6 +133,7 @@ Kyusyu Federation of Bar Associations with the position to make it our mission t
 <dt>
 How did 5500 patients continue their activities?
 </dt>
+<dd>
 In 1953, when the Leprosy Prevention Law was enacted, the patients continued their protest activities for a month, but eventually the government’s original bill was approved. Then, in 1961, the National Council of Hansen’s Disease Patients (now the National Council of Hansen’s Disease Sanatorium Inmates: Zen Ryo Kyo) began its activities with the decision to “Start the Movement to Demand the Complete Revision of the Leprosy Prevention Law”. In 1995, they held the 45th Extraordinary Branch Heads’ Meeting and put forward 9 basic demands to promote the revision movement.
 
 1. We demand that the Japanese government and the Ministry of Health and Welfare recognize that the policy of forced isolation violates basic human rights under the Constitution and provide compensation for mental, physical, and material damages.
@@ -164,6 +165,7 @@ It can be seen that the content of the problems requested by patient groups has 
 “If we had acted only for the sake of compensation, we could not have achieved our present daily life and welfare standards, the fulfillment of medical care and nursing”.
 
  In this way, the “Leprosy Prevention Law” came to an abrupt settlement without any clarification of the mistakes of the law itself or the responsibilities of the country.
+ </dd>
 
 <dt>
 What will happen to those who remain in sanatoriums from now on?
@@ -187,14 +189,14 @@ In Europe and America, the apologies are very clear. Former German President
 
 Richard Weizsäcker said, “Those who deny the past run the risk of repeating it.” Former U.S. President George H.W. Bush, in response to the passage of the Civil Liberties Act (Compensation for Wartime Incarceration, 1988), sent each of the 1.2 million Japanese Americans compensation money accompanied by letters.
 
-“Lost years and painful memories cannot be restored by words or money once given. Nor is it possible to convey our American decision to correct our unfair treatment of Japanese Americans and to respect their human rights.  
+> “Lost years and painful memories cannot be restored by words or money once given. Nor is it possible to convey our American decision to correct our unfair treatment of Japanese Americans and to respect their human rights.  
 We cannot fully correct the wrongs of our past, but we can acknowledge our injustice.  
 With the enactment of this law, we make it clear that our compensation for your damages and our sincere apologies are in keeping with the ideals of freedom, equality, and justice traditionally held by all Americans. For the benefit of all citizens and the future of their families.”
 
 One exception among the recent case studies is the perspective of the Japan Leprosy Prevention Society (now Hansen’s Disease Society) published on April 22, 1995. It is very easy to understand. It points out problems and responsibilities, and above all, it contains a sincere message to people concerned with Hansen’s disease.
 
-“...Supported by such nationalists who regarded leprosy as a national disgrace and the social defense theory to justify isolation, we were urged to take strong measures aimed at thoroughly eliminating the source of infection from society rather than at the salvation of patients.... From an epidemiological point of view, leprosy in our country could have been said to be on its way out, regardless of isolation...even the “old law”(Article 11) …had no need to be legislated. However, the “present law” was enacted without changing the basic principle of the “old law” (1953). At that time, the effect of Promin was already obvious, and the isolation of patients was rejected internationally.  
-...The Japan Leprosy Society would be required to seriously reflect on its neglect of such harshness on patients, listening to their painful cries of being torn apart from their families by forced isolation.
+> “...Supported by such nationalists who regarded leprosy as a national disgrace and the social defense theory to justify isolation, we were urged to take strong measures aimed at thoroughly eliminating the source of infection from society rather than at the salvation of patients.... From an epidemiological point of view, leprosy in our country could have been said to be on its way out, regardless of isolation...even the “old law”(Article 11) …had no need to be legislated. However, the “present law” was enacted without changing the basic principle of the “old law” (1953). At that time, the effect of Promin was already obvious, and the isolation of patients was rejected internationally.  
+...The Japan Leprosy Society would be required to seriously reflect on its neglect of such harshness on patients, listening to their painful cries of being torn apart from their families by forced isolation.  
 Additionally, since the leprosy measure is nothing more than a medical measure, it was really an irreparable and grave mistake to give priority to stirring up the fear of leprosy in order to make the growth of public opinion tolerate the forcible isolation.
 </dd>
 
