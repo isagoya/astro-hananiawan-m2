@@ -24,13 +24,13 @@ Last night, Masakazu had been fussy but now is fast asleep on my bed with his ba
 
 I started to put on him the shirt and pants I had prepared the night before, calling to him. After I finished dressing him, he did not seem to be fully awake.
 
-　Since there was no other way, I moved Masakazu on to the desk, which was about 40 centimeters long and 60 centimeters wide, and then put the bedclothes for both of us into the closet.
+Since there was no other way, I moved Masakazu on to the desk, which was about 40 centimeters long and 60 centimeters wide, and then put the bedclothes for both of us into the closet.
 
 “Masakazu, here, take your washing things...”
 
 I grabbed Masakazu’s sleeve and hurried to the washroom three rooms ahead of us. All this had to be done in about 15 minutes.
 
-　In the boys’ and girls’ dormitories, there lived dormitory father Kishimoto Masao, mother Minami Masako, brother Ishigaki Tamotsu and sister Shinjo Taeko, who took care of the children. There was an unwritten rule among us that children above the second year of junior high are assigned to share a room with the lower grades and take care of their daily lives. I was supposed to take care of Masakazu. I had to put a stop to Masakazu’s giggling and urged him to get out into the front yard in time for the 6:30 radio exercise. After washing their faces and hands, 24 elementary school students and 32 junior high school students (33 boys and 23 girls) spread out in the front yard.
+In the boys’ and girls’ dormitories, there lived dormitory father Kishimoto Masao, mother Minami Masako, brother Ishigaki Tamotsu and sister Shinjo Taeko, who took care of the children. There was an unwritten rule among us that children above the second year of junior high are assigned to share a room with the lower grades and take care of their daily lives. I was supposed to take care of Masakazu. I had to put a stop to Masakazu’s giggling and urged him to get out into the front yard in time for the 6:30 radio exercise. After washing their faces and hands, 24 elementary school students and 32 junior high school students (33 boys and 23 girls) spread out in the front yard.
 
 “Good morning,” said Tamotsu’s dorm brother. “This week, Yasuo’s group is on rabbit duty. Norio’s group is on food duty. Are you okay? Let’s have a good day.”
 
@@ -44,7 +44,7 @@ He gave the usual confirmation before the radio exercise. This was the beginning
 
 Father Kishimoto’s voice echoed through the hallway, and we all headed off to the school. Hansen’s disease children studied at Sumii Elementary and Junior High School, located inside the sanatorium.
 
-　The school opened in 1951, but the plan had run into a snag because the local board of education had not approved it. However, Yara Chōbyō, the director of education for the archipelago government (former governor of Okinawa Prefecture), who was passionate about ‟educational opportunities for sick children,” went so far as to change a law to remove the obstacles to opening the school and established a school directly under government control. It was closed in 1980 when the number of sick children was reduced to zero. Today, there is only a monument on the school grounds telling the story of the school.
+The school opened in 1951, but the plan had run into a snag because the local board of education had not approved it. However, Yara Chōbyō, the director of education for the archipelago government (former governor of Okinawa Prefecture), who was passionate about ‟educational opportunities for sick children,” went so far as to change a law to remove the obstacles to opening the school and established a school directly under government control. It was closed in 1980 when the number of sick children was reduced to zero. Today, there is only a monument on the school grounds telling the story of the school.
 
 The marble monument under the trees at the corner of the site is inscribed with the school song.
 
@@ -282,10 +282,10 @@ At the beach on the northern outskirts of Airakuen, the children were excited al
 
 As the sun set, everyone held hands around the blazing campfire and sang the dormitory song.
 
-> In the flower garden of a small island,
-> High hopes of innocent children
-> Can not be wrapped up in small bodies
-> Children of the wind, children of the rain, children of the light,
+> In the flower garden of a small island,  
+> High hopes of innocent children  
+> Can not be wrapped up in small bodies  
+> Children of the wind, children of the rain, children of the light,  
 > Sing, boys and girls of the dormitory.
 
 As we finish singing the third verse, Dad Kishimoto called us to sit down with a loud voice.
@@ -298,7 +298,7 @@ Mr. S. took off his school cap and tucked it under his armpit and began to talk.
 
 He closed his speech saying, ‟I am waiting for you.”
 
-　From then on, Oku High School became my main concern. I went to the library, took out newspapers and magazines, and transcribed articles about it. In the office of the community association, I read the publications of sanatoriums on the mainland one by one.
+From then on, Oku High School became my main concern. I went to the library, took out newspapers and magazines, and transcribed articles about it. In the office of the community association, I read the publications of sanatoriums on the mainland one by one.
 
 I caught Dad Kishimoto or Mr. Tokuda, the head of the community association, and bombarded them with questions.
 
@@ -308,7 +308,7 @@ I became obsessed with Oku High School in Okayama Prefecture as if I had a fever
 
 -----The minimum requirement to take the entrance exam was to be enrolled in a sanatorium on the mainland, and there was no way to do that in Okinawa. First of all, I had to go to the mainland. To go to the mainland, passport was required.
 
-　Since then, I have visited Mr. Tokuda over and over again.
+Since then, I have visited Mr. Tokuda over and over again.
 
 He said, ‟I feel sorry for you, Sekiguchi, but unfortunately there is nothing we can do at the moment. You see, Okinawa is under U.S. administration. And there are obstacles such as the Immigration Control Ordinance, big walls like the Immigration Control Law, the Quarantine Law, and the Leprosy Prevention Law. It is difficult for leprosy patients to get out of Airakuen, let alone it is almost impossible for us to cross over from Okinawa to the mainland...”
 
@@ -362,7 +362,7 @@ We sat down side by side on a bench.
 
 I had been hesitating how to broach the subject...At last I made up my mind.
 
-　‟I will graduate from junior high school next March, and since Airakuen doesn’t offer any education beyond that, I want to study, but I can’t keep up. I want to learn more and more. In Yamato (mainland), there is a high school in Okayama Prefecture where sick people like me can study. After I graduate from junior high school, I want to go to Yamato! Mom, please ask Dad!”
+‟I will graduate from junior high school next March, and since Airakuen doesn’t offer any education beyond that, I want to study, but I can’t keep up. I want to learn more and more. In Yamato (mainland), there is a high school in Okayama Prefecture where sick people like me can study. After I graduate from junior high school, I want to go to Yamato! Mom, please ask Dad!”
 
 My mother swallowed her words and did not answer me.
 
@@ -384,7 +384,7 @@ I thought, my mother did not tell it to my father, after all.
 
 ## School for Seven Students
 
-　Graduation was approaching. But I became impatient because my plan to go to Yamato was not progressing.
+Graduation was approaching. But I became impatient because my plan to go to Yamato was not progressing.
 
 Out of 8 classmates (3 boys and 5 girls), none of them were expected to recover from their illnesses and prospect to leave the sanatorium. There was a mood of giving up among them.
 

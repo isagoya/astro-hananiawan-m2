@@ -6,7 +6,7 @@ title: Ninguwachikajimai (Monsoon in February)
 
 ## Escape
 
-　It was after four o’clock in the afternoon when my father suddenly appeared at the home of his second daughter, Kinue.
+It was after four o’clock in the afternoon when my father suddenly appeared at the home of his second daughter, Kinue.
 
 ‟What’s the matter, Father?” she said.
 
@@ -116,7 +116,7 @@ Mr. K’s voice on the phone paused for a moment.
 
  At that time, Mr. K. held a key position on the board of directors of Ryukyu Marine Transport.
 
- On December 9, 1987, when I was chairman of the organizing committee for the ‟Zencolo United Nations Decade of Disabled Persons Mid-Term Event,” TBS TV broadcast this commemoration on its ‟Prime Time” program. Mr. K. had watched the program and noticed me.
+ On December 9, 1987, when I was chairman of the organizing committee for the ‟Zencolo United Nations Decade of Disabled Persons Mid-Term Event”, TBS TV broadcast this commemoration on its ‟Prime Time” program. Mr. K. had watched the program and noticed me.
 
  On December 9, 1975, the 30th United Nations General Assembly adopted the Declaration of the Rights of Persons with Disabilities. In this context, they designated 1981 as the ‟International Year of Persons with Disabilities”, and the following decade (1983-1992) was decided to be the ‟United Nations Decade of Disabled Persons”. The countries that participated in this were to promote the normalization of persons with disabilities, with the theme ‟Full Participation and Equality”. Also in Japan, public-private educational events were held in the year of the International Year of Persons with Disabilities, but after that, the issue of social independence for persons with disabilities was about to fade away as a matter of social concern. The registered association Zencolo (formerly the National Association of Colonies, with 3,000 members), which promotes the social independence of persons with disabilities through occupations, again held its own nationwide event in the middle of the year of the United Nations Decade of Disabled Persons, with the aim of raising social awareness of disability issues.
 
@@ -134,7 +134,9 @@ I made sure no one was around and then told Dad Kishimoto.
 
 Dad Kishimoto hugged me and took out three envelopes from the back of a drawer. He took out a piece of paper from one of them and unfolded it before me.
 
-‟When the boarding ship is decided, send a telegram here. We have already in touch with them. You will surely be picked up at the port of Kagoshima. I already sent him a picture of you, Susumu.” The necessary information was on the paper.
+‟When the boarding ship is decided, send a telegram here. We have already in touch with them. You will surely be picked up at the port of Kagoshima. I already sent him a picture of you, Susumu.”
+
+The necessary information was on the paper.
 
 > Ishigaki Yaeo  
 > Hoshizuka Keiaien  

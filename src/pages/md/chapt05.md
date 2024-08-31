@@ -14,7 +14,7 @@ My body was covered with a blanket, only my face was visible. A regular engine n
 
  Whenever the ship rocked heavily, my father’s knee, sitting cross-legged, touched my shoulder through the blanket.
 
- My father and I did not take any of the three meals served on the ship.  Each time he repeated, ‟My son and I were seasick. Neither of us was seasick.
+ My father and I did not take any of the three meals served on the ship.  Each time he repeated, ‟My son and I were seasick. Neither of us was seasick."
 
 After refusing the food, he whispered to me. ‟We’re almost there. Be patient.”
 
@@ -296,7 +296,7 @@ Ishigaki's house was one of a series for married couples that had the same house
 >
 > 7. Wipe with mercury sublimate gauze in the next room.  
 >
-> 8. Remove Monpe and soak feet in Lysol liquid in the next room.  
+> 8. Remove monpe and soak feet in Lysol liquid in the next room.  
 >
 > 9. Bathe and change all clothes. Gargle with disinfectant.  
 
@@ -515,7 +515,11 @@ I rewrote the letter to the Okayama Board of Education over and over again.
 >
 > If this time's rejection is due to my physical functions, it is beyond my control, and there is nothing I can do about it.  
 >
-> I really want to know the reason for the rejection. The results will allow me to clearly choose the path I should take in the future. However, if the rejection was due to the physical findings, I cannot regret it enough. I had done everything by myself, both in junior high school and in the group life of the boys' and girls' dormitories. It was the same with physical education. For physical reasons, I could not stand up to others, but I never gave up my own participation in physical education, not even once.  
+> I really want to know the reason for the rejection.
+>
+> The results will allow me to clearly choose the path I should take in the future. However, if the rejection was due to the physical findings, I cannot regret it enough.
+>
+> I had done everything by myself, both in junior high school and in the group life of the boys' and girls' dormitories. It was the same with physical education. For physical reasons, I could not stand up to others, but I never gave up my own participation in physical education, not even once.  
 >
 > If it is unjustified for me to study in the Niirada Class of Oku High School because of my physical condition, where should I go to study?  
 >
@@ -523,7 +527,9 @@ I rewrote the letter to the Okayama Board of Education over and over again.
 >
 > Am I not the one who should go to Oku High School?  
 >
-> Even though I am physically handicapped, I have continued to make my own way. Please do not judge me just because of my physical condition. Please examine the circumstances of my group life in the past and decide.  
+> Even though I am physically handicapped, I have continued to make my own way.
+>
+>Please do not judge me just because of my physical condition. Please examine the circumstances of my group life in the past and decide.  
 >
 > Thank you very much.  
 >
@@ -604,11 +610,13 @@ We enjoyed chasing volleyballs or running around the beach for three hours which
 
 At 1:00 p.m., the mail coach was hitched to another freight car. In the clattering car, the principal opened his notebook and began to give us directions.
 
-“Now, pay attention to me. We are going to Miyakonojo on the Shibushi Line, Miyakonojo to Yoshimatsu Station on the Kitto Line, where our lunch boxes will be loaded.
+“Now, pay attention to me. We are going to Miyakonojo on the Shibushi Line, Miyakonojo to Yoshimatsu Station on the Kitto Line, where our lunch boxes will be loaded."
 
-Dinner will be a little later, around seven pm. From Yoshimatsu to Yatsushiro by the Hisatsu Line, then we will connect to the freight car of the Kagoshima Main Line and finally arrive at Kumamoto Station. We would be crossing the border between Kagoshima, Miyazaki and Kumamoto prefectures. The arrival time in Kumamoto will be eleven o’clock. Okay, guys, have you got it?”
+"Dinner will be a little later, around seven pm. From Yoshimatsu to Yatsushiro by the Hisatsu Line, then we will connect to the freight car of the Kagoshima Main Line and finally arrive at Kumamoto Station. We would be crossing the border between Kagoshima, Miyazaki and Kumamoto prefectures. The arrival time in Kumamoto will be eleven o’clock. Okay, guys, have you got it?”
 
-“Completely understood, especially the time of dinner and arrival in Kumamoto!” There was a burst of laughter in the coach.
+“Completely understood, especially the time of dinner and arrival in Kumamoto!” 
+
+There was a burst of laughter in the coach.
 
 The train moved on in the dark. We were tired, and after nine o'clock everyone lay down on the floor.
 
