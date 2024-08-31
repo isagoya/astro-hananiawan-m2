@@ -344,6 +344,11 @@ I grabbed the ball and threw it.
 
 The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 
+![図1](../../images/fig1.jpg)
+![図2](../../images/fig2.jpg)
+![図3](../../images/fig3.jpg)
+> 図1.2.3.は、橋爪長三著「らい患者の四肢の機能障害に対する整形外科的治療法」(レプラ. 45.1974)より。
+
 [^1]: Rotator cirrus muscle: A muscle running from the end of the radius to the ulnar (little finger) side of the elbow on the front surface of the forearm, which twists the forearm inwards (palm facing downwards).
 
 [^2]: Radius: Tubular long bone on the outer side of the forearm.
@@ -357,8 +362,6 @@ The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 [^6]: Intrinsic instruction extensor muscle: which functions to extend the index finger alone.
 
 [^7]: Superficial flexor of the third(fourth) finger Function to flex the middle joint of the middle and ring fingers
-
-原文p.156　図1,2,3
 
 ## Bonds of Okinawa
 
