@@ -2,6 +2,7 @@ import { createElement } from "preact";
 
 setHeadTitle();
 setPagination();
+setSubchapterHidden();
 
 function setHeadTitle() {
   let h1_elements = document.getElementsByTagName('h1');
@@ -47,6 +48,16 @@ function setPagination() {
   if (Number(chapter_num) > (13 - 1)) {
     next.setAttribute('style', 'visibility: hidden;');
   }
+}
 
 
+function setSubchapterHidden() {
+  // 12、13ページは　チャプターとサブチャプターの名前が同じなので、サブチャプターの表示を消す。
+  const chapter_num_element = document.getElementById('chapter_num');
+  const chapter_num = chapter_num_element.textContent;
+  const h2_element = document.getElementsByTagName("h2");
+  if (Number(chapter_num) >= 12) {
+      h2_element[0].style.visibility = "hidden"
+  }
+  {/* console.log(h1_element); */}
 }
