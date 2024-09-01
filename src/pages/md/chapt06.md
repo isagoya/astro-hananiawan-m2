@@ -238,7 +238,7 @@ On the tray next to the operating table, scalpels and tweezers glistened.
 
 Dr. Hashizume's voice rang out during the operation.
 
-“(5) Alright. “(10) Done.”
+“(5) Alright." “(10) Done.”
 
 The charts with illustrations on the wall must have been a surgical procedure. The clock in the operating room showed past 10:30.
 
@@ -344,9 +344,9 @@ I grabbed the ball and threw it.
 
 The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 
-![図1](../../images/fig1.jpg)
-![図2](../../images/fig2.jpg)
-![図3](../../images/fig3.jpg)
+![fig.1](../../images/fig1.jpg)
+![fig.2](../../images/fig2.jpg)
+![fig.3](../../images/fig3.jpg)
 > 図1.2.3.は、橋爪長三著「らい患者の四肢の機能障害に対する整形外科的治療法」(レプラ. 45.1974)より。
 
 [^1]: Rotator cirrus muscle: A muscle running from the end of the radius to the ulnar (little finger) side of the elbow on the front surface of the forearm, which twists the forearm inwards (palm facing downwards).
@@ -413,27 +413,22 @@ I visited Mr. Chiba's house whenever I could find the time. He was calm, clear, 
 
  However, when he expressed his feelings about Okinawa in Japanese poetry, there was a surprising intensity that was far from his usual nature.
 
-Since the day my family register was burned at the Battle of Okinawa,
-
-I have been erased, yet I am alive like this
-
-Most of the countrymen were reduced to fools,
-
-Voices hoping for the return of Okinawa lurk
-
-Feeling intensely the dark and oppressive power,
-
-I read over the article revealing Okinawa
-
-The outraged voice of a widow could be my sister,
-
-her leased land for rent was beaten so cheap
-
-Just like blood-stained voices rise in Okinawa today,
-
-I become myself of the days in the war.
-
-(Anthology ‘Coral Reef’ by Chiba Osamu)
+> Since the day my family register was burned at the Battle of Okinawa,  
+> I have been erased, yet I am alive like this
+>
+> Most of the countrymen were reduced to fools,  
+> Voices hoping for the return of Okinawa lurk
+>
+> Feeling intensely the dark and oppressive power,  
+> I read over the article revealing Okinawa
+>
+> The outraged voice of a widow could be my sister,  
+> her leased land for rent was beaten so cheap
+>
+> Just like blood-stained voices rise in Okinawa today,  
+> I become myself of the days in the war.
+>
+> (Anthology ‘Coral Reef’ by Chiba Osamu)
 
  After a while, my words to Mr. Chiba turned nassty. It was because “Okinawa” in my mind began to reject the prayer of Jesus Christ.
 
@@ -581,7 +576,7 @@ For a moment, Akiko had a doubtful look on her face.
 
 “What do you mean by be friends?”
 
-“I like you, Akiko.
+“I like you, Akiko."
 
 Her expression changed very quickly.
 

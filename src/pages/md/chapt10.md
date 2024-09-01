@@ -182,26 +182,6 @@ Ryo had watched it for some time and put his hands on my shirts and said, “I�
 
 -----He was eight years old then---so already eighteen years old-----
 
-“Father, could you please change my family name back to Iha?”
-
-“What would your parents say?”
-
- “I don’t care. This is my problem.”
-
-“It’s not. Ryo, listen, whatever the reason was, I could not raise my children. It’s the same like throwing you out...”
-
-“Whatever you say, I am Iha Ryo.
-
- “Your father in Hiroshima brought you up to this point. I can’t thank you enough. Think about it with a human mind. It cannot be allowed. Besides, the family name is nothing but a social distinction.
-
- “It is important to me. Who am I?”
-
- “No. You two, Ryo and Yui, should continue to blame and reject me all your life for throwing you away.”
-
- “Please tell me. What happened between you and my mom. Did you try your best between the two of you?”
-
- “He was eight years old then, so he was already eighteen years old.
-
  “Father, could you please change my family name back to Iha?”
 
  “What will your parents say?”
@@ -210,9 +190,9 @@ Ryo had watched it for some time and put his hands on my shirts and said, “I�
 
  “It’s not. Ryo, listen, whatever the reason was, I could not raise my children. It’s the same as if I threw them away...”
 
- “Whatever you say, I am Iha Ryo.
+ “Whatever you say, I am Iha Ryo."
 
- “Your father in Hiroshima brought you up to this point. I can’t thank you enough. Think about it with a human mind. It cannot be allowed. Besides, the family name is nothing but a social distinction.
+ “Your father in Hiroshima brought you up to this point. I can’t thank you enough. Think about it with a human mind. It cannot be allowed. Besides, the family name is nothing but a social distinction."
 
 “I want to stick to this. Who am I?”
 
@@ -224,7 +204,7 @@ Ryo had watched it for some time and put his hands on my shirts and said, “I�
 
 “I’ve been telling Yui since she was six years old, ‘Look, this is a secret, but the real father of Ryo and Yui is in Tokyo.’“
 
-“I’m sorry, the whole reason is that I tried to do what was beyond my power. I underestimated society. As a result, I crushed you both. I have no word to answer whether I tried my best. It may sound like my self-justification, but there was no other way to get you out of a certain situation. Above all, it was necessary for your mother to feel comfortable as a woman.
+“I’m sorry, the whole reason is that I tried to do what was beyond my power. I underestimated society. As a result, I crushed you both. I have no word to answer whether I tried my best. It may sound like my self-justification, but there was no other way to get you out of a certain situation. Above all, it was necessary for your mother to feel comfortable as a woman."
 
 “In your opinion, children have no choice in their family names.”
 
@@ -343,4 +323,3 @@ Episodes from the nursery never ended.
  When the children come to visit us, they happily spend more time with Shigeko than with me.
 
  After a while, Ryo teased me by saying, “Dad, you’re pretty good. You have a good eye for women. Very good.
-

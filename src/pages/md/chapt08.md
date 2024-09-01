@@ -18,15 +18,15 @@ I stopped in front of the frame hanging on the wall and turned discolored.
 
 > Our Pledge
 >
-> (Pioneer Road)
-> 1. We are the pioneers who open roads where no one has dared to go.
-> (Joy of Work)
-> 2. We feel that life is worth living when we work hard against adversity rather than spend in comfort and receive pity.
-> (Infinite Possibilities)
-> 3. We believe in infinite possibilities and continue to strive to develop new skills, even when something is inferior to others.
-> (Solidarity & Cooperation)
-> 4. We encourage each other and build happiness through unwavering solidarity and cooperation.
-> (Right to Life)
+> (Pioneer Road)  
+> 1.We are the pioneers who open roads where no one has dared to go.  
+> (Joy of Work)  
+> 2. We feel that life is worth living when we work hard against adversity rather than spend in comfort and receive pity.  
+> (Infinite Possibilities)  
+> 3. We believe in infinite possibilities and continue to strive to develop new skills, even when something is inferior to others.  
+> (Solidarity & Cooperation)  
+> 4. We encourage each other and build happiness through unwavering solidarity and cooperation.  
+> (Right to Life)  
 > 5. We all work together to realize a society in which all people can live as humanely as possible.
 >
 
@@ -40,11 +40,11 @@ I stopped in front of the frame hanging on the wall and turned discolored.
 
 “Mr. Yabe, what kind of place is Tokyo Colony?”
 
-“It is a social welfare facility, a kind of vocational rehabilitation facility called 'Jusan.'[^1] It provides knowledge and skills to prepare someone for a specific job. It is the only social welfare institution that is involved in economic activities. At the time of its establishment, when people recovering from tuberculosis wanted to work in society, they were not readily accepted, so they created their own workplaces to become socially independent by acquiring skills and earning money. Now it is mainly for people recovering from tuberculosis, but I heard that they plan to open a facility for the physically handicapped in two years.
+“It is a social welfare facility, a kind of vocational rehabilitation facility called 'Jusan.'[^1] It provides knowledge and skills to prepare someone for a specific job. It is the only social welfare institution that is involved in economic activities. At the time of its establishment, when people recovering from tuberculosis wanted to work in society, they were not readily accepted, so they created their own workplaces to become socially independent by acquiring skills and earning money. Now it is mainly for people recovering from tuberculosis, but I heard that they plan to open a facility for the physically handicapped in two years."
 
  “They looked healthy to me.”
 
-“Yes, they are. In fact, most of them are tuberculosis survivors, and many have small lung capacities. My sister has worked there since the institution began. It was founded in 1949, and recently they finally got official help. They can get by a little easier, but they still seem to have a hard time.
+“Yes, they are. In fact, most of them are tuberculosis survivors, and many have small lung capacities. My sister has worked there since the institution began. It was founded in 1949, and recently they finally got official help. They can get by a little easier, but they still seem to have a hard time."
 
 “Mr. Yabe, could you please tell me more about Tokyo Colony?”
 
@@ -146,7 +146,7 @@ The man, who introduced himself as a case worker, looked surprised at my sudden 
 
  “Besides, I find your hands seriously impaired - it would be impossible to work here with your hands.”
 
-“Anything will do. Is there a way to make it possible?
+“Anything will do. Is there a way to make it possible?"
 
 “After training, the colony only accepts those who can support themselves as engineers.”
 
@@ -182,7 +182,7 @@ Her eyes were filled with tears.
 
 On March 25, 1995, I was asked to give a speech at the “Memorial Meeting for Shirabe Yosie” and I spoke about my encounter that day.
 
-“Dear Auntie, are you running as hard as you can now in heaven? Aren't you out of breath from running? Are you doing well with only one lung with a capacity of 680? Don't you feel any more pain? That's so good. Twenty-six years ago, Tokyo Colony was poor, the office was shabby, and only a screen separated the room. So you could hear our interview from beginning to end. If the building had been fine, with concrete construction like today, and the interview room had been isolated, our conversation wouldn't have reached Auntie's ears. And if you hadn't run after me then, I wouldn't be who I am now.
+“Dear Auntie, are you running as hard as you can now in heaven? Aren't you out of breath from running? Are you doing well with only one lung with a capacity of 680? Don't you feel any more pain? That's so good. Twenty-six years ago, Tokyo Colony was poor, the office was shabby, and only a screen separated the room. So you could hear our interview from beginning to end. If the building had been fine, with concrete construction like today, and the interview room had been isolated, our conversation wouldn't have reached Auntie's ears. And if you hadn't run after me then, I wouldn't be who I am now."
 
 ## Workplace Discussion
 
@@ -228,11 +228,9 @@ The lady who ran after me yesterday offered me some tea with a smile on her face
 
  I wrote my name and address on the paper.
 
-  1-1-4 Chome Aoba-cho Murayama Ward Tokyo
-
-  National Sanitarium Tama Zenshoen
-
-  Iha Toshio
+ > 1-1-4 Chome Aoba-cho Murayama Ward Tokyo  
+ > National Sanitarium Tama Zenshoen  
+ > Iha Toshio  
 
  “You are good with hands. You write much better than I do.”
 
@@ -352,7 +350,7 @@ There was a round mark on the back of the bowl. The cook hurriedly picked up the
 
  Ms. Umemoto blushed.
 
- “That's right. I find it sad...
+ “That's right. I find it sad..."
 
  “Why can you stay calm? Why don't you get angry?”
 
@@ -374,7 +372,7 @@ There was a round mark on the back of the bowl. The cook hurriedly picked up the
 
  Their suggestion led to an unexpected development. But despite their enthusiasm, I began to think that there was something wrong with their way of dealing with the problem.
 
- “Wait a minute please. I knew all about this. And please do not give them the director's warning. Now they are all confused. I'd like to try to believe them. I think they are struggling with their old consciousness within themselves.
+ “Wait a minute please. I knew all about this. And please do not give them the director's warning. Now they are all confused. I'd like to try to believe them. I think they are struggling with their old consciousness within themselves."
 
  Little by little, something like certainty welled up inside myself.
 
@@ -430,23 +428,11 @@ Here is what happened to me in the days when I was the manager of Higashimurayam
 
  The meeting lasted about a year, and then he wrote his impressions in the public magazine of Tokyo Colony.
 
-   “In a certain factory, the groundwork has laid for a monthly meeting of about ten people from each section starting in April this year. Although I go around
-
-the factory once a month, I cannot remember the names of the people because
-
-of my age, nor can I be sensitive to each of them. Then the manager suggested
-
-we have a meeting with the employees. After all, we are both human beings.
-
-Although I insisted on the need to talk to each other, I found it really difficult
-
-to have a discussion. First of all, despite my intention to be heart-to-heart, the
-
- usual ego would become powerful, and we could not be as frank as a chitchat.
-
- It was not because the sweets were few ...
-
-I should not have high expectations for the meeting that had just begun. It would take a long time to get used to ten people coming together once a year. Besides, it is not possible to be “heart-to-heart” only with words, unless we really ‘express whole ourselves’. Still, it is better than nothing. I would like to continue it patiently.”
+> “In a certain factory, the groundwork has laid for a monthly meeting of about ten people from each section starting in April this year. Although I go around the factory once a month, I cannot remember the names of the people because of my age, nor can I be sensitive to each of them. Then the manager suggested we have a meeting with the employees. After all, we are both human beings.
+>
+> Although I insisted on the need to talk to each other, I found it really difficult to have a discussion. First of all, despite my intention to be heart-to-heart, the usual ego would become powerful, and we could not be as frank as a chitchat. It was not because the sweets were few ...
+>
+> I should not have high expectations for the meeting that had just begun. It would take a long time to get used to ten people coming together once a year. Besides, it is not possible to be “heart-to-heart” only with words, unless we really ‘express whole ourselves’. Still, it is better than nothing. I would like to continue it patiently.”
 
  I made the regular management report to Mr. Nomura.
 
@@ -467,8 +453,6 @@ If I had been rejected as “not fit for admission,” I would not be the person
 In these 26 years, I have met many different people, but I can't help but think of people with disabilities. I'm particularly blamed for encounters that made me aware of my lack of abilities.
 
 “Mr. H. has been absent without leave for three days. When I visit his room, I feel someone is there, but he doesn't open the door. Our director is always indulgent with them, so he never changes.”
-
- “Mr. H. has been absent without leave for three days. When I visit his room, I feel someone is there, but he doesn't open the door. Our director is always soft with them, so he never changes.
 
  Mr. Sawano, the caseworker, rushed to the principal's room early in the morning. The problems with Mr. H. have been repeated many times. He goes on vacation for about a month and then suddenly shows up in the office and pops into the manager's room to say, "Hello”.
 

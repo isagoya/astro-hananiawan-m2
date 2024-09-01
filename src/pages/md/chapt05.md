@@ -614,7 +614,7 @@ At 1:00 p.m., the mail coach was hitched to another freight car. In the clatteri
 
 "Dinner will be a little later, around seven pm. From Yoshimatsu to Yatsushiro by the Hisatsu Line, then we will connect to the freight car of the Kagoshima Main Line and finally arrive at Kumamoto Station. We would be crossing the border between Kagoshima, Miyazaki and Kumamoto prefectures. The arrival time in Kumamoto will be eleven o’clock. Okay, guys, have you got it?”
 
-“Completely understood, especially the time of dinner and arrival in Kumamoto!” 
+“Completely understood, especially the time of dinner and arrival in Kumamoto!”
 
 There was a burst of laughter in the coach.
 

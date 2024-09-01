@@ -70,7 +70,7 @@ Then we came to the eastern end of Tama Zenshoen, where the greenery was thick. 
 
  “Their ahes weren’t supposed to be buried in their graves in their hometowns?”
 
- “No, they weren’t. They were not allowed to return to their hometowns even after they died. They keep more than 3600 ahes here. A group of urns, more than 23000, are wandering around the Hansen’s disease sanatoriums all over the country, weeping.
+ “No, they weren’t. They were not allowed to return to their hometowns even after they died. They keep more than 3600 ahes here. A group of urns, more than 23000, are wandering around the Hansen’s disease sanatoriums all over the country, weeping."
 
 “...”
 
@@ -201,7 +201,7 @@ The room of Dr. Narita, the honorary director, had only an office desk and a cha
 
 “Various tasks. Miscellaneous. Such as Bethlehem Hospital, Prince Takamatsu Memorial Hall, and Tama Zenshoen. A day passes in a flash.”
 
- “I have decided to resign from Tokyo Colony.
+ “I have decided to resign from Tokyo Colony."
 
 “Do you? I appreciate your service for many years.”
 
@@ -209,7 +209,7 @@ The room of Dr. Narita, the honorary director, had only an office desk and a cha
 
 “Oh no. I did not help you that much. I always wonder how much I could have empathized with you patients as a doctor. People can bear the suffering of others for a long time. It is the same with doctors. We often realize this in our later years. You may not have heard it, but the functions of your limbs, which are unusual, were screaming in the struggle with society, so the doctor only felt compassion for the screaming of your damaged part. We are not getting to the point of confronting the patient’s mind. And what are you going to do from now on?”
 
-“I will let my leg rest. Besides, it will be a good opportunity for me to write about Hansen’s disease”.
+“I will let my leg rest. Besides, it will be a good opportunity for me to write about Hansen’s disease."
 
 “How nice. The history of Hansen’s disease is like a long and dark tunnel. There is no light to see through.”
 
@@ -292,7 +292,7 @@ It was ‘‘Kagiyadefuu[^1]”
 > It is like flowers in buds  
 > Opening in the morning dew.
 
-“Ah, how I wish I could have swung the souls of Ryou and Yui in this sound and blood bond.
+“Ah, how I wish I could have swung the souls of Ryou and Yui in this sound and blood bond."
 
 [^1]: Kagiyadefuu Bushi(Tune)’ is the dance performed at the opening of happy celebrations. Also called ‘Gujinfuu’. It is named after the music played in front of the Ryukyu king. There are five imperial tunes: ‘Unnna-bushi’, ‘Nagaiheya Bushi’,‘Nakagusukuhantame Bushi’, ‘Kotei Bushi’ and ‘Kagiyadefuu-Bushi’
 
@@ -354,9 +354,7 @@ Since you had such a separation from your children, you must have thought about 
 
  “...”
 
-“Yoshiyasu! Why couldn’t you tell your younger brother the principle of things?
-
-before you heard from me?”
+“Yoshiyasu! Why couldn’t you tell your younger brother the principle of things? before you heard from me?”
 
  “...”
 
@@ -377,4 +375,3 @@ before you heard from me?”
 -----The Family ----- As I remember, it was as if I had been on a continuous journey to find my family since I was diagnosed with Hansen’s disease.
 
 (The End)
-

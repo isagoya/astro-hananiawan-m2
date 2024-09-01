@@ -378,7 +378,7 @@ Therefore, in February, I applied to leave the sanatorium and talked face to fac
 
  Ms. Sato reluctantly agreed.
 
- “I see. Since you have made such a firm decision, we'll support you with all our efforts.
+ “I see. Since you have made such a firm decision, we'll support you with all our efforts."
 
 In the consultation room, I was half naked, surrounded by the director, Yajima Ryoichi, Dr. Hazama, Dr. Hirako, Dr. Ohira, Dr. Narita, and the case worker, Ms. Sato.
 
@@ -406,8 +406,8 @@ In the consultation room, I was half naked, surrounded by the director, Yajima R
 
 Dr. Hirako called to me as he wrote on my medical report.
 
- “Mr. Iha, you are always welcome to come back if you feel you can't do your best.
+ “Mr. Iha, you are always welcome to come back if you feel you can't do your best."
 
-“Thank you very much. But I have no intention of going through that gate again!
+“Thank you very much. But I have no intention of going through that gate again!"
 
 [^1]: In 1943, the American Faget announced that a derivative of the sulfonamide drug Promin was effective as a treatment for leprosy. In Japan, after the war, Morizo Ishidate, a former professor at the University of Tokyo, succeeded in synthesizing the drug. Promin was injected intravenously. Subsequently, Dapsone was developed as an oral drug, paving the way for outpatient treatment. Rifampicin was subsequently developed. Since 1983, multidrug combination therapy (DDS, B663, and rifampicin) has been the mainstay of treatment. With this combination therapy, leprosy loses its infectivity in a few days.

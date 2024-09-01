@@ -320,13 +320,13 @@ On July 2, 1972, we had our first baby. I named him Ryo.
 
  After twelve years, Mr. M., who had retired from the kindergarten, visited me at Tokyo Colony. The receptionist told me about his visit, and when I invited him into the meeting room, he suddenly put his hands on the floor and cried.
 
-“It has been a long time. I really wanted to meet you and apologize. I was very sorry for you. We should have been more resolute then. There is no regret enough. I know I hurt Ryo's heart. I couldn't refuse the demands of some of the parents... I am ashamed of it. I will regret it for the rest of my life.
+“It has been a long time. I really wanted to meet you and apologize. I was very sorry for you. We should have been more resolute then. There is no regret enough. I know I hurt Ryo's heart. I couldn't refuse the demands of some of the parents... I am ashamed of it. I will regret it for the rest of my life."
 
  Two faces that opposed Ryo's entry into the nursery overlapped with Mr. M., who bowed his head in front of me.
 
  Yui, our daughter who was born three years later, had no problem using the same nursery. Later, it was expanded to accommodate the growing number of users.
 
-“There were only two days left in 1972. Akiko stared intensely at one point of the celling.
+There were only two days left in 1972. Akiko stared intensely at one point of the celling.
 
  “Dad, let's go and see the Holly House that has just been finished. I am moving into Holly House no matter what happens!”
 
@@ -357,16 +357,6 @@ Akiko's co-workers had applied for the public recruitment using our names withou
 ---Thank you for a long time. I will take only happy days with me. As we promised, please do not try to find our destination until the children visit you of their own will...
 
  The sound of every families of this past eight years had slipped into underground.
-
- “All alone again...”Akiko, Ryo and Yui went back to Kagoshima. Ryo was eight years old. Yui was going to have her fifth birthday soon.
-
- On August 7th. I came home and there were no voices of the children who used to jump up at the front door to greet me.
-
- There was a note left by Akiko on the table.
-
------Thank you for a long time. I will take only happy days with me. As we have promised, please do not try to find our destination until the children visit you of their own will...
-
- The sounds of the entire family of the past eight years had crawled underground.
 
  “All alone again...”
 
@@ -504,7 +494,7 @@ Even though he had drunk so much, his step was firm.
 
  “Children grow up without parents, without parents they grow up better... Why not? Remember Dan Kazuo’s last haiku?”
 
-   Mogari Whistle, how many nights to blow in anticipation of seeing flowers…
+> Mogari Whistle, how many nights to blow in anticipation to meet the flowers…
 
 “That’s it! Mogari Whistle. The whistling sound of a winter night blowing through the bamboo fence. You should not hear the sound with your ears, but react to it with your guts...”
 
