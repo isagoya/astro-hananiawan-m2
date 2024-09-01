@@ -347,7 +347,7 @@ The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 ![fig.1](../../images/fig1.jpg)
 ![fig.2](../../images/fig2.jpg)
 ![fig.3](../../images/fig3.jpg)
-> 図1.2.3.は、橋爪長三著「らい患者の四肢の機能障害に対する整形外科的治療法」(レプラ. 45.1974)より。
+> Figures 1.2.3. are from “Orthopedic Treatment of Leprosy Patients with Limb Dysfunction” (Lepra. 45. 1974)　by Hashizume Chozo.
 
 [^1]: Rotator cirrus muscle: A muscle running from the end of the radius to the ulnar (little finger) side of the elbow on the front surface of the forearm, which twists the forearm inwards (palm facing downwards).
 
