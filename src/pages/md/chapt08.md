@@ -74,7 +74,7 @@ I also found that in the National Colony Monthly Report No. 5, August, Chairman 
 >
 > However, a preparatory meeting was held at the end of July, and a total of 10 institutions had gathered, some from as far away as Yamagata, Fukuoka, Kumamoto, Yamaguchi, Nagano and Kanagawa prefectures.
 >
-> I told them, “This may be the first attempt in the world, let alone in Japan.”
+> I told them, 'This may be the first attempt in the world, let alone in Japan.'
 >
 > It had no significance because of its novelty. Each attempt began under uncontrollable circumstances with empty hands and from nothing with the   spirit, “Who can do this but us? It was born before any law was in place, and it has been the impetus for the enactment of laws.
 >

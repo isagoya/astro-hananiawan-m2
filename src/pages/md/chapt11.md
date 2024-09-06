@@ -74,7 +74,7 @@ Then we came to the eastern end of Tama Zenshoen, where the greenery was thick. 
 
 “...”
 
-“The late Mr. Shimada Hitoshi sent me his collection of poems, ‘Next Winter,’ as his will, which includes a wonderful piece called ‘Mona Lisa.’ Let me read it to you.
+“The late Mr. Shimada Hitoshi sent me his collection of poems, ‘Next Winter,’ as his will, which includes a wonderful piece called ‘Mona Lisa.’ Let me read it to you."
 
 > There is poison in the smile of Mona Lisa.  
 > They say that Leonardo da Vinci  

@@ -113,7 +113,7 @@ That evening, I was preparing for my Chinese literature class in my room. Since 
 > My white hair is even scarcer from scratching.  
 > And can barely hold a hairpin.  
 >
-> [chinese classical "du-fu-spring-view"](https://eastasiastudent.net/china/classical/du-fu-spring-view/)
+> [Chinese classical "du-fu-spring-view"](https://eastasiastudent.net/china/classical/du-fu-spring-view/)
 >
 
  “Good evening. Is this Mr. Iha's room?”
@@ -729,11 +729,13 @@ There is a song that has long been my encouragement when I have lost my way and 
 > The youth with high ideals,  
 > United here in Niirada  
 > There is hope for us who learn.  
+>
 > Red tiles shine in the sunset  
 > The sound of the bell echoes in our hearts  
 > Youth with an important mission,  
 > Seeking the eternal truth  
 > There is pride for us who learn.  
+>
 > The beach breeze is fragrant on the rough shore  
 > White walls shine in the morning sun  
 > Youth bound with firm vows  

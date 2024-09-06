@@ -435,4 +435,4 @@ Evangelist Aoki and I sat side by side and prayed.
 
  Later, I visited the monument "Praise the Virtue of Aoki Keisai" as the only way to express my deep gratitude for that day. His haiku (Japanese poetry) is engraved on it.
 
- "Shells go through pain, be pearls in spring"
+ >> Shells go through pain, be pearls in spring

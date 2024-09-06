@@ -42,7 +42,7 @@ How does Christianity interpret this as its doctrine?
 <dd>
 So does Christianity. The Bible says that Hansen’s disease appears as a work of God that He strikes. The typical example in Leviticus, which tells exactly what the priest should do, observe, and deal with the patient.
 
-> “When a man has on the skin of his body a swelling, a scab, or a bright spot, and it becomes on the skin of his body like a leprous sore, then he shall be brought to Aaron the priest or to one of his sons the priests. The priest shall examine the sore on the skin of the body; and if the hair on the sore has turned white, and the sore appears to be deeper than the skin of his body, it is a leprous sore. Then the priest shall examine him, and pronounce him unclean. (Leviticus: 13:2-3)
+> “When a man has on the skin of his body a swelling, a scab, or a bright spot, and it becomes on the skin of his body like a leprous sore, then he shall be brought to Aaron the priest or to one of his sons the priests. The priest shall examine the sore on the skin of the body; and if the hair on the sore has turned white, and the sore appears to be deeper than the skin of his body, it is a leprous sore. Then the priest shall examine him, and pronounce him unclean. "(Leviticus: 13:2-3)
 >
 > “And if the priest sees that the scab has indeed spread on the skin, then the priest shall pronounce him unclean. It is leprosy. When the leprous sore is on a person, then he shall be brought to the priest.”(ibid.8-9)
 >
@@ -197,7 +197,7 @@ One exception among the recent case studies is the perspective of the Japan Lepr
 
 > “...Supported by such nationalists who regarded leprosy as a national disgrace and the social defense theory to justify isolation, we were urged to take strong measures aimed at thoroughly eliminating the source of infection from society rather than at the salvation of patients.... From an epidemiological point of view, leprosy in our country could have been said to be on its way out, regardless of isolation...even the “old law”(Article 11) …had no need to be legislated. However, the “present law” was enacted without changing the basic principle of the “old law” (1953). At that time, the effect of Promin was already obvious, and the isolation of patients was rejected internationally.  
 ...The Japan Leprosy Society would be required to seriously reflect on its neglect of such harshness on patients, listening to their painful cries of being torn apart from their families by forced isolation.  
-Additionally, since the leprosy measure is nothing more than a medical measure, it was really an irreparable and grave mistake to give priority to stirring up the fear of leprosy in order to make the growth of public opinion tolerate the forcible isolation.
+Additionally, since the leprosy measure is nothing more than a medical measure, it was really an irreparable and grave mistake to give priority to stirring up the fear of leprosy in order to make the growth of public opinion tolerate the forcible isolation."
 </dd>
 
 <dt>

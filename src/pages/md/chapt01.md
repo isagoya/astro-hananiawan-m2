@@ -78,7 +78,7 @@ Minamidaito Island is located 350 km east of Okinawa Island in the sea, and cove
 
  My 92year old mother frowns and tries to remember those days.
 
-“Ojī (father) was fashonable, so as soon as he finished his farm work, he used to put on a white suit and Panama hat and go out, but after the army had arrived, his clothes were quickly put away in the closet.”
+“Ojī (father) was fashionable, so as soon as he finished his farm work, he used to put on a white suit and Panama hat and go out, but after the army had arrived, his clothes were quickly put away in the closet.”
 
 “In 1944, right after Toshio's birthday, a large number of guards came to our house, perhaps 350 or so. Then the general and the higher officials came together. They showed us a flimsy order sheet that said, 'Tomorrow at noon, we will confiscate this house as the Headquarters Regiment.
 
@@ -122,7 +122,7 @@ My mother interrupted.
 
 Atsuko leaned forward.
 
-“Toshio, if you remember, when you crossed the village hall towards Jana, you saw a small river on your left. Our family fled across it to the Tonuka Cave.”  
+“Toshio, if you remember, when you crossed the village hall towards Jana, you saw a small river on your left. Our family fled across it to the Tonuka Cave.”
 
 Yoneko and Atsuko said they were all small children, confirming the ages of the family members at the time.
 

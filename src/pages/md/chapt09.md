@@ -466,7 +466,7 @@ His wife greeted me. He had described her as “old-fashioned and unassuming”.
 
  Mr. Matsuo opened his notebook and read my haiku.
 
-   Moon reflects on black hair combed by boxwood
+>> Moon reflects on black hair combed by boxwood
 
 “It’s beautiful, isn’t it? I wonder if he is in love with someone else. Besides, he is crazy about Dan Kazuo now.”
 

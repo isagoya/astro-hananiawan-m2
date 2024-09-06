@@ -715,3 +715,5 @@ The total distance from Shibushi to Okayama was 806 kilometers, and even in thos
 Those hours I spent straddling the tracks from Kagoshima to Okayama have changed my way of thinking.
 
 -----I will definitely punch a hole in that unforgivable wall!
+
+＜脚注が抜け＞
