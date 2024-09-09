@@ -368,7 +368,7 @@ The “rejection” notice from Yomitan High School was not rescinded, but anoth
 
 Ryuji and I continued to study for the exams side by side at our desks. We were only allowed to attend school for the five subjects on the exam, and we took remedial classes in the back of the classroom.
 
- Around seven o'clock in the evening, we would took a break from our studies and lay in bed waiting for something.
+ Around seven o'clock in the evening, we would take a break from our studies and lay in bed waiting for something.
 
 It was the sound of a mandolin coming from the next room.
 

@@ -272,7 +272,7 @@ I read the explanation on the flyer.
 
 ----- Every child has the right to develop-----
 
- Somehow,s I was attracted to Dr. Itoga's words.
+ Somehow, I was attracted to Dr. Itoga's words.
 
 There were smiling children whose faces were distorted because of their disabilities, and sweat dripping from the foreheads of the staff taking care of the bedridden children.
 
