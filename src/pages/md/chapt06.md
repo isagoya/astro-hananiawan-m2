@@ -124,7 +124,7 @@ It was almost two kilometers over two hills from the doctor's house to the high 
 
  He opened the paper he had written on in front of me that morning. There was new writing in red ink. “I didn't have enough time this morning...”
 
- Once again he began to talk about the surgical procedure and the possibility of restoring function. I made appropriate responses now and then, trying not to be rude, but I was absent minded. His explanation went on for nearly two hours, until just before curfew.
+ Once again, he began to talk about the surgical procedure and the possibility of restoring function. I made appropriate responses now and then, trying not to be rude, but I was absent minded. His explanation went on for nearly two hours, until just before curfew.
 
  The doctor's night visits continued for a month.
 

@@ -49,8 +49,14 @@ const title = 'Hana ni Awan • meet the flowers';
                     }
                     // 一行目のサブチャプターは章頭にリンクする
                     if (subChapter == chapter.subChapters[0]) {
-                      anchor = "/" + chapter.fileName + "/#";
-                      outputHtml = <li><a href={anchor}>{subChapter}</a></li>;
+                      // 長いサブチャプターの名前は折り返えして表示する
+                      if (chapter.subAlias[i] != "") {
+                        anchor = "/" + chapter.fileName + "/#" + setAnchorName(subChapter + " " + chapter.subAlias[i]);
+                        outputHtml = <li><a href={anchor}>{subChapter}<br>{chapter.subAlias[i]}</a></li>;
+                      } else {
+                        anchor = "/" + chapter.fileName + "/#" + setAnchorName(subChapter);
+                        outputHtml = <li><a href={anchor}>{subChapter}</a></li>;
+                      }
                     } else {
                       // 長いサブチャプターの名前は折り返えして表示する
                       if (chapter.subAlias[i] != "") {
