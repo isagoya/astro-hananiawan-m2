@@ -390,7 +390,7 @@ There was no need to think of any other way; after about four months, every beha
 
 After that, Tokyo Colony took the opportunity of the welfare administration promotion measures put forth by the Minobe Tokyo Metropolitan Government to expand new facilities one after another.
 
- In 1972, the company was entrusted with the management of Katsushika Welfare Factory, Japan's first welfare factory for the physically disabled; in 1974, it opened Higashimurayama Colony Printing Plant; in 1975, it was entrusted with the management of Tokyo Ohta Welfare Factory; in 1981, it was entrusted with the management of Tokyo Hachioji Independence Home; in 1982, it established Tocollo Information Processing Center, which has grown to employ more than 800 people.
+ In 1972, the company was entrusted with the management of Katsushika Welfare Factory, Japan's first welfare factory for the physically disabled; in 1974, it opened Higashimurayama Colony Printing Plant; in 1975, it was entrusted with the management of Tokyo Ohta Welfare Factory; in 1981, it was entrusted with the management of Tokyo Hachioji Independence Home; in 1982, it established Tocolo Information Processing Center, which has grown to employ more than 800 people.
 
 I became the chief editor of the newly established editorial department in 1972, manager of Nakano Factory in 1973, manager of Higashimurayama Printing House in 1983, manager of Colony Printing House in 1988, and the executive director of Tokyo Social Welfare Corporation and Zencolo Corporation in 1993. At the same time, I was assigned to the public role at Japan National Council of Social Welfare and Tokyo Metropolitan Bureau of Social Welfare Council.
 
@@ -560,7 +560,7 @@ We never thought that the accident would happen intentionally.
 
  Half a year later we received the news from his family that he died due to weakness from alcoholism.
 
- “Director, I wonder if marriage is inpossible without sex?”
+ “Director, I wonder if marriage is impossible without sex?”
 
 Ms. Y. burst into tears in her wheelchair.
 

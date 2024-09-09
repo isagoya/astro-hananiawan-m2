@@ -4,9 +4,9 @@ title: Seto Island Sea
 
 <!-- # Seto Island Sea -->
 
-## Oku High School Niirada Class
+## Niirada Class, Oku High School
 
-  The bus route from Okayama Station to Mushiake via Saidaiji and Ushimado was mostly rural, and the regular route bus terminates at Mushiake, a fishing port on the Seto Inland Sea.
+The bus route from Okayama Station to Mushiake via Saidaiji and Ushimado was mostly rural, and the regular route bus terminates at Mushiake, a fishing port on the Seto Inland Sea.
 
  The only way to get to National Sanatorium Nagashima Aiseien is by private ferry from a small pier jutting out into Mushiake Bay. The boat is divided into two sections, the front part with the pilot's seat is for staff only, and the rear part is for patients and parties involved.
 
@@ -430,7 +430,7 @@ I visited Mr. Chiba's house whenever I could find the time. He was calm, clear, 
 >
 > (Anthology ‘Coral Reef’ by Chiba Osamu)
 
- After a while, my words to Mr. Chiba turned nassty. It was because “Okinawa” in my mind began to reject the prayer of Jesus Christ.
+ After a while, my words to Mr. Chiba turned nasty. It was because “Okinawa” in my mind began to reject the prayer of Jesus Christ.
 
 “Mr. Chiba, will Okinawa be returned just by expressing anger in letters? Can poems change Yamato's (Mainland's) mistakes? Can the prayer of Jesus Christ save Okinawa today?”
 
@@ -520,9 +520,9 @@ After that, it took another 10 years for the Niirada Class to have its “author
 
 One day in 1995, the north wind rattled the windows.
 
-“Hello, Mr. Iha, this is Setsuko from the eighth graduating class of the high school. I called Keiko and finally got your phone number. Yes, it's been 30 years! Have you been watching TV? No, you don't watch singing programs, do you? I was watching ‘The Hit Parade of the Good Old Days’on TV a while ago. Funaki Kazuo sang “The Third Year of High School,” and I always remember your face when I hear that song. Suddenly, I wanted to talk with you, and I asked everywhere for your information. When I hear this song, I can't stop crying. Because you were our leader and you strongly encouraged us to make our dream come true. You yourself knew that you could not join us, but you never said a word. I will never forget that.
+“Hello, Mr. Iha, this is Setsuko from the eighth graduating class of the high school. I called Keiko and finally got your phone number. Yes, it's been 30 years! Have you been watching TV? No, you don't watch singing programs, do you? I was watching ‘The Hit Parade of the Good Old Days on TV a while ago. Funaki Kazuo sang “The Third Year of High School,” and I always remember your face when I hear that song. Suddenly, I wanted to talk with you, and I asked everywhere for your information. When I hear this song, I can't stop crying. Because you were our leader and you strongly encouraged us to make our dream come true. You yourself knew that you could not join us, but you never said a word. I will never forget that.
 
-## Rejection
+## Refusal
 
 It was my ex-wife, Akiko, who was a surgical nurse in the operating room during my major orthopedic surgeries. She had, in a sense, observed the entire "human body modification" process, both during the surgeries and in rehabilitation after the surgeries. After graduating from Associate Nursing School, she was assigned to the surgical unit. The new nurse's main task was to take care of the patients before and after surgery, and she also served as a liaison between the patients and Dr. Hashizume.
 

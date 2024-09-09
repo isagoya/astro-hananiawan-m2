@@ -2,7 +2,7 @@
 title: Airano
 ---
 <!-- # Airano -->
-## Smoke from Sakurajima Volcano
+## Smoke from Sakurajima
 
  Passengers took off their shoes on the straw mat and greeted each other for spending a whole day and night next to each other by chance.
 
@@ -144,7 +144,7 @@ The name tag on her chest was written “Matsuda.”
 
 “We abandoned Okinawa during the war and in its aftermath. If you do not accept this boy now, it will be another abandonment of Okinawa!” It sounded like a scream.
 
- When Dr. Matuda came, the situation at the office desk changed completely.
+ When Dr. Matsuda came, the situation at the office desk changed completely.
 
 On March 8, 1960, the door of the Hoshizuka Keiaien National Sanatorium was opened to me. Dr. Matsuda said to my father,
 
@@ -320,7 +320,7 @@ Ishigaki's house was one of a series for married couples that had the same house
 
 “Toshio, your juniors are following you,” he said.
 
-“Really?” I said.
+“Really?”
 
 “It's still unofficial, but for now, the patient association has decided to accept them. Good for you!” he said.
 
@@ -480,7 +480,7 @@ Students who wanted to take the exam had to submit a written report from a docto
 
  Gradually, an indescribable anger welled up in my chest.
 
-## The 31st Person to Pass the Exam
+## The 31st Person to Pass the Examination
 
 “Ok, let's ask them to explain directly! Ryuji, I will write them a letter. I need to make it clear why I was rejected. If I go on like this, I don't know what I got out of Okinawa for.
 
@@ -538,9 +538,10 @@ I rewrote the letter to the Okayama Board of Education over and over again.
 
 It was almost midnight when I finished writing the letter.
 
-It was ten days since I sent the letter, Mr. Morimoto, the principal, came and said.
+It was ten days after I sent the letter that Mr.Morimoto, the principal, suddenly came to see me.
 
- “Mr. Iha, you might be able to get an extra pass. I heard you sent them a letter.  They read it, and one of them from the Okayama Prefectural Board of Education is here today. He wants to see your daily life here, and he also wants to keep it secret. So behave more cheerfully than usual, are you okay?”
+“Mr. Iha, you might be able to get an extra pass. I heard that you sent them a letter. They read it, and one of them from the Okayama Prefectural Board of Education is here today. He wants to see your daily life here in private. So, behave more cheerfully than usual, are you okay?”
+
 
 -----Oh, they received my letter! They listened to my appeal! It was a week later. I received an acceptance letter from the Niirada Class of Oku High School. I was the 31st person to be accepted out of a maximum number of 30.
 
@@ -694,7 +695,7 @@ The MTL report was discussed and summarized in response to the views of the “W
 
 I. Epidemiology II. Control III. Classification IV. Treatment V. Research. It was extensive and a guideline agreed upon by the international leprosy community at that time.
 
-In particular, at the moment when I saw Ⅱ., the control, I was struck with a shock similar to dizziness. It said: “Leprosy is not an individual disease, but a general public health problem in leprosy endemic areas. It is necessary to establish a leprosy control policy based on the principles of public health without fear or prejudice” and “It is desirable that special leprosy laws and regulations be abolished and that leprosy be legislated along the lines of other infectious diseases in the general public health regulations”
+In particular, at the moment when I saw point Ⅱ, the control, I was struck with a shock similar to dizziness. It said: “Leprosy is not an individual disease, but a general public health problem in leprosy endemic areas. It is necessary to establish a leprosy control policy based on the principles of public health without fear or prejudice” and “It is desirable that special leprosy laws and regulations be abolished and that leprosy be legislated along the lines of other infectious diseases in the general public health regulations”
 
 1954 was three years before I got sick, wasn't it? Leprosy is not a special disease? Special leprosy laws abolished? The report astonished me as if heaven and earth had been turned upside down.
 

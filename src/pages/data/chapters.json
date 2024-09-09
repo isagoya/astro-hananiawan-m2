@@ -36,7 +36,7 @@
   },
   {
     "title": "Ninguwachikajimai",
-    "description": "(Monsoon in February)",
+    "description": "(February Monsoon)",
     "subChapters": ["Escape", "Flashing Light", "One-Way Passport"],
     "subAlias": ["", "", "", ""],
     "fileName": "chapt-4"
@@ -45,7 +45,7 @@
   {
     "title": "Airano",
     "description": "",
-    "subChapters": ["Smoke from Sakurajima Volcano", "Forced Repatriation", "Connected Route", "Evening Primrose", "Notice of Rejection", "The 31st Person to Pass the Exam", "Railway Track in the Dark", "Because Transporting Infected Patients"],
+    "subChapters": ["Smoke from Sakurajima", "Forced Repatriation", "Connected Route", "Evening Primrose", "Notice of Rejection", "The 31st Person to Pass the Examination", "Railway Track in the Dark", "Because Transporting Infected Patients"],
     "subAlias": ["", "", "", "", "", "", "", ""],
     "fileName": "chapt-5"
 
@@ -53,7 +53,7 @@
   {
     "title": "Seto Island Sea",
     "description": "",
-    "subChapters": ["Oku High School Niirada Class", "Blue Blade", "Modified Man", "Informed Consent", "Bonds of Okinawa", "Wall after Wall", "Rejection", "The Ticket", "Erased Faces"],
+    "subChapters": ["Niirada Class, Oku High School", "Blue Blade", "Modified Man", "Informed Consent", "Bonds of Okinawa", "Wall after Wall", "Refusal", "The Ticket", "Erased Faces"],
     "subAlias": ["", "", "", "", "", "", "", "", ""],
     "fileName": "chapt-6"
 
@@ -76,15 +76,15 @@
   },
   {
     "description": "",
-    "title": "Sand House",
-    "subChapters": ["Ripples", "Human Archipelago", "Quicksand", "Wave Crest"],
-    "subAlias": ["", "(NHK TVProgram:Various Lifestyles)", "", ""],
+    "title": "House of Sand",
+    "subChapters": ["Ripples", "Human Archipelago", "Quicksand", "Crests of Waves"],
+    "subAlias": ["", "(NHK TV Program)", "", ""],
     "fileName": "chapt-9"
   },
   {
     "title": "Underground Stem",
     "description": "",
-    "subChapters": ["Nameplate", "Underground  Stem"],
+    "subChapters": ["Doorplate", "Underground  Stem"],
     "subAlias": ["", "", ""],
     "fileName": "chapt-10"
 

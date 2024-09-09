@@ -1,16 +1,16 @@
 ---
 
-title: Sand House
+title: House of Sand
 
 ---
 
-<!-- # Sand House -->
+<!-- # House of Sand -->
 
 ## Ripples
 
  January 1970. I finished my training period and received my first salary. It was 22,000 yen. Finally, my hard-earned money was in the envelope. That night I wrote to Akiko. By that time, she had graduated from the Higher Nursing School attached to National Tama Zenshoen, and went straight working for Hansen's Disease Sanatorium.
 
-Until then, I had met her several times while I was a student at Central Labor Academy (Chūōrōdō gakuin), but I had only bowed slightly and dared not speak to her.
+Until then, I had met her several times while I was a student at Central Labor Academy (Chūōrōdō Gakuin), but I had only bowed slightly and dared not speak to her.
 
  “Dear Akiko, I have finally been able to work and live on my own. The conditions of three years ago, when you turned down to have friendly relationship with me, are now resolved. Here is my formal proposal to you...”
 
@@ -114,7 +114,7 @@ Our greeting was very tense.
 > Please empower us with your living traditions for our willingness to keep burning!  
 > (Shimada Hitoshi, Hansen’s Poets Group)
 
-## Human Archipelago (NHK TVProgram:Various Lifestyles)
+## Human Archipelago (NHK TV Program)
 
  It was November 1971 when Mr. Tomizawa Mitsuru, one of the producers of NHK (Japan Broadcasting Corporation), visited me. At that time, he was involved in documentary programs, and his products were selected one after another as the best work of the year.
 
@@ -360,7 +360,7 @@ Akiko's co-workers had applied for the public recruitment using our names withou
 
  “All alone again...”
 
-## Wave Crest
+## Crests of Waves
 
 It was the early summer of 1983. Suddenly, I wanted to feel the breeze in the birthplace of Dan Fumio’s literature．
 
@@ -502,6 +502,6 @@ Even though he had drunk so much, his step was firm.
 
  “This is the attack whistle that only you can blow, just like you used to.”
 
-Zow Zow Zack
+Splash Splash
 
-Wave Crest in a belt was absorbed into the seashore with its sound.
+The crests of waves in a belt were absorbed into the seashore with their sound.

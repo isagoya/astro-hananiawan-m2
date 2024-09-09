@@ -186,7 +186,7 @@ Although he had made the reservation, his order ended with only beers.
 
 We had a routine toast.
 
-“Now, I am going to tell you my story. That doesn't mean I am urging you to tell your story instead. You can just listen and pass it off.
+“Now, I will tell you my story. That doesn't mean I am urging you to tell your story instead. You can just listen and pass it off.
 
 He took off his glasses, sat up straight, and opened his mouth.
 
@@ -272,7 +272,7 @@ I read the explanation on the flyer.
 
 ----- Every child has the right to develop-----
 
- Somehow I was attracted to Dr. Itoga's words.
+ Somehow,s I was attracted to Dr. Itoga's words.
 
 There were smiling children whose faces were distorted because of their disabilities, and sweat dripping from the foreheads of the staff taking care of the bedridden children.
 

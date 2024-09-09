@@ -1,8 +1,8 @@
 ---
-title: Ninguwachikajimai (Monsoon in February)
+title: Ninguwachikajimai (February Monsoon)
 ---
 
-<!-- # Ninguwachikajimai (Monsoon in February) -->
+<!-- # Ninguwachikajimai (February Monsoon) -->
 
 ## Escape
 
@@ -283,7 +283,7 @@ Atsuko called to me again.
 
 ‟Toshio, keep your hands covered.”
 
-Naramaru, the Kagoshima-bound boat we were to board was scheduled to leave at 8 o’clock in the morning. The rope was stretched all the way to the gate, and the people who were supposed to see the passengers off were waiting outside the rope. Nervous family faces, except for my grandmother, were also lined up there. The passengers were led inside the rope one by one. I walked along, trying to hold on to my father, my hands covered with my overcoat, which we never use in Okinawa. As I looked around, no one had an overcoat with them, so the fact that we were carefully prepared made us stand out even more.
+Nara Maru, the Kagoshima-bound boat we were to board was scheduled to leave at 8 o’clock in the morning. The rope was stretched all the way to the gate, and the people who were supposed to see the passengers off were waiting outside the rope. Nervous family faces, except for my grandmother, were also lined up there. The passengers were led inside the rope one by one. I walked along, trying to hold on to my father, my hands covered with my overcoat, which we never use in Okinawa. As I looked around, no one had an overcoat with them, so the fact that we were carefully prepared made us stand out even more.
 
  There were three counters lined up to the boarding gate, at the entrance desk was a Ryukyu Marine Transport to check the tickets.
 
@@ -309,7 +309,7 @@ At the top of the page was written, ‟Signature by hand,” and my passport had
 
 I wrote ‟Iha Toshio” on the blank page. He winked at me as he took the pen from me.
 
-‟OK , good luck,” he said.
+‟OK, good luck,” he said.
 
 My passport, signed ‟Ryukyu Resident Iha Toshio,” had ended up being used as only one-way passport, because Okinawa Prefecture was returned to Japan in 1972.
 
@@ -351,6 +351,6 @@ No one could speak up.
 
 It was the first time for us to hear an unexpected aspect of our father.
 
- ‟Unlike me, he was too serious and died early, you know, I am a laid back type of person, so I could live long, see unusual things, eat delicious food, to this day, because I have lived a long life,” she said.
+ ‟Unlike me, he was too serious and died early, you know, I am a relaxed type of person, so I could live long, see unusual things, eat delicious food, to this day, because I have lived a long life,” she said.
 
  My father died on February 20, 1979. He never regained consciousness after suffering a brain hemorrhage and died six months later at the age of 82. It was a very quiet time of death, as if he was fading away.

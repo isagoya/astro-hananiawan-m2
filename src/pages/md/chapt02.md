@@ -4,25 +4,25 @@ title: Yagaji Island
 
 <!-- # Yagaji Island -->
 
-## Deigo flowers (Erythrina variegate)
+## Deigo flowers (Indian Coral Tree)
 
-  In October 1955, "gray-faced buzzard eagles crossed the clear sky in rows.
+In October 1955, "gray-faced buzzard eagles crossed the clear sky in rows.
 
 My brother and I had just returned from the sports day and were busy making baked sweet potatoes in the cattle pen at the back of the house.
 
 "Shove out the ashes in the fireplace or the fire won't burn." My brother shoveled the ashes out with a fire shovel.
 
-"Two for each of us," he said, " cover them with ashes well."
+"Two for each of us," he said, "cover them with ashes well."
 
 All of a sudden, my brother shouted.
 
-"Toshio! Your shoe is burnign! Your shoe..."
+"Toshio! Your shoe is burning! Your shoe..."
 
 Smoke came out of my left shoe. I looked at my brother who was screaming and throwing water on it.
 
 "Oh no, my shoe is on fire. My left foot..."
 
-But I felt strange. No pain, no heat. I was took to Ishikawa's clinic, and seeing the panic of the doctors and nurses as they treat with me, I cried out for the first time.
+But I felt strange. No pain, no heat. I was taken to Ishikawa's clinic, and seeing the panic of the doctors and nurses as they treat with me, I cried out for the first time.
 
 "It hurts, it hurts."
 
@@ -36,7 +36,7 @@ December came, and the clinic director began to tilt his head in doubt.
 
 "Father, I'm afraid, but it looks like his illness is not a normal.
 
-I coule hear unfamiliar words as they whispered to each other.
+I could hear unfamiliar words as they whispered to each other.
 
 "----Yagaji----- Leprosy..."
 
@@ -96,7 +96,7 @@ On every breaking time, my teacher, Ms. Yagi Sizu, would beckon me to her side. 
 
 -----She is wasting her time....
 
-It was not certain whether Dr. Fukumoto recomended it or not, a new electrotherapy session was added to my after-school routine. However, instead of restoring function to the limbs, the more the treatment , the more it took away the function of my limbs.
+It was not certain whether Dr. Fukumoto recommended it or not, a new electrotherapy session was added to my after-school routine. However, instead of restoring function to the limbs, the more the treatment, the more it took away the function of my limbs.
 
 On April 30 of the following year, a regular group medical examination was held at Ishikawa Junior High School.
 
@@ -126,7 +126,7 @@ In a great hurry, I removed the rope, wrapped it around my waist, covered it wit
 
 The column clock of Central Hospital struck 9:00.
 
-I was already stripped naked in the consulting room, but my heart was filled with something close to determination and all the scenery around me disappeared from my eyes. I only stared at the doctor's name plate, which read " Tajiri Isamu, invited doctor by the Ryukyu government.
+I was already stripped naked in the consulting room, but my heart was filled with something close to determination and all the scenery around me disappeared from my eyes. I only stared at the doctor's name plate, which read "Tajiri Isamu, invited doctor by the Ryukyu government.
 
 "I am sorry to say, but I am sure of his disease as leprosy. He told my father clearly.
 
@@ -138,7 +138,7 @@ When we got home, my grandmother was waiting for us alone, sitting with her back
 
 My father sat upright in front of her and spoke quietly.
 
-"Tomorrow, I will take Yosho to Airakuen."
+"Tomorrow, I will take Yoshio to Airakuen."
 
 My grandmother uttered a voice that sounded like a scream as she listened to his report.
 
@@ -166,7 +166,7 @@ As a 14-year-old boy, that was all I could remember what came out from his mouth
 
 He handed me a book called "Ryukashu" (Ryukyu Song Anthology) written by Shimabukuro Seibin.
 
-  I began to search for the lyrics that began with "Makotoka, Jichika..."It was only a fine thread of memory.
+  I began to search for the lyrics that began with "Makotoka, Jichika..." It was only a fine thread of memory.
 
 "Makotoka... jichika..."
 
@@ -178,7 +178,7 @@ The title was written, "Sanyama-bushi".
 
 "This is it...it must be the one. I have finally found out..."
 
-A note was attached to it , saying "Discern the suitable occasion to sing."
+A note was attached to it, saying "Discern the suitable occasion to sing."
 
 "Brother, I would like to hear Sanyama-bushi."
 
@@ -216,7 +216,7 @@ It took about an hour by bus from my house to Nago, but strangely enough, my mem
 
  The sweet smell of gasoline filled the bus station, and the whistles to guide buses were heard. Only the depots for Naha-bound and Ishikawa-bound buses were busy, with lines of people forming and breaking.
 
-The leaves of the  Common garcinia trees planted in the windbreak shone as if embracing the morning sun.
+The leaves of the Common garcinia trees planted in the windbreak shone as if embracing the morning sun.
 
 My father looked at the schedule pinned above the sign "Shimabukuro Bedclothes Shop; Cheap bedclothes re-creation" and murmured, "Six forty-five."
 
@@ -417,7 +417,7 @@ Evangelist Aoki Keisai (1893-1969) was ordained as deacon in 1966. He was sent a
 
 By 1909, five public leprosy sanatoriums had been established on the mainland. Okinawa Prefecture, the poorest prefecture in Japan at the time, had more than three times as many leprosy patients as any other prefecture on the mainland. Nevertheless, the establishment of sanatoriums was not realized because since 1910, the authorities of Okinawa Prefecture had repeatedly promoted plans to establish sanatoriums, but whenever the proposed site came to light, local residents fiercely opposed to the plan, despite the exercise of strong public authority.
 
-Evangelist Aoki saw the unfortunate situation of these friends in Okinawa, worked hard to get the land for them, thinking that even a piece of land would be enough if they could treat their disease without the pressure ofothers. Finally, he was able to buy 9,900 square meters of wasteland in Ufudoubaru, Yagaji Island, in the name of another person. On December 28, 1935, he forced the patients who had been wandering in vain to go to the land in Ufudoubaru, Yagaji Island, in the shadow of the night.
+Evangelist Aoki saw the unfortunate situation of these friends in Okinawa, worked hard to get the land for them, thinking that even a piece of land would be enough if they could treat their disease without the pressure of　others. Finally, he was able to buy 9,900 square meters of wasteland in Ufudoubaru, Yagaji Island, in the name of another person. On December 28, 1935, he forced the patients who had been wandering in vain to go to the land in Ufudoubaru, Yagaji Island, in the shadow of the night.
 
 But the place where the patients had finally arrived was not for a peaceful life. They were repeatedly attacked by the locals, and their tents were constantly torn down. If that’s so…they decided to build a cabin. They thought that building their own hut on their own land would be protected by the police, unlike the temporary tent, but it was a futile effort in the face of the angry locals. Even the huts were thrown into the sea. Evangelist Aoki, the leader, even had his life threatened.
 

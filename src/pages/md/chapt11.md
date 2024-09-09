@@ -257,7 +257,7 @@ We looked down at the row of houses below, reflecting the white light.
 
  “...”
 
- “After dinner, my father used to play Chindami, which is Sanshin in the Okinwan dialect. My family all gathered in the living room and listened to the sound of Chindami, surrounding our father, who was sitting on his back on the Buddhist altar. My grandmother and sisters sat on the left side, and my mother sat near the kitchen. We did not listen respectfully to his playing. My sisters were playing string games, my elder brother Yoshiyasu and I were resting our chins in our hands, and high school student, elder brother Okinori was reading a book. But no one spoke during this time. A bare 80-watt bulb hung in the center of the 3.6-meter-wide celling, and lying under the light, I could see the moonlight over Inabusumo creeping into the porch. And only the sound of Sanshin and his voice surrounded our family...”
+ “After dinner, my father used to play Chindami, which is Sanshin in the Okinawan dialect. My family all gathered in the living room and listened to the sound of Chindami, surrounding our father, who was sitting on his back on the Buddhist altar. My grandmother and sisters sat on the left side, and my mother sat near the kitchen. We did not listen respectfully to his playing. My sisters were playing string games, my elder brother Yoshiyasu and I were resting our chins in our hands, and high school student, elder brother Okinori was reading a book. But no one spoke during this time. A bare 80-watt bulb hung in the center of the 3.6-meter-wide celling, and lying under the light, I could see the moonlight over Inabusumo creeping into the porch. And only the sound of Sanshin and his voice surrounded our family...”
 
 “When did your father die?”
 
@@ -372,6 +372,6 @@ Since you had such a separation from your children, you must have thought about 
 
 “...Whether crying or laughing...this is the family.”
 
------The Family ----- As I remember, it was as if I had been on a continuous journey to find my family since I was diagnosed with Hansen’s disease.
+-----The Family ----- When I think about it, it was as if I have been on a continuous journey to find my family since I was diagnosed with Hansen’s disease.
 
 (The End)

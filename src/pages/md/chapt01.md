@@ -58,13 +58,13 @@ My brother repeated only the name of Yagaji Island twice.
 
 ----Ah, Yagaji, we stayed there for three years. It has been thirty-six years since we escaped from Yagaji Island-----.
 
-When we came back home from Yambaru (a generic name for the northern part of Okinawa Island), my mother ,and my sisters, Yoneko and Atsuko were waiting anxiously for our return which was later than expected.
+When we came back home from Yambaru (a generic name for the northern part of Okinawa Island), my mother and my sisters, Yoneko and Atsuko were waiting anxiously for our return which was later than expected.
 
-“You made a leisurely drive, didn’t you? I hear you climbed Mt.Oppadake, how was it? Kusunokiyama is not the same as it used to be...That mountain left nothing but fear to my childhood, yet it's strange, I always want to visit there whenever something happens…”
+“You made a leisurely drive, didn’t you? I hear you climbed Mt. Oppadake, how was it? Kusunokiyama is not the same as it used to be...That mountain left nothing but fear to my childhood, yet it's strange, I always want to visit there whenever something happens…”
 
 Atsuko making the tea told us that she has visited there many times.
 
-“We would never talk about Ikusayū (war years) face to face without an opportunity like today...Obā ( mom), you are the key person of today, so you have to answer Toshio's interview properly.”
+“We would never talk about Ikusayū (war years) face to face without an opportunity like today...Obā (mom), you are the key person of today, so you have to answer Toshio's interview properly.”
 
 “Ah, can I recall the past? I’m getting too old…”
 
@@ -110,7 +110,7 @@ My two sisters began to talk, piecing together their remaining memories.
 
 “The air raid happened shortly after we arrived in Nakijin from Minamidaito Island, and we didn't even have time to unpack our bags. The air raids lasted from about 7:00 in the morning until the evening, and most of our village was burned to the ground, including my house.
 
-“The friendly forces? Japanese army? No, no, totally non-resistance! It was just a one sided attack by the U.S.”.
+“The friendly forces? Japanese army? No, no, totally non-resistance! It was just a one-sided attack by the U.S.”.
 
 My mother interrupted.
 
@@ -134,7 +134,7 @@ My mother muttered and put her palms together.
 
 Suddenly, I remembered my father. My eyes went to the Buddhist altar.
 
-My father, who never stopped referring to the Self-Defense Forces as the Japanese Army. And he never tried to visit Minamidaitojima again. Sometimes he would mutter, “If only there were no war going on.”
+My father, who never stopped referring to the Self-Defense Forces as the Japanese Army. And he never tried to visit Minamidaito Island again. Sometimes he would mutter, “If only there were no war going on.”
 
 ## Single  File
 
@@ -198,7 +198,7 @@ Yoneko's soft voice grew louder.
 
 “Do you ask me whether all American soldiers are good people or not? No, not necessarily. Once a pimply-faced soldier came and pulled our mother out at gunpoint. She was still young, and he threatened her to follow him. He tried to lower Toshio down from his mother’s back. Gah! The American suddenly screamed and ran back in a hurry...
 
-“Toshio bit the AMERIKAA's (Okinawan dialect)nose. Toshio saved my life.”
+“Toshio bit the AMERIKAA's (Okinawan dialect) nose. Toshio saved my life.”
 
 My mother giggled and then laughed out loud.
 
@@ -236,11 +236,11 @@ When my mother told me that I had been infected in the Tonuka cave, I objected i
 
 My mother asked several questions about my explanation.
 
-“So you think it wasn't then?”
+“So, you think it wasn't then?”
 
 “There must have been a patient nearby who infected me the disease, so try to remember the situation.
 
-“Nuu, Toshio, ninbuchi watarumuncha ta-kuuran! ( No, no one has passed leprosy to you!)”
+“Nuu, Toshio, ninbuchi watarumuncha ta-kuuran! (No, no one has passed leprosy to you!)”
 
 At that time my mother said “pass” instead of the dialect “infect”.
 

@@ -126,7 +126,7 @@ I had good reason to be unkind to her. In April, at the same time with her assig
 
 Only if Ms. Setsuko had not come.... My one-sided assumption grew stronger every day. It was a complete misunderstanding, but my sense of justice had urged me to do it.
 
- She said, “I also hear that he will be visiting our school in particular. He asked us to bring your essays to his hotel tonight, because he is eager to read your writings. So I will bring them to him.”
+She said, “I also hear that he will be visiting our school in particular. He asked us to bring your essays to his hotel tonight, because he is eager to read your writings. So, I will bring them to him.”
 
 Mr. Kawabata Yasunari, the president of the Japan Pen Club, visiting Okinawa had been reported in all the newspapers. He requested to visit Airakuen apart from his schedules, also meet the students of Sumii Elementary and Junior High School.
 
@@ -240,7 +240,7 @@ My mother would just sob and sob.
 
 ‟What a pity, for this little child…”
 
-I had some nasty words for a mother like that.‟I don’t like it. I don’t want you to visit me. All you do is sob and sob. I’m the one who wants to cry! You came here to cheer me up, didn’t you?”
+I had some nasty words for a mother like that. ‟I don’t like it. I don’t want you to visit me. All you do is sob and sob. I’m the one who wants to cry! You came here to cheer me up, didn’t you?”
 
 Later, I preferred that my father visit me alone.
 
@@ -332,7 +332,7 @@ The next day I visited Evangelist Aoki after a long time.
 
 I melted the candle wax into an empty can. Then I added a wick to get ready my lamp. The desk was an empty cardboard box of sōmen (Japanese thin wheat noodles).
 
- After the lights went out, the lower part of the closet, emptied of bedding, became my study. It was the best of the best. But the closet door had to be closed to keep the light out. So my face was blackened with soot ever since I started studying in the special room.
+ After the lights went out, the lower part of the closet, emptied of bedding, became my study. It was the best of the best. But the closet door had to be closed to keep the light out. So, my face was blackened with soot ever since I started studying in the special room.
 
 ## Scorebrand Memorial Hill
 

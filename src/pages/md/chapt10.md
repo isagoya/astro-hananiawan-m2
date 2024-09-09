@@ -6,7 +6,7 @@ title: Underground Stem
 
 <!-- # Underground Stem -->
 
-## Nameplate
+## Doorplate
 
 The year-end drinking parties continued day after day.
 
@@ -64,7 +64,7 @@ It was after ten years to hear her voice on the phone.
 
  I could hear the sound of him coming down the stairs through the phone receiver.
 
- “Hello, this is Ryo. Are you my father?”
+ “Hello, this is Ryo. Father, Dad?”
 
  “Yes, I am.”
 
@@ -114,13 +114,13 @@ His eyes were moist when I looked up at him.
 
  “Well, removing them was annoying. Besides, they were the only thing I could smell from you two.”
 
- “Thank you. When I arrived here, the first thing I did was to look at the nameplate. My name and Yui’s name were next to yours. To tell the truth, I came here afraid and worried, if the name of an unknown lady was on the nameplate, what should I do?”
+ “Thank you. When I arrived here, the first thing I did was to look at the nameplate. My name and Yui’s name were next to yours. To tell the truth, I came here afraid and worried, if the name of an unknown lady was on the doorplate, what should I do?”
 
  “No, I’ve learned my lesson. Good for you for coming here alone. Didn’t you get lost?”
 
 “No problem. I got off at Higashimurayama Station and remembered the Ito-Yokado store.”
 
-“I see. Sit down anyway. Is Japanese tea okay?”
+“I see. Sit down anyway. Japanese tea okay?”
 
 My son watched my hands carefully as I prepared the tea.
 
@@ -246,7 +246,7 @@ After that, Ryo got permission from his parents in Hiroshima and began to study 
 
 ## Underground  Stem
 
-I remarried Shigeko in December 1993.
+I remarried to Shigeko in December 1993.
 
  My meeting with Shigeko began during the period when I was preparing to return to society from the Hansen’s disease sanatorium, going back and forth with nurses from the Akitsu treatment facility for children with severe motor and mental disabilities.
 
@@ -274,7 +274,7 @@ After that, the relationship with Shigeko, who had appeared out of the blue, had
 
 “On the balance beam, he put his arms on his hips, his face tense and red, but disappointed, and said, ‘Oh, no. Not today either. I’m going to eat a lot. I can’t carry you on my back yet, Aunt Teacher. I’ll try again tomorrow. Wait for me.
 
- It had been half a year since Kōa became a topic of conversation at our dinner table.
+ It had been half a year since Kōta became a topic of conversation at our dinner table.
 
  It was very amusing to listen to the daily reports of 100 children. Sometimes I thought I knew the faces of all the children I’d never seen.
 
@@ -284,7 +284,7 @@ Shigeko imitated Haruka’s eating gesture.
 
 “Did something happen to her?”
 
-“I went to the Lemon class, she was crying with eyes full of tears and said, ‘Auntie, Yū is mean to me. It’s not the sports meeting, but Yūis yelling at me, ‘Go for it! Go for it!”
+“I went to the Lemon class, she was crying with eyes full of tears and said, ‘Auntie, Yū is mean to me. It’s not the sports meeting, but Yū is yelling at me, ‘Go for it! Go for it!”
 
 I burst out laughing.
 
@@ -300,7 +300,7 @@ I could clearly see the richness of the conversation between parent and child as
 
 “The earth moves, they say.”
 
- Syunpei speaks proudly and with amazement about his new knowledge.
+ Shunpei speaks proudly and with amazement about his new knowledge.
 
  “That’s right.”
 

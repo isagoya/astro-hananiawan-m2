@@ -199,7 +199,7 @@ I presented “The Silence of Damien,” the counterargument to Mr. Fuyu, in the
 >
 > Although the statue of Damien has a profound effect on those who appreciate it, it definitely does not give the feeling of hatred. But even if we admit that there are some who feel only ‘ugliness’ from it, there is nothing to be afraid of.
 >
-> This work of art could never have any influence on those who have lost their emotions in connection with the imprinting of “new promotion of prejudices.
+> This work of art can never give influence connected with the imprinting movement of “new promotion of prejudices” to hearts that have lost the abilities to be moved.
 >
 > The statue of Damien has been moved from the permanent exhibition hall to the director’s reception room. No, it was not moved, it would be more correct to say that it was hidden.
 >
@@ -209,7 +209,7 @@ I presented “The Silence of Damien,” the counterargument to Mr. Fuyu, in the
 >
 > It was surprising that the artistic evaluation on the part of the Museum was at this level. ‘The Statue of Damien’ is the praise of humanity itself, and ‘The Hiroshima Panels’ is the rage against violence in its theme.
 >
-> Putting them in the same category of ‘ugliness’, there is nothing to say!
+> What a thing to lump them all into same category of 'ugliness'!
 >
 > The works of art for the permanent exhibition are purchased in accordance with the artistic standards of each museum, which, of course, must select the works of art as the cultural treasures of their prefectures after considering the intention of the authors of the works, the social background of the works, the evaluations of each work, and so on. The works of art that deal with social have always been attacked. The directors and curators of museums who are disturbed by the attacks of some people or who cannot answer the questions of the protesters will have their judgment as guardians of the Hall of Fame questioned and will be disqualified.
 >
@@ -272,7 +272,7 @@ On November 4, 1986, the evening edition of The Mainichi Newspaper carried the m
 >
 >“Looking back on the course of this argument, my ‘declaration of innocence’ began to seem like a too superficial ‘general remark’. But Mr. Fuyu’s third essay was so severe as to silence the opponents, and I wondered if I was the only one who felt that his sense of being victimized had been aggravated to emotional..."
 >
-> Rather, I felt that his attitude was to stick to his own opinion and not to listen to others. In addition, his reference to the ‘removal of the statue of Damien’ as the ‘general consensus’ of the association was incorrect. When I first attended their meeting in January 1986, they talked about it only a little. I think Mr.Fuyu had already finished his text by then. It was after the statue had been
+> Rather, I felt that his attitude was to stick to his own opinion and not to listen to others. In addition, his reference to the ‘removal of the statue of Damien’ as the ‘general opinion’ of the association was not appropriate. When I first attended their meeting in January 1986, they talked about it only a little. I think Mr.Fuyu had already finished his text by then. It was after the statue had been
 removed, and the meeting was adjourned for lack of time without a vote, but I thought from the beginning that it was going too far to demand its removal...
 >
 > It is necessary to make our general opinion known to the outside world.
@@ -304,7 +304,7 @@ Mr. Otani Fujio argues in his “Contemporary Stigma” as follows.
 
 More recently, in March 1994, in ‘Kikuchino,’ published by the Kikuchikeifuen Association, Mr. Akira Ota touched on the subject in ‘Around Damien.’
 
-> “Although Mr. Fuyu and Mr. Iha, one a decade younger than the other at the time, both graduated from Nagashima High School. They overcame many obstacles, returned to society, married a healthy person, and lived with their families in the same suburbs of Tama. Their arguments as persons returned to society was paid attention to inside and outside.
+> “Although Mr. Fuyu and Mr. Iha, were a decade apart in age, both graduated from Nagashima High School. They overcame many obstacles, returned to society, married a healthy person, and lived with their families in the same suburbs of Tama. Their arguments, as persons returned to society, was paid attention to inside and outside.
 >
 > Surely it would be unreasonable to expect a calm state of mind from
  rehabilitated persons who live in the same area where the museum permanently exhibits a statue of ‘Damien’ so realistically carved that they can imagine a seriously ill patient in an untreated pre-war state, without special medicines or chemotherapy. Moreover, it is no exaggeration to say that people who return to society with aftereffects on their important faces or hands fear that their livelihood may be threatened... I left the museum as the sun was setting, praying for peace and healing for Damien, who will forever stand like a ghost with his pitiful figure full of pain."
@@ -317,7 +317,7 @@ In 1993, the statue of “Damien Disfigured”, which had been attacked and remo
 
 Despite the fact that people suffered from Hansen’s disease are finally beginning to regain their human dignity by cutting off the unreasonable yoke, works of art are still bound in silence and captivity.
 
-After all, the “statue of Damien Disfigured” ought to greet the citizens of Saitama Prefecture at the entrance hall of the Saitama Modern Museum.
+After all, the “Statue of Damien Disfigured” ought to greet the citizens of Saitama Prefecture at the entrance hall of the Saitama Modern Museum.
 
 The statue of Damien would ask visitors hard questions.
 
