@@ -495,7 +495,7 @@ Even though he had drunk so much, his step was firm.
  “Children grow up without parents, without parents they grow up better... Why not? Remember Dan Kazuo’s last haiku?”
 
 > **Mogari Whistle, how many nights to blow with aspire to
-meet flowers**
+meet the flowers**
 >
 > **MogariBue, IkuyoMogarase Hana ni Awan**
 >
