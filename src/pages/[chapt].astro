@@ -17,8 +17,8 @@ export function getStaticPaths() {
   // return staticPath;
 
   // 2から13番目までのchapterを取得
-  // 2から16番目までのchapterを取得
-  return chapters.slice(2, 16).map((chapter, i) => {
+  // 2から15番目までのchapterを取得
+  return chapters.slice(2, 15).map((chapter, i) => {
     return {
       params: { chapt: 'chapt-' + (i + 1) },
       props: { chapter, i },
