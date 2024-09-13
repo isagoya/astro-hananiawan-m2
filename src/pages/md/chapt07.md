@@ -326,7 +326,7 @@ Their discussion was filled with a new quality that I had never experienced befo
 
 “Sayo, I think the way you talk to A. is wrong. You should stop using baby talk. Even if he is mentally handicapped, we should talk to him in his own age-appropriate way.”
 
-“Obuchi, you should stop talking only to B., that goed against the policy we have decided.
+“Obuchi, you should stop talking only to B., that's against the policy we have decided.
 
  They had no mercy for each other. As they became more agitated, their voices rose and the local Akita dialect began to mix in.
 
