@@ -217,7 +217,7 @@ The room of Dr. Narita, the honorary director, had only an office desk and a cha
 
 “Very nice. I hope it will be something to illuminate its history, not written with our imagination.”
 
-## Kagiyadefuu (Ryukyuan Dance for a Feast)
+## Kagiyadefuu (Ryukyuan Dance)
 
 In January 1994, I returned home with my wife Shigeko.
 
