@@ -1,6 +1,6 @@
 ---
 
-title: Kagiyadefuu (Ryukyuan Dance)
+title: Kagiyadefuu (Ryukyuan Dance for a Feast)
 
 ---
 
@@ -217,7 +217,7 @@ The room of Dr. Narita, the honorary director, had only an office desk and a cha
 
 “Very nice. I hope it will be something to illuminate its history, not written with our imagination.”
 
-## Kagiyadefuu (Ryukyuan Dance)
+## Kagiyadefuu (Ryukyuan Dance for a Feast)
 
 In January 1994, I returned home with my wife Shigeko.
 
