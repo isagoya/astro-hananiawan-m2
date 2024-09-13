@@ -1,6 +1,6 @@
 ---
 
-title: Kagiyadefuu (Ryukyuan Dance for a Feast)
+title: Kagiyadefuu (Ryukyuan Dance)
 
 ---
 
