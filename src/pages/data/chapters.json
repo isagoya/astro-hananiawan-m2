@@ -75,8 +75,8 @@
 
   },
   {
-    "description": "",
     "title": "House of Sand",
+    "description": "",
     "subChapters": ["Ripples", "Human Archipelago", "Quicksand", "Crests of Waves"],
     "subAlias": ["", "(NHK TV Program)", "", ""],
     "fileName": "chapt-9"
@@ -114,7 +114,7 @@
 
   },
   {
-    "title": "Epilogue",
+    "title": "Afterword",
     "description": "",
     "subChapters": [],
     "subAlias": [],
