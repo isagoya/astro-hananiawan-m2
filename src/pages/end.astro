@@ -1,0 +1,33 @@
+---
+// import '../styles/global.css';
+import Navigation from "../components/Navigation.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import Donation from "../components/Donation.astro";
+import PaginationEnd from "../components/PaginationEnd.astro";
+import Introduce from "./data/introduce.html";
+import Afterword from "./md/afterword.md";
+// import TableOfContens from "./data/table-of-contents.html";
+import TableOfContens from "../components/TableOfContens.astro";
+
+const title = "Afterword";
+const type = "end";
+const num = 16;
+const description = "";
+---
+
+<BaseLayout pageTitle={title} pageType={type}>
+  <Header title={title} num={num} description={description}/>
+  <Donation />
+
+  <Afterword/>
+  <!-- <Introduce /> -->
+  <!-- <TableOfContens /> -->
+</BaseLayout>
+
+<Footer>
+  <PaginationEnd />
+</Footer>

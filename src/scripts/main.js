@@ -41,11 +41,16 @@ function setPagination() {
   active.firstElementChild.textContent = chapter_num;
   // console.log(active.firstElementChild.textContent);
   let next = document.getElementById('next');
-  let next_url = `/chapt-${Number(chapter_num) + 1}/index.html#`
+  let next_url
+  if (Number(chapter_num == 13)) {
+    next_url = '../end.html#'
+    console.log(next_url);
+  } else {
+    next_url = `/chapt-${Number(chapter_num) + 1}/index.html#`
+  }
   next.firstElementChild.setAttribute('href', next_url)
-  // 11ページまでを表示する
-  // 13ページまでを表示する
-  if (Number(chapter_num) > (13 - 1)) {
+  // next link 右矢印を 13ページまでを表示する。それ以上では隠す
+  if (Number(chapter_num) > 14) {
     next.setAttribute('style', 'visibility: hidden;');
   }
 }
