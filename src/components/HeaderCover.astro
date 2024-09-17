@@ -1,8 +1,10 @@
 ---
 const book = {
   title:'Hana ni Awan',
-  subTitle: 'Meet the Flower',
+  subTitle: 'Aspire to Meet the Flower',
   auther: 'Iha Toshio',
+  transrator: "Endo Masako",
+  illustrator: "Maeta Koyomi",
   imageUrl:  '/assets/images/hananiawan-cover1.jpg'
 };
 ---
@@ -10,9 +12,13 @@ const book = {
 <header id="meet-the-flowers" class="row justify-content-center">
   <div class="col-md-6 col-lg-4">
     <div id="chapter_num" style="visibility: hidden;">0</div>
-    <h1>{book.title}</h1>
-    <h1 style="font-size: 1.6rem;">{book.subTitle}</h1>
-    <p>Author: {book.auther}</p>
+    <h1 id="title" >{book.title}<br>
+    <span id="subTitle" style="font-size: 1.6rem;">{book.subTitle}</span>
+    </h1>
+    <p>Author : <span style="font-weight: bold; font-size: larger;">{book.auther}</span></p>
+    <>transrated by <span style="font-weight: bold;">{book.transrator}</span>
+    <br>illustrated by <span style="font-weight: bold;">{book.illustrator}</span></br>
+
     <div class="fig" id="fig-cover"><img src={book.imageUrl} alt="cover"
         style="width: 100%;">
     </div>
