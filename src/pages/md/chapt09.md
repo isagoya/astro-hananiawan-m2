@@ -497,8 +497,6 @@ Even though he had drunk so much, his step was firm.
 > **Mogari Whistle, how many nights to blow with aspire to
 meet the flowers**
 >
-> **MogariBue, IkuyoMogarase Hana ni Awan**
->
 > **モガリ笛 いく夜もがらせ 花ニ逢はん**
 
 “That’s it! Mogari Whistle. The whistling sound of a winter night blowing through the bamboo fence. You should not hear the sound with your ears, but react to it with your guts...”
