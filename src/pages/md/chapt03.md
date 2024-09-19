@@ -1,10 +1,12 @@
 ---
 title: Mangrove
 ---
+
 <!-- # Mangrove -->
+
 ## The First thing in the morning, Paranku
 
- “Rat a tat, rat a tat, rat a tat!”
+“Rat a tat, rat a tat, rat a tat!”
 
 Six o’clock in the morning. The sound of the paranku (small Okinawan drum) played by Ishigaki Tamotsu, a dorm brother, echoes throughout the boys’ and girls’ dormitories.
 
@@ -36,9 +38,9 @@ In the boys’ and girls’ dormitories, there lived dormitory father Kishimoto 
 
 He gave the usual confirmation before the radio exercise. This was the beginning of a day of our community life with 56 members.
 
- The number of rabbits kept in the air-raid shelter, left as it was after the war as a valuable source of protein, had increased to 60, and the role of the rabbit duty was to mow the weeds for their food. The children without duty were to clean the garden and each room. It was scheduled after the radio exercise until breakfast at 7:15.
+The number of rabbits kept in the air-raid shelter, left as it was after the war as a valuable source of protein, had increased to 60, and the role of the rabbit duty was to mow the weeds for their food. The children without duty were to clean the garden and each room. It was scheduled after the radio exercise until breakfast at 7:15.
 
- After the breakfast, the children sat at their desks with their textbooks and studied until 8:00 a.m., just before going to school.
+After the breakfast, the children sat at their desks with their textbooks and studied until 8:00 a.m., just before going to school.
 
 “Time to go to school!”
 
@@ -52,7 +54,7 @@ The marble monument under the trees at the corner of the site is inscribed with 
 > The bell of the forest, ring and tell the message  
 > Friends, take hands encourage each other,  
 > In the rainy mornings, even in the windy nights.  
-> Let’s devote ourselves to the path of learning  
+> Let’s devote ourselves to the path of learning
 
 Next to the school song was the bell, which rang out the time to the children. The bell was given to the school from the donation for the reconstruction of the war-damaged school during the time when Mr. Yara Chōbyō was the president of the Okinawa Teachers Association.
 
@@ -60,7 +62,7 @@ The total number of students who have passed through the gate since the school o
 
 In 1951, the number of students in Sumii Elementary and Junior High was 106. In 1986, there were 46. By 1980, the number had dropped to zero. The closure of Sumii Elementary and Junior High, with its 30-years history, also meant the end of Hansen’s disease in Okinawa Prefecture.
 
- At the time of my infection, it was decided that Sumii Primary and Junior High School would have a headmaster and two teachers, one of whom would have to be a qualified person for leprosy patients.
+At the time of my infection, it was decided that Sumii Primary and Junior High School would have a headmaster and two teachers, one of whom would have to be a qualified person for leprosy patients.
 
 Of course, it was difficult to educate 60 children with only three teachers, including the principal. As a solution, the salary of Ms. Chikako, a patient teacher who was being treated at the sanatorium, was donated to the School Support Association and divided equally among four patient assistant teachers to joining the management of the school.
 
@@ -72,15 +74,15 @@ We had free time until 7:00 p.m., including dinner, and each of us made friends 
 
 From 7:00 p.m. to 8:00 p.m. was scheduled for evening study, but Masakazu, an elementary second grader, was forced to sit at his desk, almost in tears.
 
- “Toshi, I’already studied in the morning, so there is nothing left to study”.
+“Toshi, I’already studied in the morning, so there is nothing left to study”.
 
 Then at 9 o’clock all the lights would be turned off, and that would be the end of the day.
 
 Looking back, it was a really orderly day. And yet, strangely enough, I never felt cramped. Perhaps those three years had been well filled days for me.
 
-  However, an unfathomable anxiety overtook me as I grew up in the third year of junior high.
+However, an unfathomable anxiety overtook me as I grew up in the third year of junior high.
 
- “What should I do from now on? How should I live?”
+“What should I do from now on? How should I live?”
 
 I slipped out of my bed and spent many nights alone on the roof.
 
@@ -118,7 +120,7 @@ Dad. Kishimoto slapped my cheek.
 
 It was June 1958, and I was in the third grade of junior high school. Ms. Tokuda Setsuko, the Japanese teacher, entered the classroom with a flushed face.
 
-  “Big news! Big news to tell you! Mr. Yasunari Kawabata, the author of ‘Izu no Odoriko’ (The Dancing Girl of Izu), will be here in Airakuen the day after tomorrow!”
+“Big news! Big news to tell you! Mr. Yasunari Kawabata, the author of ‘Izu no Odoriko’ (The Dancing Girl of Izu), will be here in Airakuen the day after tomorrow!”
 
 Ms. Setsuko was a new graduate teacher who was assigned to our school at the beginning of the new school year. During classes, she would often become confused and be tearful in response to my nasty questions. I wondered what had happened to the way she looked so excited today, in contrast to her gloomy mood when she entered the classroom these days.
 
@@ -134,7 +136,7 @@ On the 8th of June, I was called out of the blue to see Principal Yasuda before 
 
 Now I do not have the essay in my hand, but as I recall, the title was ‘A Single Ear of Rice’.
 
- A stream, whose source is the Sumuide tribe, flows into a creek at the southern border of Airakuen. Around the creek, where the river and the sea mix, mangroves glow in clusters. Right at the broken end of the creek, was a weir and a sluice gate. It also was my favorite secret place.
+A stream, whose source is the Sumuide tribe, flows into a creek at the southern border of Airakuen. Around the creek, where the river and the sea mix, mangroves glow in clusters. Right at the broken end of the creek, was a weir and a sluice gate. It also was my favorite secret place.
 
 As I watched the creek from the sluice gate, a single stalk with its ear of rice flows and gets caught in the edge of the weir. And it repeated, sinking and rising. I stared at the scene, and before I knew it, I found myself encouraging the single ear of rice, ‟Good luck, good luck. At the same time I remembered the faces of my father and mother. I remember the rough outline of the essay something like this.
 
@@ -262,7 +264,7 @@ Seisuke, who always funny was playful.
 
 ‟ I think the teacher’s engine is worn out, so he’s using the class as an excuse to get us to clean it, isn’t he?” he said.
 
- ‟You’re right, Seisuke. Don’t be a silly boy and forget the screw.”
+‟You’re right, Seisuke. Don’t be a silly boy and forget the screw.”
 
 Putting the engine back together and turned the kye, it started well.
 
@@ -312,19 +314,19 @@ Since then, I have visited Mr. Tokuda over and over again.
 
 He said, ‟I feel sorry for you, Sekiguchi, but unfortunately there is nothing we can do at the moment. You see, Okinawa is under U.S. administration. And there are obstacles such as the Immigration Control Ordinance, big walls like the Immigration Control Law, the Quarantine Law, and the Leprosy Prevention Law. It is difficult for leprosy patients to get out of Airakuen, let alone it is almost impossible for us to cross over from Okinawa to the mainland...”
 
- No matter how many times I asked him, his answer was always the same. That day I listened to him with slumped shoulders.
+No matter how many times I asked him, his answer was always the same. That day I listened to him with slumped shoulders.
 
 ‟Sekiguchi, you want to go to high school so badly, right? Okay, then I’ll give you some good advice. Remember, I’m just talking this to myself, okay? The obstacle to your dream of going to the mainland is the law. If you follow the law and it becomes an obstacle, then you have to break the law. To be unlawful is another wisdom of man.” He laughed “wah-har-har”
 
 I was at a loss to understand the meaning of what Chairman Tokuda told me, because it sounded so complicated.
 
- ‟Listen, Sekiguchi, if being a leper is an obstacle, why don’t you stop being a Hansen’s disease patient for a while? If you are labeled as Hansen’s disease patient by staying in the Hansen’s disease sanatorium, why not escape from Airakuen?”
+‟Listen, Sekiguchi, if being a leper is an obstacle, why don’t you stop being a Hansen’s disease patient for a while? If you are labeled as Hansen’s disease patient by staying in the Hansen’s disease sanatorium, why not escape from Airakuen?”
 
 ‟Escape! Escape from Airakuen. I see!”
 
 ‟We are the same Japanese. It is ridiculous that the way to take the examination is closed for you just because you live in Okinawa. We will do our best. Your dream sure will come true. First of all, improve your academic skills and prepare for the coming time.
 
- ‟Yes.”
+‟Yes.”
 
 The next day I visited Evangelist Aoki after a long time.
 
@@ -332,27 +334,27 @@ The next day I visited Evangelist Aoki after a long time.
 
 I melted the candle wax into an empty can. Then I added a wick to get ready my lamp. The desk was an empty cardboard box of sōmen (Japanese thin wheat noodles).
 
- After the lights went out, the lower part of the closet, emptied of bedding, became my study. It was the best of the best. But the closet door had to be closed to keep the light out. So, my face was blackened with soot ever since I started studying in the special room.
+After the lights went out, the lower part of the closet, emptied of bedding, became my study. It was the best of the best. But the closet door had to be closed to keep the light out. So, my face was blackened with soot ever since I started studying in the special room.
 
 ## Scorebrand Memorial Hill
 
 At the beginning of the second semester, I wrote a letter. Unusually, I wrote my mother to visit me by herself. I had decided to tell my mother first. If I told my father first, and he objected, there was no way to reverse the decision. Therefore it was my secret intention to avoid predictable dangers by going through my mother.
 
- That Sunday I took my mother to Scorebrand Park instead of the visiting room.
+That Sunday I took my mother to Scorebrand Park instead of the visiting room.
 
 I did not want anyone to hear our conversation.
 
- Scorebrand Park is located in the center of the sanatorium and is built around a small hill about 30 meters high. Scorebrand is a personal name. Dr. Rolf von Scorebrand served as Director of Public Health for the U.S. Military Government from 1949 to 1952.
+Scorebrand Park is located in the center of the sanatorium and is built around a small hill about 30 meters high. Scorebrand is a personal name. Dr. Rolf von Scorebrand served as Director of Public Health for the U.S. Military Government from 1949 to 1952.
 
 He had many accomplishments. Specially mentioned were contributing to the reconstruction of the sanatorium after the war and opened the way to secure 3,000 Kcal of food per day for the patients, which was needed for the Hansen’s disease patients in the special remedy with pro-min.
 
- At the top of the hill is the ‟Bell of Confidence and Hope,” a gift from the Neukorn Ironworks in Germany through his efforts. The bell is huge, weighing 1,400 kg, and it tells the time in the morning, at noon, in the evening, and in the meeting hours of the church.
+At the top of the hill is the ‟Bell of Confidence and Hope,” a gift from the Neukorn Ironworks in Germany through his efforts. The bell is huge, weighing 1,400 kg, and it tells the time in the morning, at noon, in the evening, and in the meeting hours of the church.
 
- In appreciation of his efforts, the patients named the entire hill with the bell tower ‟Scorebrand Park” and take care of the park.
+In appreciation of his efforts, the patients named the entire hill with the bell tower ‟Scorebrand Park” and take care of the park.
 
- Dr. Scorebrand spent the rest of his life in Okinawa and his ashes are kept in the ossuary of the sanatorium with other patients, according to his will.
+Dr. Scorebrand spent the rest of his life in Okinawa and his ashes are kept in the ossuary of the sanatorium with other patients, according to his will.
 
- We walked through the flower beds, climbed up the 20 or so steps, and another winding 30 steps brought us to the top of the park.
+We walked through the flower beds, climbed up the 20 or so steps, and another winding 30 steps brought us to the top of the park.
 
 We sat down side by side on a bench.
 
@@ -388,7 +390,7 @@ Graduation was approaching. But I became impatient because my plan to go to Yama
 
 Out of 8 classmates (3 boys and 5 girls), none of them were expected to recover from their illnesses and prospect to leave the sanatorium. There was a mood of giving up among them.
 
- At the class meeting, I made an appeal. ‟If things continue as they are, when we graduate from junior high school, we will all have to go to the youth and virgin dormitories. However, there is no environment where you can study in both dormitories. Now, I have a suggestion for you. How about staying here in this boys’ and girls’ dormitory for another one year as a time limit, and figure out the way to continue your study?”
+At the class meeting, I made an appeal. ‟If things continue as they are, when we graduate from junior high school, we will all have to go to the youth and virgin dormitories. However, there is no environment where you can study in both dormitories. Now, I have a suggestion for you. How about staying here in this boys’ and girls’ dormitory for another one year as a time limit, and figure out the way to continue your study?”
 
 ‟I agree with you!”
 
@@ -402,7 +404,7 @@ And then we got serious. First, we stormed into the teacher’s room and asked f
 
 ‟Please let us continue to study in this school, even in a corner of the classroom will do,” we said.
 
- ‟That is impossible. The School Education Law does not allow such a special exception.”
+‟That is impossible. The School Education Law does not allow such a special exception.”
 
 ‟Then let us stay here for retention due to poor performance.”
 
@@ -424,31 +426,31 @@ The president of the residents’ association announced with a big smile on his 
 
 ‟The seven students will be allowed to stay in the dormitory for another one year after the graduation. They can use the vacant room in Section One. We have asked Mr. Denda and Mr. Kinjo to take care of you as teachers. Good luck!”
 
- Even the teachers, chosen from among the patients, were prepared for us. Thus, for the first time since the founding of the sanatorium, a ‟preparatory school” was opened.
+Even the teachers, chosen from among the patients, were prepared for us. Thus, for the first time since the founding of the sanatorium, a ‟preparatory school” was opened.
 
 We called it the ‟School for Seven Students”.
 
- This was the beginning of the appeal ‟Give Opportunities to Study for the Children of Okinawa,” which first moved Okinawan patients living in sanatoriums on the mainland to take action.
+This was the beginning of the appeal ‟Give Opportunities to Study for the Children of Okinawa,” which first moved Okinawan patients living in sanatoriums on the mainland to take action.
 
 However, contrary to our expectations, progress was slow.
 
- In December 1959, when I was still a member of the School for the Seven Students, I appealed directly to my father about going to the mainland.
+In December 1959, when I was still a member of the School for the Seven Students, I appealed directly to my father about going to the mainland.
 
 ‟Toshio, do you really want to study so much? I’ve heard about it from Mom. Okay.
 
 You have my permission. Summarize what kind of preparation is needed.”
 
-  I felt my shoulders relax.
+I felt my shoulders relax.
 
 In January 1960, Dad Kishimoto called me into the dining room of the sanatorium.
 
- ‟I have made contact with Mr. Ishigaki of Hoshizuka Keiaien in Kagoshima Prefecture. Susumu, you can run away. But don’t tell anyone, okay?”
+‟I have made contact with Mr. Ishigaki of Hoshizuka Keiaien in Kagoshima Prefecture. Susumu, you can run away. But don’t tell anyone, okay?”
 
 He has been worried about the after-effects of my limbs for a long time.
 
 ‟How I wish you could study on the mainland, Susumu. But I’m afraid that your illness with your limping hands might be known before you get on the ship!”
 
-  But Dad Kishimoto was a little different than usual that day.
+But Dad Kishimoto was a little different than usual that day.
 
 ‟Do you bet?”
 

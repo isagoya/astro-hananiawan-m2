@@ -1,34 +1,36 @@
 ---
 title: Airano
 ---
+
 <!-- # Airano -->
+
 ## Smoke from Sakurajima
 
- Passengers took off their shoes on the straw mat and greeted each other for spending a whole day and night next to each other by chance.
+Passengers took off their shoes on the straw mat and greeted each other for spending a whole day and night next to each other by chance.
 
- In the third-class cabin at the bottom of the ship, only a few people were relaxing. Others were anxious, saying that it was their first time going to the mainland, or loudly talking about trains, and some passengers gathered around the man spreading a map, who had been to the mainland several times.
+In the third-class cabin at the bottom of the ship, only a few people were relaxing. Others were anxious, saying that it was their first time going to the mainland, or loudly talking about trains, and some passengers gathered around the man spreading a map, who had been to the mainland several times.
 
- The passengers were relieved to find out that they were Okinawa residents. However, the Okinawan dialect was not heard in the cabin. It was as if the dialect had been locked away and only an unfamiliar common language was floating around.
+The passengers were relieved to find out that they were Okinawa residents. However, the Okinawan dialect was not heard in the cabin. It was as if the dialect had been locked away and only an unfamiliar common language was floating around.
 
 My body was covered with a blanket, only my face was visible. A regular engine noise was transmitted to my lying body.
 
- Whenever the ship rocked heavily, my father’s knee, sitting cross-legged, touched my shoulder through the blanket.
+Whenever the ship rocked heavily, my father’s knee, sitting cross-legged, touched my shoulder through the blanket.
 
- My father and I did not take any of the three meals served on the ship.  Each time he repeated, ‟My son and I were seasick. Neither of us was seasick."
+My father and I did not take any of the three meals served on the ship. Each time he repeated, ‟My son and I were seasick. Neither of us was seasick."
 
 After refusing the food, he whispered to me. ‟We’re almost there. Be patient.”
 
 ‟The Naha Maru will soon arrive at Kagoshima Port on schedule. The ship is now in Kinko Bay. Please review the forms we have provided for you to fill out. When you get off the ship, each person must hand the form to the attendant. You will also need your passport, so please have it ready.”
 
- When the announcement was made, there was a new sense of urgency on board. Another announcement followed.
+When the announcement was made, there was a new sense of urgency on board. Another announcement followed.
 
 ‟From now on, officers will be going to your cabins for quarantine. Please wait with your quarantine papers ready.”
 
- My father grabbed my arm again. I could feel the tension in his arm.
+My father grabbed my arm again. I could feel the tension in his arm.
 
- We joined the line that led to the quarantine officer. Of course, I didn’t forget to cover my hands with the overcoat I was holding to my chest.
+We joined the line that led to the quarantine officer. Of course, I didn’t forget to cover my hands with the overcoat I was holding to my chest.
 
- ‟You and your son, two. Do you have any fever, diarrhea, or other physical changes?”
+‟You and your son, two. Do you have any fever, diarrhea, or other physical changes?”
 
 The quarantine officer asked us, following the documents with his white-gloved hand.
 
@@ -38,15 +40,15 @@ The quarantine officer asked us, following the documents with his white-gloved h
 
 We left the line behind us. My father smiled at me for the first time as we stepped out of his cabin, ran up to the deck and sat down.
 
- At the port of Kagoshima, the people greeting the passengers formed a semicircle around the ramp, and those who came to greet and to disembark from the ship stretched out their necks, ran up to each other, and called each other by name.
+At the port of Kagoshima, the people greeting the passengers formed a semicircle around the ramp, and those who came to greet and to disembark from the ship stretched out their necks, ran up to each other, and called each other by name.
 
- The semicircle began to collapse. From the frayed spot, a vertical line of people continued toward Kagoshima Station.
+The semicircle began to collapse. From the frayed spot, a vertical line of people continued toward Kagoshima Station.
 
- As I walked down the ramp with my father holding the trunks in both hands, a voice from the crowd called out to us, ‟Hi, Iha Toshio, here I am. Hi, Iha!” A tall man in his forties greeted us.
+As I walked down the ramp with my father holding the trunks in both hands, a voice from the crowd called out to us, ‟Hi, Iha Toshio, here I am. Hi, Iha!” A tall man in his forties greeted us.
 
 ‟How do you do? I am Yamada. You must be tired. Mr. Ishigaki asked me to be your guide. Toshio, I’m glad to see you. The sea voyage must have made you tired, right?”
 
-‟It’s all right.” To be honest, I was just so hungry and weak and almost losing my  knees. My body still felt the vibrations from the ship’s rocking.
+‟It’s all right.” To be honest, I was just so hungry and weak and almost losing my knees. My body still felt the vibrations from the ship’s rocking.
 
 ‟Mr. Yamada, is there any place to eat?”
 
@@ -60,13 +62,13 @@ Mr. Yamada, watching this exchange, laughed with his stomach in his hands.
 
 ‟Toshio, this is natto, a fermented soybean food. To tell you the truth, I was surprised myself at first,” he laughed as he politely explained it to me.
 
- My father and Mr. Yamada continued to talk during their meal.
+My father and Mr. Yamada continued to talk during their meal.
 
 ‟I have the same disease as Toshio. I am a teacher, but I came to Kagoshima on a one-year sick leave. I had some problems with the treatment in Okinawa...‟ he said.
 
 My father did not ask about Mr. Yamada himself. He did not ask any questions about Mr. Yamada himself. I listened to their conversation and felt that he was thinking of Mr. Yamada as much as he could.
 
- The Nankai Yusen (ocean liner) sailed from Kagoshima Harbor to Tarumizu Harbor, crossing Kinko Bay.
+The Nankai Yusen (ocean liner) sailed from Kagoshima Harbor to Tarumizu Harbor, crossing Kinko Bay.
 
 ‟Over there is Sakurajima.”
 
@@ -74,19 +76,19 @@ As I had assumed from textbook knowledge, the active Sakurajima volcano should h
 
 It took about 35 minutes to get to Tarumizu Port.
 
- We were told that from Tarumizu we would take a bus to ‟Kanoya and then change to another bus to Hoshizuka Keiaien.
+We were told that from Tarumizu we would take a bus to ‟Kanoya and then change to another bus to Hoshizuka Keiaien.
 
 ‟There used to be a base for the Kamikaze Corps (suicide pilots) in Kanoya. Over 1000 young men took off from this base and lost their lives in the skies over Okinawa.”
 
- My father nodded silently at Mr. Yamada’s explanation.
+My father nodded silently at Mr. Yamada’s explanation.
 
- Kanoya City is located in the center of the Osumi Peninsula, surrounded by the Takakuma Mountains to the north and the Kimotsuki Mountains to the southeast. The Kimotsuki Plain, where Kanoya City is located, runs diagonally between these two plains, and the area around the Hansen’s Disease Sanatorium was called Airano.
+Kanoya City is located in the center of the Osumi Peninsula, surrounded by the Takakuma Mountains to the north and the Kimotsuki Mountains to the southeast. The Kimotsuki Plain, where Kanoya City is located, runs diagonally between these two plains, and the area around the Hansen’s Disease Sanatorium was called Airano.
 
- The Hoshizuka Keiaien was in the middle of a field, surrounded by tall cypress trees, and very different from the small clusters of private houses with forests scattered nearby.
+The Hoshizuka Keiaien was in the middle of a field, surrounded by tall cypress trees, and very different from the small clusters of private houses with forests scattered nearby.
 
- When we got off the bus, a straight road stretched across the farmland to the main gate, only where the cypress wall was broken.
+When we got off the bus, a straight road stretched across the farmland to the main gate, only where the cypress wall was broken.
 
- On the way, my father stopped and picked up a small lump of earth from the field beside the road and put it in his mouth.
+On the way, my father stopped and picked up a small lump of earth from the field beside the road and put it in his mouth.
 
 ‟The soil is soft, but surprisingly poor, isn’t it?” my father said.
 
@@ -96,7 +98,7 @@ It took about 35 minutes to get to Tarumizu Port.
 
 Mr. Ishigaki Yaeo, my father, and I were at the office of the sanatorium.
 
- “Mr. Ishigaki, we are at a loss because you brought him here so suddenly. I've heard about it, but we also have to make some preparations. We've been in contact with headquarters, but we haven't come to an agreement yet...” the staff said.
+“Mr. Ishigaki, we are at a loss because you brought him here so suddenly. I've heard about it, but we also have to make some preparations. We've been in contact with headquarters, but we haven't come to an agreement yet...” the staff said.
 
 “That is ridiculous. That was the matter of tacit agreement between the community association and this sanatorium, wasn't it?”
 
@@ -108,19 +110,19 @@ Mr. Ishigaki Yaeo, my father, and I were at the office of the sanatorium.
 
 “Then you will force him to be repatriated, won't you?”
 
- “I didn't say that…”
+“I didn't say that…”
 
- “See, he is standing right in front of you!”
+“See, he is standing right in front of you!”
 
 A loud exchange continued at the counter of the office. On the other side of the glass windows, the staff stood up and listened.
 
 “What's the matter? What's going on?” the petite woman shouted, breaking the circle of staff.
 
- One of the staff at the counter told her the whole story so far. I could see her expression change as she listened to his story.
+One of the staff at the counter told her the whole story so far. I could see her expression change as she listened to his story.
 
 “And what are you going to do with him?” It was almost an accusatory tone.
 
- “Well, there are some things to make contact with…”
+“Well, there are some things to make contact with…”
 
 “What kind of contact?”
 
@@ -130,7 +132,7 @@ A loud exchange continued at the counter of the office. On the other side of the
 
 “Have you thought at all about what this boy went through to get here?”
 
- “Then, are you going to send him back to Okinawa?” she asked severely.
+“Then, are you going to send him back to Okinawa?” she asked severely.
 
 “Well, there are some things to do with papers and so on…”
 
@@ -144,7 +146,7 @@ The name tag on her chest was written “Matsuda.”
 
 “We abandoned Okinawa during the war and in its aftermath. If you do not accept this boy now, it will be another abandonment of Okinawa!” It sounded like a scream.
 
- When Dr. Matsuda came, the situation at the office desk changed completely.
+When Dr. Matsuda came, the situation at the office desk changed completely.
 
 On March 8, 1960, the door of the Hoshizuka Keiaien National Sanatorium was opened to me. Dr. Matsuda said to my father,
 
@@ -152,42 +154,44 @@ On March 8, 1960, the door of the Hoshizuka Keiaien National Sanatorium was open
 
 My father repeatedly bowed his head to Dr. Matsuda and said, “Thank you. Thank you very much.
 
- “Oh, I didn't hear your name.”
+“Oh, I didn't hear your name.”
 
- “My name is Iha Toshio,” I replied.
+“My name is Iha Toshio,” I replied.
 
- “Right, you are Mr. Iha Toshio. Well, Toshio, you should study hard here.
+“Right, you are Mr. Iha Toshio. Well, Toshio, you should study hard here.
 
- My father sent an urgent telegram to Okinawa Airakuen: “Keiaien safely accepted Susumu.”
+My father sent an urgent telegram to Okinawa Airakuen: “Keiaien safely accepted Susumu.”
 
- The early spring sun began to set over Airano after five o'clock. I watched him leave who kept looking back over and over.
+The early spring sun began to set over Airano after five o'clock. I watched him leave who kept looking back over and over.
 
 “Toshio, take care of yourself.”
 
 “Thank you, Dad.”
 
- Dr. Matsuda Nami had experienced the Battle of Okinawa in World War II during her service at Okinawa Airakuen.
+Dr. Matsuda Nami had experienced the Battle of Okinawa in World War II during her service at Okinawa Airakuen.
 
- After the air raid on Okinawa on October 10, 1944, the leprosy sanatorium was also attacked by the U.S. military. Yagaji Island, adjacent to the Unten Port Submarine Base, and the neatly lined wards were mistaken for military facilities and subjected to particularly heavy attacks. About 1,000 bombs and rockets, 100 naval guns, 100,000 machine guns rained down on the lepers. The patients who had been burned out of their wards fled to the air-raid shelters, which were divided into five locations within the sanatorium, each with a capacity of 200 people. Dr. Matsuda also had to go around the shelters to care for these patients. The director of the sanatorium, Mr. Hayata Kou, finally foreseen that the sanatorium would be destroyed before a fierce attack by the U.S. military, decided to open the door of the sanatorium to the patients who wanted to go back to their homes.
+After the air raid on Okinawa on October 10, 1944, the leprosy sanatorium was also attacked by the U.S. military. Yagaji Island, adjacent to the Unten Port Submarine Base, and the neatly lined wards were mistaken for military facilities and subjected to particularly heavy attacks. About 1,000 bombs and rockets, 100 naval guns, 100,000 machine guns rained down on the lepers. The patients who had been burned out of their wards fled to the air-raid shelters, which were divided into five locations within the sanatorium, each with a capacity of 200 people. Dr. Matsuda also had to go around the shelters to care for these patients. The director of the sanatorium, Mr. Hayata Kou, finally foreseen that the sanatorium would be destroyed before a fierce attack by the U.S. military, decided to open the door of the sanatorium to the patients who wanted to go back to their homes.
 
- Commander Nimitz, who had taken over Okinawa, issued Military Orders No. 115[^1] and 116[^2] on February 8, 1946. The purpose was to relocate leprosy patients displaced by the war and to prohibit access to leprosy sanitariums. Leprosy patients in Okinawa were once again forced into sanatoriums by the military leadership. Thus, in Okinawa, they experienced twice, directly and indirectly, “forced internment by the military,” unlike any other in the world.
+Commander Nimitz, who had taken over Okinawa, issued Military Orders No. 115[^1] and 116[^2] on February 8, 1946. The purpose was to relocate leprosy patients displaced by the war and to prohibit access to leprosy sanitariums. Leprosy patients in Okinawa were once again forced into sanatoriums by the military leadership. Thus, in Okinawa, they experienced twice, directly and indirectly, “forced internment by the military,” unlike any other in the world.
 
- Special Proclamation No. 13[^3] was issued on February 10, 1947. The leprosy control program of the U.S. military government was now well established. In connection with this proclamation, a special proclamation[^4] was notified by the sanatorium authorities to the patients on February 19.
+Special Proclamation No. 13[^3] was issued on February 10, 1947. The leprosy control program of the U.S. military government was now well established. In connection with this proclamation, a special proclamation[^4] was notified by the sanatorium authorities to the patients on February 19.
 
- Clause 1 stated: “Those who escape or allow others to escape shall be punished by death.”
+Clause 1 stated: “Those who escape or allow others to escape shall be punished by death.”
 
- Later, on July 5, 1949, the U.S. military government issued Special Proclamation No. 32, which withdrew Articles 7, 8 and 9 of the “Prohibited Matters” clauses of the earlier Special Proclamation No. 13.
+Later, on July 5, 1949, the U.S. military government issued Special Proclamation No. 32, which withdrew Articles 7, 8 and 9 of the “Prohibited Matters” clauses of the earlier Special Proclamation No. 13.
 
- The postwar treatment proclamation of the U.S. military government did not only affect leprosy patients. The order to forcibly evacuate all but residents of the Ryukyu Islands was issued.
+The postwar treatment proclamation of the U.S. military government did not only affect leprosy patients. The order to forcibly evacuate all but residents of the Ryukyu Islands was issued.
 
 Therefore, Director Hayata, Medical Director Matsuda, and Chief Nurse Nishizaki Chika, whose legal domiciles were on the mainland, had to leave Airakuen in 1948.
 
-[^1]:  U.S. Navy Military Government Headquarters Directive No. 115 (February 8, 1946)
+[^1]:
+    U.S. Navy Military Government Headquarters Directive No. 115 (February 8, 1946)
 
     1. All those found to be lepers are to be isolated at the Yagaji Island Leprosy Sanatorium, which is currently being restored. All lepers admitted to the Military Government Medical Facility are to be immediately transferred to The Nago Clinic and then transported to Yagaji Island via the Clinic.
     2. Military government doctors are to communicate this order to all Okinawan doctors under their supervision and make all possible preparations for its execution.
 
-[^2]: U.S. Navy Military Government Headquarters Directive No. 116 (February 8, 1946)
+[^2]:
+    U.S. Navy Military Government Headquarters Directive No. 116 (February 8, 1946)
 
     1. Isolation of lepers is considered necessary not only for the protection of Okinawans themselves but also for the protection of U.S. military officers stationed in Okinawa. The Yagaji Leprosy Sanatorium is currently being restored, and all those found to be lepers are being quarantined there.
 
@@ -195,7 +199,8 @@ Therefore, Director Hayata, Medical Director Matsuda, and Chief Nurse Nishizaki 
 
     3. Generals engaged in temporary official duties on Yagaji Island and a small number of doctors and others who are interested in leprosy from a purely professional standpoint may obtain official permission to enter the island by applying to the Deputy Director-General through the military government's appointed military physician.
 
-[^3]: Special Proclamation No. 13 of the U.S. Military Government (February 10, 1947)
+[^3]:
+    Special Proclamation No. 13 of the U.S. Military Government (February 10, 1947)
 
     To the inhabitants of the Nansei Islands and the surrounding seas:
     In order to protect and preserve public health, it is deemed necessary to isolate those affected by leprosy and to establish and maintain a leprosy sanatorium in the Nansei Islands. For this purpose, the Secretary of the Military Government of the Nansei Islands and adjacent islands, Brigadier General Frederick El Hayden, U.S. Army, hereby issues the following proclamation.
@@ -230,29 +235,29 @@ Therefore, Director Hayata, Medical Director Matsuda, and Chief Nurse Nishizaki 
 
     Notice:
 
-      1. Those who escape or allow others to escape shall be punished by death.
+    1. Those who escape or allow others to escape shall be punished by death.
 
-      2. When a person is found using dynamite, they shall be shot immediately. (In addition to the above notice, the sanatorium authorities have also issued a notice stating that the following precautions have been decided upon.)
+    2. When a person is found using dynamite, they shall be shot immediately. (In addition to the above notice, the sanatorium authorities have also issued a notice stating that the following precautions have been decided upon.)
 
-      3. Private ownership of outdoor property, such as “Kuribune” (the boat hollowed out of a log), shall not be permitted and shall be brought ashore at any time.
+    3. Private ownership of outdoor property, such as “Kuribune” (the boat hollowed out of a log), shall not be permitted and shall be brought ashore at any time.
 
 ## Connected Route
 
 The entrance exam for that year had been completed in January. Therefore, I had to wait in Hoshiuzuka Keiaien until next year's exam.
 
- I lived in the boys' dormitory, which was divided into four rooms. As a result of discussions between the community association and the school, I was allowed to attend classes at Oaira Junior High School, the Hoshizuka branch, to study subjects required for the entrance exam to Oku High School: Japanese, mathematics, social studies, science, and English, which would be required after enrollment.
+I lived in the boys' dormitory, which was divided into four rooms. As a result of discussions between the community association and the school, I was allowed to attend classes at Oaira Junior High School, the Hoshizuka branch, to study subjects required for the entrance exam to Oku High School: Japanese, mathematics, social studies, science, and English, which would be required after enrollment.
 
- During the year I spent there, I was surprised by the big differences between Keiaien and Okinawa Airakuen. One of them was the clothing of the medical staff who provided medical treatment. I had never seen the bare skin of doctors or nurses at the sanatorium.
+During the year I spent there, I was surprised by the big differences between Keiaien and Okinawa Airakuen. One of them was the clothing of the medical staff who provided medical treatment. I had never seen the bare skin of doctors or nurses at the sanatorium.
 
 At Okinawa Airakuen, the medical staff were heavily armed, wearing white caps, large masks with only the eyes showing, white coats, surgical rubber gloves, and rubber boots to deal with us. It somehow made me believe that my disease was so terrible, and the awareness always weighed heavily on me. Now there were nurses in front of me without gloves, rubber boots, or masks, but with living human faces. My medical report on the desk clearly stated my real name, Iha Toshio.
 
 “Mr. Iha, let me take your pulse.”
 
- As her bare skin fingers took his pulse, the boy's heart pounded to the breaking point.
+As her bare skin fingers took his pulse, the boy's heart pounded to the breaking point.
 
 -----What beautiful hands.
 
- My eyes stayed on her white fingers. Suddenly, my own male organ began to erect. I was ashamed and felt miserable, but I realized that for the first time I was becoming aware of the opposite sex.
+My eyes stayed on her white fingers. Suddenly, my own male organ began to erect. I was ashamed and felt miserable, but I realized that for the first time I was becoming aware of the opposite sex.
 
 It had been about five days since my arrival in Kagoshima.
 
@@ -260,53 +265,53 @@ Saying, “I have good news to tell you,” Mr. Ishigaki invited me into his own
 
 Ishigaki's house was one of a series for married couples that had the same house arrangements. The size is a six-bedroom with a kitchen, and each room has a neat flower bed in front of it. The daffodils in the flower beds seemed to float in the light coming through the glass doors.
 
- During dinner, I was asked about the difference between Airakuen and Keiaien, and I mentioned the medical staff's uniforms first.
+During dinner, I was asked about the difference between Airakuen and Keiaien, and I mentioned the medical staff's uniforms first.
 
- “I see, but it hasn't been that long since we changed the style. Let me show you something interesting,” he said.
+“I see, but it hasn't been that long since we changed the style. Let me show you something interesting,” he said.
 
- Mr. Ishigaki took out a green folder from the bookshelf. Inside were newspaper clippings and booklets, and he pointed to the page where a discolored sheet of galley paper was tucked.
+Mr. Ishigaki took out a green folder from the bookshelf. Inside were newspaper clippings and booklets, and he pointed to the page where a discolored sheet of galley paper was tucked.
 
 “This is the 'Guidelines for Entering and Exiting Patient Residential Areas' for outsiders and staff. It is much simpler now. Some people in Japan even lie that the reason there have been no cases of infection among the sanatorium staff in the long history of Japanese leprosy sanatoriums is because they have taken such strict precautions against contact with infected people… With the verification of time, the error is gradually being corrected.” It said the following.
 
-> [Guidelines for Entering and Exiting the Patient Area]  
+> [Guidelines for Entering and Exiting the Patient Area]
 >
-> Entering the Patient Area:  
+> Entering the Patient Area:
 >
-> 1. Take off your clothes in the locker room and put on monpe (old work pants for women) in the next room.  
+> 1. Take off your clothes in the locker room and put on monpe (old work pants for women) in the next room.
 >
-> 2. Put on socks and boots in the next room.  
+> 2. Put on socks and boots in the next room.
 >
-> 3. Put on a jacket, hat and mask in the next room.  
+> 3. Put on a jacket, hat and mask in the next room.
 >
-> 4. After checking, enter the patient area.  
+> 4. After checking, enter the patient area.
 >
-> Exiting the Patient Area:  
+> Exiting the Patient Area:
 >
-> 1. Wipe shoes with a shoe mat soaked in disinfectant.  
+> 1. Wipe shoes with a shoe mat soaked in disinfectant.
 >
-> 2. Disinfect your hands.  
+> 2. Disinfect your hands.
 >
-> 3. Take off your jacket and hat in the next room.  
+> 3. Take off your jacket and hat in the next room.
 >
-> 4. Remove your mask in the next room.  
+> 4. Remove your mask in the next room.
 >
-> 5. Take off your socks and boots in the next room.  
+> 5. Take off your socks and boots in the next room.
 >
-> 6. Soak your feet in disinfectant and wash your hands twice in the next room.  
+> 6. Soak your feet in disinfectant and wash your hands twice in the next room.
 >
-> 7. Wipe with mercury sublimate gauze in the next room.  
+> 7. Wipe with mercury sublimate gauze in the next room.
 >
-> 8. Remove monpe and soak feet in Lysol liquid in the next room.  
+> 8. Remove monpe and soak feet in Lysol liquid in the next room.
 >
-> 9. Bathe and change all clothes. Gargle with disinfectant.  
+> 9. Bathe and change all clothes. Gargle with disinfectant.
 
- “I suppose they still stubbornly cling to that educational attitude at Okinawa Airakuen,” he said.
+“I suppose they still stubbornly cling to that educational attitude at Okinawa Airakuen,” he said.
 
- “I was also surprised that there were no patrols here and that I could go in and out of the sanatorium freely.” I added.
+“I was also surprised that there were no patrols here and that I could go in and out of the sanatorium freely.” I added.
 
- At the regular movie night in the Keiaien Hall, residents from the neighborhood come and always fight over where to sit with the patients to watch movies side by side.
+At the regular movie night in the Keiaien Hall, residents from the neighborhood come and always fight over where to sit with the patients to watch movies side by side.
 
- Whenever we had regular movie nights in Okinawa, they always disinfected the staff's seats beforehand.
+Whenever we had regular movie nights in Okinawa, they always disinfected the staff's seats beforehand.
 
 -----Susumu, I'm so happy, I'm sure we'll have a movie tonight, because I saw them disinfect the seats----- It was so thorough that children associated disinfection with movies.
 
@@ -314,7 +319,7 @@ Ishigaki's house was one of a series for married couples that had the same house
 
 “The people in this area are full-time farmers and not very wealthy. The sanatorium is the only place where they can get a glimpse of culture. The knowledge that leprosy is a terrible disease disappears with daily contact and time, because the wisdom of the living person is superior to the information given. I think human wisdom has overcome the walls around it. Perhaps the biggest factor is the desire to see movies for free.” Mr. Ishigaki grinned at me.
 
- I wished for such a day would come to Okinawa.
+I wished for such a day would come to Okinawa.
 
 “Well, I have good news for you today!” He had a broad smile on his face.
 
@@ -348,11 +353,11 @@ On August 26, 1961, the Ryukyu government enacted the “Hansen's Disease Preven
 
 ## Evening Primrose
 
- My best friend, Ryuji, was one of the members of the Kagoshima tour group.
+My best friend, Ryuji, was one of the members of the Kagoshima tour group.
 
 “You are terrible. You just left without a word.” He said as soon as we met and slapped me hard on the back.
 
- As we settled into our room, his first news was about A., who had been my classmate until second year of junior high school. He had transferred to Yomitan Junior High School in his hometown for the new term of third year and was studying for the entrance exam to Yomitan High School. However, A. was rejected from Yomitan High School. Mr. Makabe Tokumatsu, the principal of Yomitan Junior High School, was suspicious of his failure who excelled in both academics and sports, and investigated the reason for his rejection. It was because of the certificate issued by the leprosy sanatorium, which wrote that he was “minor” instead of “cured”.
+As we settled into our room, his first news was about A., who had been my classmate until second year of junior high school. He had transferred to Yomitan Junior High School in his hometown for the new term of third year and was studying for the entrance exam to Yomitan High School. However, A. was rejected from Yomitan High School. Mr. Makabe Tokumatsu, the principal of Yomitan Junior High School, was suspicious of his failure who excelled in both academics and sports, and investigated the reason for his rejection. It was because of the certificate issued by the leprosy sanatorium, which wrote that he was “minor” instead of “cured”.
 
 At that time, a certificate was issued to those who were cured of leprosy upon their return to society, but the phrase “leaving the hospital with a mild recovery” was the reason for their rejection.
 
@@ -364,11 +369,11 @@ The “rejection” notice from Yomitan High School was not rescinded, but anoth
 
 “I thought so and wrote to Ryuji immediately. In fact, he wrote me back and encouraged me saying: 'Don't worry about me. Do your best on the mainland.’”
 
- After that, we knew that A. had been accepted to high school. Later, he was selected as a torchbearer for the Tokyo Olympics and played the lead role while still in high school.
+After that, we knew that A. had been accepted to high school. Later, he was selected as a torchbearer for the Tokyo Olympics and played the lead role while still in high school.
 
 Ryuji and I continued to study for the exams side by side at our desks. We were only allowed to attend school for the five subjects on the exam, and we took remedial classes in the back of the classroom.
 
- Around seven o'clock in the evening, we would take a break from our studies and lay in bed waiting for something.
+Around seven o'clock in the evening, we would take a break from our studies and lay in bed waiting for something.
 
 It was the sound of a mandolin coming from the next room.
 
@@ -380,19 +385,19 @@ At that time, all the residents of the sanatorium received 500 yen for one month
 
 “Why don't you eat this between your studies?”
 
- Sometimes Mr. Asato would visit our room and offer us sweets or other things. He bought them with the meager wages he earned working at the sanatorium.
+Sometimes Mr. Asato would visit our room and offer us sweets or other things. He bought them with the meager wages he earned working at the sanatorium.
 
- I have another unforgettable memory of him. It must have been around the middle of August, because the Obon dance song (one of the Buddhist events) could be heard on the wind.
+I have another unforgettable memory of him. It must have been around the middle of August, because the Obon dance song (one of the Buddhist events) could be heard on the wind.
 
 “Toshio, keep studying and you'll go crazy. I'll show you something nice tonight, follow me,” he said.
 
- At dusk, I was taken to a field on the edge of the north. It looked as if it had not been used much and was covered with summer grass, except for the track.
+At dusk, I was taken to a field on the edge of the north. It looked as if it had not been used much and was covered with summer grass, except for the track.
 
 “Come here, come. Lie down on the grass and listen carefully.”
 
- He pointed to a spot where summer grasses grew waist-high all around. At the top of the stalks were yellow buds. From the ground where we lay side by side, I could feel the lingering summer heat that had not yet fully dissipated.
+He pointed to a spot where summer grasses grew waist-high all around. At the top of the stalks were yellow buds. From the ground where we lay side by side, I could feel the lingering summer heat that had not yet fully dissipated.
 
- “This is the evening primrose, usually called Yoimachigusa (waiting for the evening to come). When the sun sets and the moon rises, the evening primrose begins to bloom all at once,” he said.
+“This is the evening primrose, usually called Yoimachigusa (waiting for the evening to come). When the sun sets and the moon rises, the evening primrose begins to bloom all at once,” he said.
 
 I imitated him and lay down on the grass with my right arm on my pillow.
 
@@ -418,9 +423,9 @@ On the same day and at the same time, entrance examinations were held at sanator
 
 Ryuji and I left our rooms an hour early to make the 8:30 exam start time.
 
- The Hoshizuka branch of Oaira Junior High School was located on the west side of the school, across the valley and about a 15-minute walk from the general patient area.
+The Hoshizuka branch of Oaira Junior High School was located on the west side of the school, across the valley and about a 15-minute walk from the general patient area.
 
- As we walked through the cedar grove, the frost columns made a crunching sound under our feet.
+As we walked through the cedar grove, the frost columns made a crunching sound under our feet.
 
 Normally, we would talk to each other on the way to and from school, but today we were silent. Just before entering the classroom, I called to Ryuji.
 
@@ -428,21 +433,21 @@ Normally, we would talk to each other on the way to and from school, but today w
 
 “All right,” he said.
 
- In the classroom, a total of eight students lined up with nervous faces. At 8:30 the bell rang and the examiner said.
+In the classroom, a total of eight students lined up with nervous faces. At 8:30 the bell rang and the examiner said.
 
 “Now get to work on the questions. The first subject is Japanese. Don't forget to write your names first.”
 
 At his voice, we all reached out to our respective test papers.
 
- An examiner from the Okayama Board of Education sat in the teacher's chair and looked down at us. Principal Morimoto Kazutoshi was present at all the exams and walked around us. From time to time, he would peek at the test papers we were filling out.
+An examiner from the Okayama Board of Education sat in the teacher's chair and looked down at us. Principal Morimoto Kazutoshi was present at all the exams and walked around us. From time to time, he would peek at the test papers we were filling out.
 
- Mathematics, Social Studies, and Science, all the exams were over. As soon as the signal was given that it was over, Mr. Omura stood up and said playfully.
+Mathematics, Social Studies, and Science, all the exams were over. As soon as the signal was given that it was over, Mr. Omura stood up and said playfully.
 
 “Done! It's over! Farewell to the suffering of my youth!”
 
- After the exam, we were called to the principal's office one by one and informally told how the exam had gone.
+After the exam, we were called to the principal's office one by one and informally told how the exam had gone.
 
- “Mr. Iha, you did well. Only one wrong answer in science, but the rest was fine. The principal, Mr. Morimoto, who always called Ryuji and me attached “Mr.” in front of our names to distinguish us from other students, called me that today as well.
+“Mr. Iha, you did well. Only one wrong answer in science, but the rest was fine. The principal, Mr. Morimoto, who always called Ryuji and me attached “Mr.” in front of our names to distinguish us from other students, called me that today as well.
 
 “Yes, thank you,” I said.
 
@@ -450,35 +455,35 @@ Ryuji was excited on the way home.
 
 “We did very well, don't worry. Shall we go to Kanoya tomorrow? I heard they are showing “The Migratory Bird with Guitar”.
 
- The result of the examination was brought to us on February 20.
+The result of the examination was brought to us on February 20.
 
- The principal, Mr. Morimoto, was in a state of panic in front of me. He said that all the names of the other seven students were on the acceptance letter except mine.
+The principal, Mr. Morimoto, was in a state of panic in front of me. He said that all the names of the other seven students were on the acceptance letter except mine.
 
- “That is strange. I can't believe your name isn't here... I think there must have been some mistake, and I contacted Okayama Prefecture about this”
+“That is strange. I can't believe your name isn't here... I think there must have been some mistake, and I contacted Okayama Prefecture about this”
 
 ----- Rejected? Did I fail the exam?
 
- All at once, my whole body's strength disappeared.
+All at once, my whole body's strength disappeared.
 
 I stared at the ceiling of my room. Ryuji was beside me and repeated.
 
 “Strange. It can't be. Some kind of mistake.”
 
- I traced back the possible reasons.
+I traced back the possible reasons.
 
 ----- That one! That must be it! There was only one thing I could think of.
 
 Students who wanted to take the exam had to submit a written report from a doctor in their hometown. Dr. Matsuda diagnosed me and mumbled as she filled out the form.
 
- “You know, the high school is a boarding school, so it might be difficult for you to live among such energetic students...” She expressed some concern.
+“You know, the high school is a boarding school, so it might be difficult for you to live among such energetic students...” She expressed some concern.
 
 -----Special consideration is given to total loss of function in both hands, both wrists, left ankle drop-----
 
 -----That one! That's all I can think of. Physical function was the problem… but that not possible...
 
- I thought about what the “physical reasons” could be.
+I thought about what the “physical reasons” could be.
 
- Gradually, an indescribable anger welled up in my chest.
+Gradually, an indescribable anger welled up in my chest.
 
 ## The 31st Person to Pass the Examination
 
@@ -488,7 +493,7 @@ Students who wanted to take the exam had to submit a written report from a docto
 
 “To the Okayama Prefectural Board of Education.”
 
- Doubts and anger overflowed.
+Doubts and anger overflowed.
 
 “Ryuji, could you go to the library and borrow the 'Leprosy Prevention Law' and the 'Pocket Version of the School Education Law' for me? I'll work on a draft.”
 
@@ -497,44 +502,44 @@ Students who wanted to take the exam had to submit a written report from a docto
 I rewrote the letter to the Okayama Board of Education over and over again.
 
 > To the Okayama Prefectural Board of Education  
-> Dear Sirs,  
+> Dear Sirs,
 >
-> Please excuse my rudeness in writing to you directly. My name is Iha Toshio who applied to Okayama Prefectural Oku High School from Kagoshima.  
+> Please excuse my rudeness in writing to you directly. My name is Iha Toshio who applied to Okayama Prefectural Oku High School from Kagoshima.
 >
-> We received the acceptance letter from you today, and I myself was rejected.  
+> We received the acceptance letter from you today, and I myself was rejected.
 >
-> Mr. Morimoto Kazutoshi, the principal of the Hoshizuka Branch of Oaira Junior High School, attended the exam on January 20, and he told me, “Iha's test results were not inferior to those of other students. I cannot accept his failure this time.  
+> Mr. Morimoto Kazutoshi, the principal of the Hoshizuka Branch of Oaira Junior High School, attended the exam on January 20, and he told me, “Iha's test results were not inferior to those of other students. I cannot accept his failure this time.
 >
-> I myself am confident about the results of the test. I just cannot accept the failure this time.  
+> I myself am confident about the results of the test. I just cannot accept the failure this time.
 >
-> I heard that we contacted Oku High School directly about my rejection, but we did not receive a reply.  
+> I heard that we contacted Oku High School directly about my rejection, but we did not receive a reply.
 >
-> What was the purpose for the establishment of the Niirada class of Oku High School in the first place?  
+> What was the purpose for the establishment of the Niirada class of Oku High School in the first place?
 >
-> As Japanese citizens, lepers are entitled to equal educational opportunities. Was it not to realize this concept of the Basic Education Law? Have you not used Article 75-2 of the “School Education Law” and stipulated it as Article 14-2 in the new “Leprosy Prevention Law” to realize this spirit? If this failure is due to the test results, I will study harder and try again next year.  
+> As Japanese citizens, lepers are entitled to equal educational opportunities. Was it not to realize this concept of the Basic Education Law? Have you not used Article 75-2 of the “School Education Law” and stipulated it as Article 14-2 in the new “Leprosy Prevention Law” to realize this spirit? If this failure is due to the test results, I will study harder and try again next year.
 >
-> If this time's rejection is due to my physical functions, it is beyond my control, and there is nothing I can do about it.  
+> If this time's rejection is due to my physical functions, it is beyond my control, and there is nothing I can do about it.
 >
 > I really want to know the reason for the rejection.
 >
 > The results will allow me to clearly choose the path I should take in the future. However, if the rejection was due to the physical findings, I cannot regret it enough.
 >
-> I had done everything by myself, both in junior high school and in the group life of the boys' and girls' dormitories. It was the same with physical education. For physical reasons, I could not stand up to others, but I never gave up my own participation in physical education, not even once.  
+> I had done everything by myself, both in junior high school and in the group life of the boys' and girls' dormitories. It was the same with physical education. For physical reasons, I could not stand up to others, but I never gave up my own participation in physical education, not even once.
 >
-> If it is unjustified for me to study in the Niirada Class of Oku High School because of my physical condition, where should I go to study?  
+> If it is unjustified for me to study in the Niirada Class of Oku High School because of my physical condition, where should I go to study?
 >
-> Since the door of the school for lepers has been closed to me, which high school should I go to?  
+> Since the door of the school for lepers has been closed to me, which high school should I go to?
 >
-> Am I not the one who should go to Oku High School?  
+> Am I not the one who should go to Oku High School?
 >
 > Even though I am physically handicapped, I have continued to make my own way.
 >
->Please do not judge me just because of my physical condition. Please examine the circumstances of my group life in the past and decide.  
+> Please do not judge me just because of my physical condition. Please examine the circumstances of my group life in the past and decide.
 >
-> Thank you very much.  
+> Thank you very much.
 >
 > Sincerely yours,  
-> January 20, 1961  
+> January 20, 1961
 
 It was almost midnight when I finished writing the letter.
 
@@ -542,12 +547,11 @@ It was ten days after I sent the letter that Mr.Morimoto, the principal, suddenl
 
 “Mr. Iha, you might be able to get an extra pass. I heard that you sent them a letter. They read it, and one of them from the Okayama Prefectural Board of Education is here today. He wants to see your daily life here in private. So, behave more cheerfully than usual, are you okay?”
 
-
 -----Oh, they received my letter! They listened to my appeal! It was a week later. I received an acceptance letter from the Niirada Class of Oku High School. I was the 31st person to be accepted out of a maximum number of 30.
 
 ## Railway Track in the Dark
 
-  April 5, 1961, 7:30 a.m.
+April 5, 1961, 7:30 a.m.
 
 At Kanoya Station's freight yard, there clumped a group of 8 Okayama-bound students and people who wanted to see them off. Two station employees stood across the tracks with small red flags and occasionally blew a whistle when the group swelled up.
 
@@ -555,7 +559,7 @@ For the students and commuters familiar with the daily scene at this station, it
 
 I counted the blossoms of the mountain cherry trees, already in full leaf and left behind in the season. Eight new students were wrapped in an entire spring.
 
- “The train will be arriving soon. Everyone from Keiaien, please leave the area, it's dangerous!” The station employee shouted.
+“The train will be arriving soon. Everyone from Keiaien, please leave the area, it's dangerous!” The station employee shouted.
 
 Prompted by his voice, the farewell group began to make their way to the bus that had been specially prepared for them.
 
@@ -563,17 +567,17 @@ Prompted by his voice, the farewell group began to make their way to the bus tha
 
 “Mr. and Mrs. Ishigaki, I appreciate your help. I will write to you.”
 
- Mr. Ishigaki raised his hand in greeting and soon followed the line of people leaving the station precincts.
+Mr. Ishigaki raised his hand in greeting and soon followed the line of people leaving the station precincts.
 
 “Toshio, you can eat it later.”
 
 I hugged the package of indigo cloth Mrs. Ishigaki gave me. I could smell the seaweed and feel the slight warmth of the package on my chest.
 
- “Thank you for the past year,” I said.
+“Thank you for the past year,” I said.
 
 “Now get on, get on.” Mr. Morimoto, the director, urged us.
 
- There was a mail coach waiting for us.
+There was a mail coach waiting for us.
 
 “Oh my goodness, are we mail? You know, I weigh 58 kg, so I'll need a lot of stamps.” Omura said, putting his foot on the step.
 
@@ -581,7 +585,7 @@ I hugged the package of indigo cloth Mrs. Ishigaki gave me. I could smell the se
 
 The mail coach (Oyu type 10) was about 12 meters long and three meters wide. Outside, the windows were protected by bars, and there were two entrances, one on the left side facing the direction of travel and the other at the coupling, each with a sturdy iron door. Inside, there was a wooden floor, built-in shelves on either side of the walls, and a toilet at the rear of the car.
 
- We spread out our rush mats first.
+We spread out our rush mats first.
 
 There was a clatter of cars coupling up, and soon the train began to move.
 
@@ -593,7 +597,7 @@ It took just over an hour to get to Shibushi Station. Principal Morimoto checked
 
 “The train is scheduled to leave Shibushi at 1:00 p.m., which means another 4 hours. It will not be easy to wait in the coach...Well, I'll go and negotiate with the station master. I'll be right back, so stay here, okay?”
 
- After a while, through the window, we saw him hurrying to us.
+After a while, through the window, we saw him hurrying to us.
 
 “Hey, you can get out of the car, we've got permission to go outside until noon, but the condition is that you go towards the coast without houses. And one more thing, remember, you are all supposed to act as a group. Please follow my instructions. Mr. Iha, you're the leader. You should be back here by 12:00 p.m. The lunch boxes are already loaded, so we'll take our lunch in the car.
 
@@ -623,7 +627,7 @@ The train moved on in the dark. We were tired, and after nine o'clock everyone l
 
 I stared out the barred window. Occasionally, lights flickered on and off in the distance. I strained my eyes, trying to read the names on the pillars of each station.
 
- We passed “Naraguchi,” “Isshōchi,” and then I could see a particularly deep darkness falling on the right side of the carriage window.
+We passed “Naraguchi,” “Isshōchi,” and then I could see a particularly deep darkness falling on the right side of the carriage window.
 
 Every time the train turned to the right, I could see a shining white band underneath. It appeared and disappeared again and again.
 
@@ -633,13 +637,13 @@ I quickly unfolded the map and looked at it.
 
 “Naraguchi. I see. Isshōchi. Okay. That means the white strip below must be the Kuma River.”
 
- As we approached Yatsushiro Station, the outside changed from darkness to the brightness of the city.
+As we approached Yatsushiro Station, the outside changed from darkness to the brightness of the city.
 
 “Hi, guys, get up. Get up! We're at Yatsushiro Station. We'll be at Kumamoto Station in about an hour.”
 
 ## Because Transporting Infected Patients
 
- At Kumamoto Station, seven students boarded the train. Three of them were girls. Among them were Shinchi, Miyara, and Kakazu. I had not seen them for a year.
+At Kumamoto Station, seven students boarded the train. Three of them were girls. Among them were Shinchi, Miyara, and Kakazu. I had not seen them for a year.
 
 We started introducing ourselves right away. When the girls introduced themselves as “I'm Matsuda,” “I'm Hashimoto,” and “I'm Inoue,” the Kagoshima group gave them a big round of applause.
 
@@ -679,11 +683,11 @@ The ladies began to unload their luggage, calling to each other.
 
 From outside the car, the conductor blew his whistle and yelled loudly.
 
- “No, you can't get in there. Get out of the coach, now!”
+“No, you can't get in there. Get out of the coach, now!”
 
- The women were quickly pulled out of the coach. Judging from his angry look, it was easy to guess what he was saying to them about us.
+The women were quickly pulled out of the coach. Judging from his angry look, it was easy to guess what he was saying to them about us.
 
- Soon there was an announcement. “This train will be delayed for five minutes.” Then two station agents taped a sign to the glass window of the door ahead of the mail coach.
+Soon there was an announcement. “This train will be delayed for five minutes.” Then two station agents taped a sign to the glass window of the door ahead of the mail coach.
 
 It read inside out, “No Entry! Because Transporting Infected Patients.”
 
@@ -709,7 +713,7 @@ The “Rome Resolution” sponsored by the Order of Malta was even more overwhel
 
 My body started shaking uncontrollably. I felt as if all my pores had opened.
 
- This is not the story of utopia in the future! The world has been in motion for a long time.
+This is not the story of utopia in the future! The world has been in motion for a long time.
 
 The total distance from Shibushi to Okayama was 806 kilometers, and even in those days it took less than 20 hours. In our case, it took 36 hours, and although it was the Japanese National Railways that ran the trains, it was the medical administration under the mask of public health that arranged this special schedule for us.
 

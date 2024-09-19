@@ -10,7 +10,7 @@ It was after four o’clock in the afternoon when my father suddenly appeared at
 
 ‟What’s the matter, Father?” she said.
 
- ‟Well, I have something to talk to Yutaka.”
+‟Well, I have something to talk to Yutaka.”
 
 He was always like this. He relied on Yutaka Kubo, his son-in-law, whenever he had important consultations. His attitude was different than usual.
 
@@ -28,7 +28,7 @@ Kinue, my elder sister, had been told by her husband not to call him while he wa
 
 --- What happened? He usually asks politely in advance, but this is unusual today-- Kubo felt uncomfortable.
 
- He checked his schedule, instructed the clerk to change the date of the non-urgent meeting, and hurried home. His father-in-law had barely touched the food in front of him.
+He checked his schedule, instructed the clerk to change the date of the non-urgent meeting, and hurried home. His father-in-law had barely touched the food in front of him.
 
 ‟Please enjoy Awamori (Okinawa liquor),” Yutaka said.
 
@@ -60,7 +60,7 @@ He cut off his words again.
 
 ‟No, I’m going to let him escape to Yamato.”
 
- When he had said all this, he gulped down his fourth glass.
+When he had said all this, he gulped down his fourth glass.
 
 ‟When?”
 
@@ -74,15 +74,15 @@ My father explained to Yutaka what I had told him.
 
 ‟Well, I do. Fortunately, Mr. Okubo, my friend in my hometown works in the passport office, so I can ask him about the passport. Where do you want to take Toshio?”
 
- ‟To Kagoshima.”
+‟To Kagoshima.”
 
- ‟I see. Kagoshima... Do you remember Mr. K? We used to board and live together with Mr. Matsuzaki. Now he works as a chief clerk at Ryukyu Shipping, so I will ask him and get the boarding ticket.”
+‟I see. Kagoshima... Do you remember Mr. K? We used to board and live together with Mr. Matsuzaki. Now he works as a chief clerk at Ryukyu Shipping, so I will ask him and get the boarding ticket.”
 
- ‟Yutaka, could you ask him for us?”
+‟Yutaka, could you ask him for us?”
 
- ‟Sure, I will.”
+‟Sure, I will.”
 
- ‟Thank you. Thank you very much, Yutaka.” Finally, winkles between his brows disappeared. He rejected the offer to ride him home the next morning and got on the last bus to Ishikawa.
+‟Thank you. Thank you very much, Yutaka.” Finally, winkles between his brows disappeared. He rejected the offer to ride him home the next morning and got on the last bus to Ishikawa.
 
 The next morning, Yutaka called Okubo and K. right away. It looked like the passport problem would be relatively easy to solve.
 
@@ -114,11 +114,11 @@ Mr. K’s voice on the phone paused for a moment.
 
 ‟Well, at that time I was willing to be fired in order to help you. I am very happy to know that he has grown up to do such an admirable job. I’m glad I was able to help others.”
 
- At that time, Mr. K. held a key position on the board of directors of Ryukyu Marine Transport.
+At that time, Mr. K. held a key position on the board of directors of Ryukyu Marine Transport.
 
- On December 9, 1987, when I was chairman of the organizing committee for the ‟Zencolo United Nations Decade of Disabled Persons Mid-Term Event”, TBS TV broadcast this commemoration on its ‟Prime Time” program. Mr. K. had watched the program and noticed me.
+On December 9, 1987, when I was chairman of the organizing committee for the ‟Zencolo United Nations Decade of Disabled Persons Mid-Term Event”, TBS TV broadcast this commemoration on its ‟Prime Time” program. Mr. K. had watched the program and noticed me.
 
- On December 9, 1975, the 30th United Nations General Assembly adopted the Declaration of the Rights of Persons with Disabilities. In this context, they designated 1981 as the ‟International Year of Persons with Disabilities”, and the following decade (1983-1992) was decided to be the ‟United Nations Decade of Disabled Persons”. The countries that participated in this were to promote the normalization of persons with disabilities, with the theme ‟Full Participation and Equality”. Also in Japan, public-private educational events were held in the year of the International Year of Persons with Disabilities, but after that, the issue of social independence for persons with disabilities was about to fade away as a matter of social concern. The registered association Zencolo (formerly the National Association of Colonies, with 3,000 members), which promotes the social independence of persons with disabilities through occupations, again held its own nationwide event in the middle of the year of the United Nations Decade of Disabled Persons, with the aim of raising social awareness of disability issues.
+On December 9, 1975, the 30th United Nations General Assembly adopted the Declaration of the Rights of Persons with Disabilities. In this context, they designated 1981 as the ‟International Year of Persons with Disabilities”, and the following decade (1983-1992) was decided to be the ‟United Nations Decade of Disabled Persons”. The countries that participated in this were to promote the normalization of persons with disabilities, with the theme ‟Full Participation and Equality”. Also in Japan, public-private educational events were held in the year of the International Year of Persons with Disabilities, but after that, the issue of social independence for persons with disabilities was about to fade away as a matter of social concern. The registered association Zencolo (formerly the National Association of Colonies, with 3,000 members), which promotes the social independence of persons with disabilities through occupations, again held its own nationwide event in the middle of the year of the United Nations Decade of Disabled Persons, with the aim of raising social awareness of disability issues.
 
 ## Flashing Light
 
@@ -141,7 +141,7 @@ The necessary information was on the paper.
 > Ishigaki Yaeo  
 > Hoshizuka Keiaien  
 > 4204 Hoshizuka-cho, Kanoya Ward,  
-> Kagoshima Prefecture  
+> Kagoshima Prefecture
 
 ‟In this envelope is your graduation certificate. Give it to Mr. Ishigaki when you arrive in Keiaien. This is a temporary return permit I’ve prepared for you, just in case. I asked Mr. K. to write it for me before he retired.”
 
@@ -155,7 +155,7 @@ Masakazu must have had some sense. He was in the fourth grade now and asked me w
 
 ‟Uh-uh---no, I’m not going anywhere.”
 
- That night he asked me the same question in his bed.
+That night he asked me the same question in his bed.
 
 ‟Susumu, are you going somewhere?”
 
@@ -183,7 +183,7 @@ Ryuji, my close friend, called me from upstairs, and I had no choice but to igno
 
 The three of us, Dad Kishimoto, Mom Minami and I, hurried through the western part of the sanatorium to the path in the pine trees.
 
- The border between the sanatorium and the outside world was separated by a lane that was patrolled regularly. After crossing the lane, the slippery slope led us to Untenbara.
+The border between the sanatorium and the outside world was separated by a lane that was patrolled regularly. After crossing the lane, the slippery slope led us to Untenbara.
 
 The area was completely dark, and the February monsoon stirred up the waves that lapped against the landing place with a protruding plank. The three of us waited, sitting among the pandanus trees near the jetty.
 
@@ -211,9 +211,9 @@ The bow of the Sabani (vessel used in Okinawa and surrounding islands since anci
 
 I was so tense and my body was hot that it felt good to be knee-deep in the winter sea.
 
- We walked through Unten village for about 30 minutes, but my father did not turn on his flashlight. Nevertheless, by starlight, I could make out the path, which in its whiteness stood out from the surrounding area. We tiptoed down the hill and found a taxi waiting on the side of the road at the edge of the village.
+We walked through Unten village for about 30 minutes, but my father did not turn on his flashlight. Nevertheless, by starlight, I could make out the path, which in its whiteness stood out from the surrounding area. We tiptoed down the hill and found a taxi waiting on the side of the road at the edge of the village.
 
- As we got into the car, the driver started the car without a word. At the same time, my father took a deep breath and looked out of the window.
+As we got into the car, the driver started the car without a word. At the same time, my father took a deep breath and looked out of the window.
 
 The taxi passed through Nago and took the west line without turning left at Kyoda. The taxi passed Maekaneku.
 
@@ -223,7 +223,7 @@ We were supposed to turn left at Nakadomari to get to my house, but the car kept
 
 ‟You know, there are a lot of American soldiers on the streets and it’s noisy in Kadena, so let’s go back on the road and drive through to Ginoza.”
 
- Judging from the taxi’s unusual route, I knew immediately that there had been some discussion between my father and the taxi driver. My father tried to prevent my escape from Airakuen being discovered and taken back there. The car went back the way it came and turned right at Onna.
+Judging from the taxi’s unusual route, I knew immediately that there had been some discussion between my father and the taxi driver. My father tried to prevent my escape from Airakuen being discovered and taken back there. The car went back the way it came and turned right at Onna.
 
 -----This road runs through the back side of Mt. Ishikawa. My house is on the other side of that mountain---I thought as I listened to the sound of twigs tapping on the car from time to time.
 
@@ -263,15 +263,15 @@ My grandmother had been rubbing my hands since she woke up in the morning.
 
 ‟Toshio, you have to hide your hands,” my older sister Atsuko repeated. She also eagerly taught me how to hold the overcoat to cover my hands and tried to make me practice.
 
- My grandmother sat me down in front of the Buddhist altar. While she was burning incense, she put it in the altar and joined her hands in prayer. I also joined my hands and sat behind her. I could hear my mother sobbing behind me.
+My grandmother sat me down in front of the Buddhist altar. While she was burning incense, she put it in the altar and joined her hands in prayer. I also joined my hands and sat behind her. I could hear my mother sobbing behind me.
 
- When I left Airakuen, I had decided not to cry this time, so strangely enough, I could face with my mother’s sobbing calmly.
+When I left Airakuen, I had decided not to cry this time, so strangely enough, I could face with my mother’s sobbing calmly.
 
- But her muffled whimper was about to break the nervous atmosphere that filled the house. Fumiko, who was usually calm, stood up.
+But her muffled whimper was about to break the nervous atmosphere that filled the house. Fumiko, who was usually calm, stood up.
 
 ‟Well, I’ll go with Toshio first. And drop by Mr. Matsuzaki’s in Naha.”
 
- Again, my father’s caution was well prepared. He divided us into two groups: my sister Fumiko and I, and my father and other family members to see me off.
+Again, my father’s caution was well prepared. He divided us into two groups: my sister Fumiko and I, and my father and other family members to see me off.
 
 ‟Well, Fumiko. I’ll see you in the waiting room at Tomari Port at 7 o’clock.”
 
@@ -285,19 +285,19 @@ Atsuko called to me again.
 
 Nara Maru, the Kagoshima-bound boat we were to board was scheduled to leave at 8 o’clock in the morning. The rope was stretched all the way to the gate, and the people who were supposed to see the passengers off were waiting outside the rope. Nervous family faces, except for my grandmother, were also lined up there. The passengers were led inside the rope one by one. I walked along, trying to hold on to my father, my hands covered with my overcoat, which we never use in Okinawa. As I looked around, no one had an overcoat with them, so the fact that we were carefully prepared made us stand out even more.
 
- There were three counters lined up to the boarding gate, at the entrance desk was a Ryukyu Marine Transport to check the tickets.
+There were three counters lined up to the boarding gate, at the entrance desk was a Ryukyu Marine Transport to check the tickets.
 
 ‟Third class, two. Okay.”
 
- Atsuko moved along the outside of the rope as we walked ahead.
+Atsuko moved along the outside of the rope as we walked ahead.
 
- At the second desk sat two officers in uniform. They just looked carefully at the passengers going through. We passed the desk without any problem.
+At the second desk sat two officers in uniform. They just looked carefully at the passengers going through. We passed the desk without any problem.
 
- At the last desk, a U.S. military officer took passports from each passenger and inspected them.
+At the last desk, a U.S. military officer took passports from each passenger and inspected them.
 
 My father got an ‘OK’.
 
- I’ll be next. He flipped through my passport.
+I’ll be next. He flipped through my passport.
 
 ‟STOP!” The American soldier yelled.
 
@@ -315,29 +315,29 @@ My passport, signed ‟Ryukyu Resident Iha Toshio,” had ended up being used as
 
 A gong was struck and the melody of ‟Auld Lang Syne” played over the loudspeakers. Colorful ribbons swelled in the wind between the passengers and those seeing us off. The Naha Maru quietly left the wharf with many eddies on its sides. I stood next to my father, staring at the wave of people saying goodbye to us. My family’s eyes fell on my father and me. Atsuko nodded and gestured for me to cover my hands with the overcoat. It was tightly held to my chest, and my hands were inside it.
 
- When we got on board, my father acted strangely twice. He gripped my right hand tightly and wouldn’t let go.
+When we got on board, my father acted strangely twice. He gripped my right hand tightly and wouldn’t let go.
 
 The first time was when the shadow of mainland Okinawa was no longer in sight, and the second time was right after the Naha Maru entered Kinko Bay and we heard the announcement that quarantine would soon be in effect.
 
- What was the reason for my father’s strange behavior?
+What was the reason for my father’s strange behavior?
 
 I talked about it with my family more than a decade later.
 
- Yoshiyasu asked me, ‟Come to think of it... there is a photo in the album of our father and Toshio standing side by side on the deck, looking out to sea. Is that the one?”
+Yoshiyasu asked me, ‟Come to think of it... there is a photo in the album of our father and Toshio standing side by side on the deck, looking out to sea. Is that the one?”
 
 ‟No, it was not on the Naha Maru, but on the deck of the Nankai Yusen in Kagoshima Bay. It was taken by Mr. Yamada, who came to pick us up.”
 
- My mother, who had been silently listening to our conversation opened her mouth.
+My mother, who had been silently listening to our conversation opened her mouth.
 
 ‟He had a good reason for holding your hand. The night before we were to take Toshio to Kagoshima, he told me, ‘If Toshio’s illness is discovered, we may not be able to go to Kagoshima. Then Toshio and I will jump into the sea together. Even if we could land in Kagoshima, the hospital in Kagoshima might not accept Toshio. If you do not hear from me, give up waiting for us.’ Then he left me detailed instructions on how to dispose of his property and told me to take good care of the children. Two days before you left, we went to a photo studio to have the last picture of you taken. Wait a minute--this must be the one from that time…”
 
- My mother showed us a picture wrapped with a Japanese paper. There were my father and mother side by side, dressed in formal attire.
+My mother showed us a picture wrapped with a Japanese paper. There were my father and mother side by side, dressed in formal attire.
 
 ‟Wow! What a picture! Did you know it, Yoneko?”
 
 ‟No, this is the first time to me. Why didn’t you tell us before? That’s very much like him. He was well prepared and never complained...”
 
- ‟Not really, in fact, he mentioned of his own death twice…”
+‟Not really, in fact, he mentioned of his own death twice…”
 
 ‟Oh!” The children shouted in surprise.
 
@@ -351,6 +351,6 @@ No one could speak up.
 
 It was the first time for us to hear an unexpected aspect of our father.
 
- ‟Unlike me, he was too serious and died early, you know, I am a relaxed type of person, so I could live long, see unusual things, eat delicious food, to this day, because I have lived a long life,” she said.
+‟Unlike me, he was too serious and died early, you know, I am a relaxed type of person, so I could live long, see unusual things, eat delicious food, to this day, because I have lived a long life,” she said.
 
- My father died on February 20, 1979. He never regained consciousness after suffering a brain hemorrhage and died six months later at the age of 82. It was a very quiet time of death, as if he was fading away.
+My father died on February 20, 1979. He never regained consciousness after suffering a brain hemorrhage and died six months later at the age of 82. It was a very quiet time of death, as if he was fading away.

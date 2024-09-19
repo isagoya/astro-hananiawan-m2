@@ -50,11 +50,10 @@ The eyes of the 14-year-old boy sitting on the far right in the second row of th
 
 The 89 years of “bad law” enforced against Hansen's disease patients is a history of forcing the sick to abandon their human beings. That is why the “stigmatized” continue to shed endless tears that never dry up.
 
- The “Leprosy Prevention Law,” which caused so much suffering and sorrow to humanity, yet so easily drew its curtain contrary to the weight of its sordid history. Society has left Hansen’s disease patients behind, even forgetting their existence, and trying to erase and bury them as peacefully as possible from the history of Japanese medical administration.
+The “Leprosy Prevention Law,” which caused so much suffering and sorrow to humanity, yet so easily drew its curtain contrary to the weight of its sordid history. Society has left Hansen’s disease patients behind, even forgetting their existence, and trying to erase and bury them as peacefully as possible from the history of Japanese medical administration.
 
 What has the past 89 years of Hansen’s disease been all about? Japanese people living in the country of Japan today need to answer this question.
 
 This book is a memoir of my life and a message to readers from a person who suffered from Hansen's disease. I hope that as many people as possible will read this and reflect on it with their own hearts and souls.
 
 In some parts of the book, the term “leprosy” is used to refer to the disease as it relates to historical background and proper nouns, but the expression is unified as “ Hansen's disease” today.
-

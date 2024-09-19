@@ -76,7 +76,7 @@ My name is Iha Toshio, born on March 14, 1943, on Minamidaito Island, Okinawa Pr
 
 Minamidaito Island is located 350 km east of Okinawa Island in the sea, and covers an area of 26 square kilometers. It is a flat plateau surrounded by steep cliffs and is a small island whose main product has been brown sugar ever since. My family was a relatively wealthy farmer with 13 hectares of land and five servants. Today, we can understand that we occupied a large plot of land from my late father's description of “a light railroad running through our field”.
 
- My 92year old mother frowns and tries to remember those days.
+My 92year old mother frowns and tries to remember those days.
 
 “Ojī (father) was fashionable, so as soon as he finished his farm work, he used to put on a white suit and Panama hat and go out, but after the army had arrived, his clothes were quickly put away in the closet.”
 
@@ -136,7 +136,7 @@ Suddenly, I remembered my father. My eyes went to the Buddhist altar.
 
 My father, who never stopped referring to the Self-Defense Forces as the Japanese Army. And he never tried to visit Minamidaito Island again. Sometimes he would mutter, “If only there were no war going on.”
 
-## Single  File
+## Single File
 
 The year 1945 also began with another air raid by the U.S. military.
 
@@ -176,7 +176,7 @@ When our mother stopped talking, the war came back to my sisters, who were girls
 
 “Yoneko, the American artillery fire was very accurate. That's why we had to move as soon as the guns stopped. People didn't understand why the flares were shot. When the flares go up, it was bright as daylight. People would start moving because of that light, so it was like telling the U.S. where we were all the way over there...”.
 
-“Atsuko, was it on the way down to Mt. Goga? In the hollows of the mountain path, soldiers and townspeople had their torsos blown off, their arms and legs shredded, and were screaming, 'Help me! Ouch, it hurts!  Blue flames were still burning from their bodies, but there was nothing we could do...”
+“Atsuko, was it on the way down to Mt. Goga? In the hollows of the mountain path, soldiers and townspeople had their torsos blown off, their arms and legs shredded, and were screaming, 'Help me! Ouch, it hurts! Blue flames were still burning from their bodies, but there was nothing we could do...”
 
 “Our father's voice was loud at his best. 'Single file! Don't look around! Look ahead, just ahead!'“
 
@@ -204,9 +204,9 @@ My mother giggled and then laughed out loud.
 
 ## Tōnuka Cave
 
-　“Toshio, why does your sandhill got so many stripes? Make a proper triangle!”
+“Toshio, why does your sandhill got so many stripes? Make a proper triangle!”
 
-　Yasuo, began to yelled at me like a bully.
+Yasuo, began to yelled at me like a bully.
 
 I tried to make sandhill again and again, but every time my crooked little finger of left hand struck it, and I could not make a sandhill without streaks.
 

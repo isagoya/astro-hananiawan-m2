@@ -8,7 +8,7 @@ title: Seto Island Sea
 
 The bus route from Okayama Station to Mushiake via Saidaiji and Ushimado was mostly rural, and the regular route bus terminates at Mushiake, a fishing port on the Seto Inland Sea.
 
- The only way to get to National Sanatorium Nagashima Aiseien is by private ferry from a small pier jutting out into Mushiake Bay. The boat is divided into two sections, the front part with the pilot's seat is for staff only, and the rear part is for patients and parties involved.
+The only way to get to National Sanatorium Nagashima Aiseien is by private ferry from a small pier jutting out into Mushiake Bay. The boat is divided into two sections, the front part with the pilot's seat is for staff only, and the rear part is for patients and parties involved.
 
 The boat heads for Nagashima, weaving through the many fish tanks and aquaculture rafts in the sea. Today, a bridge has been built and the islands are connected, but when I started school, it was a place that could only be reached by private ferry, and it was built for the very purpose of “total isolation and eradication”.
 
@@ -32,15 +32,15 @@ Although it was a normal high school, students were required to choose an electi
 
 Classes were 50 minutes long, three hours in the morning, and the morning session ended at 12:20.
 
- We ate lunch in the dormitory cafeteria, and classes usually ended with fourth period in the afternoon. The class schedule was set at 25 hours per week, which was not a tight schedule, and each student participated in club activities after school.
+We ate lunch in the dormitory cafeteria, and classes usually ended with fourth period in the afternoon. The class schedule was set at 25 hours per week, which was not a tight schedule, and each student participated in club activities after school.
 
 The late start time of 9:20 a.m. was due to the special circumstance that students were treated until that hour.
 
 ## Blue Blade
 
- It was the first health check.
+It was the first health check.
 
- Since my seating order was the second, I undressed to the waist and waited for my turn in the next room. Soon, Mr. Arai came out of the office with a medical record in his hand.
+Since my seating order was the second, I undressed to the waist and waited for my turn in the next room. Soon, Mr. Arai came out of the office with a medical record in his hand.
 
 “Please come in, Mr. Iha.”
 
@@ -52,9 +52,9 @@ In 1993, I had the opportunity to join the banquet with Dr. Tsuyama Naoichi. He 
 
 “Wow, Mr. Hashizume. I see...Mr. Hashizume... his surgery skill is the highest.”
 
- I was surprised to know that they knew each other. The encounter with the young, excellent doctor, whose name now rings out in the orthopedic surgery community, would change my life 180 degrees.
+I was surprised to know that they knew each other. The encounter with the young, excellent doctor, whose name now rings out in the orthopedic surgery community, would change my life 180 degrees.
 
- Two young surgeons had been assigned to Nagashima Aiseien in the spring.
+Two young surgeons had been assigned to Nagashima Aiseien in the spring.
 
 Patients who had been in the sanatorium for a long time began to judge them as usual.
 
@@ -64,11 +64,11 @@ I asked them on what basis they made decision.
 
 “Because Dr. Yabe is from the orthopedic department of Tokyo University, while Dr. Hashizume is from the orthopedic department of Shinshu University...”
 
- Even on this small isolated island, they ranked doctors by the university they graduated from. I felt it was funny for the “world-class consciousness” of the patients. I also heard such a whisper.
+Even on this small isolated island, they ranked doctors by the university they graduated from. I felt it was funny for the “world-class consciousness” of the patients. I also heard such a whisper.
 
 “Dr. Hashizume recommends immediate surgery, so the patients are trying to avoid him.”
 
- Dr. Hashizume put his stethoscope on my chest and back and asked me about my condition.
+Dr. Hashizume put his stethoscope on my chest and back and asked me about my condition.
 
 “Mr. Iha, your hands and left leg are drooping. Could you take off your socks and let me take a look?”
 
@@ -76,11 +76,11 @@ He checked the function of my limbs for a while.
 
 “It must be uncomfortable for you as it is. Especially your feet are starting to deform, besides the fact that your soles have no feeling, which will afflict you with perforations in the future.”
 
- The affliction had already begun. I had been suffering with my left foot since last fall. After a short walk or vigorous activity, a blood blister (hematoma) would soon develop and take a long time to heal.
+The affliction had already begun. I had been suffering with my left foot since last fall. After a short walk or vigorous activity, a blood blister (hematoma) would soon develop and take a long time to heal.
 
- “If you have orthopedic surgery, you will regain a lot of function in your limbs.
+“If you have orthopedic surgery, you will regain a lot of function in your limbs.
 
- He was indeed true to the rumors. I let his words pass, thinking that he was recommending an operation right away.
+He was indeed true to the rumors. I let his words pass, thinking that he was recommending an operation right away.
 
 “Could you give me some paper to write on?” He asked the head nurse.
 
@@ -100,7 +100,7 @@ As I was leaving the room, Dr. Hashizume called out to me
 
 -----Run! Playing catch!
 
- The words that had disappeared from me a long time ago had strangely stuck to my ears.
+The words that had disappeared from me a long time ago had strangely stuck to my ears.
 
 That evening, I was preparing for my Chinese literature class in my room. Since Mr. Arai had been called on in yesterday's class, I was sure next would be my turn, according to the seating order.
 
@@ -111,24 +111,23 @@ That evening, I was preparing for my Chinese literature class in my room. Since 
 > The beacons have burnt continuously for three months.  
 > A letter from home is worth ten-thousand pieces of gold.  
 > My white hair is even scarcer from scratching.  
-> And can barely hold a hairpin.  
+> And can barely hold a hairpin.
 >
 > [Chinese classical "du-fu-spring-view"](https://eastasiastudent.net/china/classical/du-fu-spring-view/)
->
 
- “Good evening. Is this Mr. Iha's room?”
+“Good evening. Is this Mr. Iha's room?”
 
 Dr. Hashizume's voice could be heard in the dormitory, which was rarely visited by outsiders except for teachers. He said, "Excuse me," and suddenly came into my room.
 
 It was almost two kilometers over two hills from the doctor's house to the high school dormitory. I had the feeling of his visit, but it was unexpected that he would actually visit me that evening.
 
- He opened the paper he had written on in front of me that morning. There was new writing in red ink. “I didn't have enough time this morning...”
+He opened the paper he had written on in front of me that morning. There was new writing in red ink. “I didn't have enough time this morning...”
 
- Once again, he began to talk about the surgical procedure and the possibility of restoring function. I made appropriate responses now and then, trying not to be rude, but I was absent minded. His explanation went on for nearly two hours, until just before curfew.
+Once again, he began to talk about the surgical procedure and the possibility of restoring function. I made appropriate responses now and then, trying not to be rude, but I was absent minded. His explanation went on for nearly two hours, until just before curfew.
 
- The doctor's night visits continued for a month.
+The doctor's night visits continued for a month.
 
- His enthusiasm was so unusual that my classmates made fun of us by saying, “Evening girlfriend of Iha.
+His enthusiasm was so unusual that my classmates made fun of us by saying, “Evening girlfriend of Iha.
 
 His lecture covered many areas, and he repeated them in a very kind and detailed way to me, who had no medical knowledge. Sometimes he would even bring medical books and talk about "muscle structure," "brain and nerve command system," and even "bone function. It made me think that his lectures in medical schools would be just like that. With his repeated visits, I began to ask him rather rude questions.
 
@@ -154,7 +153,7 @@ During our small talk, one word he casually mentioned stunned me.
 
 “What? Return to society! Me?”
 
- They were completely unexpected words.
+They were completely unexpected words.
 
 I had already come to a conclusion about my life.
 
@@ -176,7 +175,7 @@ I was reminded of this during the past two months in high school. The aftereffec
 
 “Obviously. It depends on how you feel. However, a minimum of bodily function is still required to return to society and live. “
 
- My attitude, which had always been negative, changed too easily with this discussion.
+My attitude, which had always been negative, changed too easily with this discussion.
 
 ## Modified Man
 
@@ -222,7 +221,7 @@ Dr. Hashizume showed me the saline soaked tendon that had just been severed. Its
 
 “Let's get started. Mr. Iha, how would you like to watch your own operation? It takes some courage, you know.”
 
- I had the feeling that Dr. Hashizume was testing me.
+I had the feeling that Dr. Hashizume was testing me.
 
 “Yes, I'd like to. Please.”
 
@@ -232,9 +231,9 @@ Even now, as I remember, something very unusual was going to happen. I thought: 
 
 On the tray next to the operating table, scalpels and tweezers glistened.
 
- As he gently inserted the scalpel vertically, the dermis, fat, and muscle separated as if a curtain were being opened.
+As he gently inserted the scalpel vertically, the dermis, fat, and muscle separated as if a curtain were being opened.
 
- Blood oozed from the capillaries. When the nurse quickly wiped it off with gauze, veins and white bone surrounded by thin fat were clearly visible.
+Blood oozed from the capillaries. When the nurse quickly wiped it off with gauze, veins and white bone surrounded by thin fat were clearly visible.
 
 Dr. Hashizume's voice rang out during the operation.
 
@@ -246,7 +245,7 @@ The charts with illustrations on the wall must have been a surgical procedure. T
 
 The doctor instructed the nurse. He connected my right tendon to my left leg. Then four screws, each about a centimeter long, were driven into each side of my ankle.
 
- Just a few minutes ago, the tourniquet had cut into my thigh, and I was struck with tearing pain in my lower back. To distract myself from the excessive pain, I counted the tiles on the ceiling from right to left and then from bottom to top.
+Just a few minutes ago, the tourniquet had cut into my thigh, and I was struck with tearing pain in my lower back. To distract myself from the excessive pain, I counted the tiles on the ceiling from right to left and then from bottom to top.
 
 “One, two, three, four, five, six, seven -----”
 
@@ -254,17 +253,17 @@ The doctor instructed the nurse. He connected my right tendon to my left leg. Th
 
 “The anesthetic is wearing off. Mr. Iha, can you hold on a little longer?”
 
- When asked, “Can you hold on?” we rarely deny it by saying, “No, I can't.”
+When asked, “Can you hold on?” we rarely deny it by saying, “No, I can't.”
 
 “Yes, I'm okay. I can hold on...”
 
 The ticking of the seconds was high and slow.
 
- My face unconsciously swayed from side to side from the pain of the tourniquet on my thigh.
+My face unconsciously swayed from side to side from the pain of the tourniquet on my thigh.
 
- “Mr. Iha, I'm stitching you up right now, so it's almost over.”
+“Mr. Iha, I'm stitching you up right now, so it's almost over.”
 
- Thirty minutes had passed since I was told it was almost over.
+Thirty minutes had passed since I was told it was almost over.
 
 “Alright! It's done.”
 
@@ -282,43 +281,43 @@ Dr. Hashizume stood next to my bed in his ordinary clothes with an excited face.
 
 “It suddenly hit me while I was in the bathroom ... I just couldn't sit still and ran out of my house”.
 
- He had a notebook in his hand that had obviously been scribbled over many times. He spread it out in front of me and suddenly began to explain the surgical procedure.
+He had a notebook in his hand that had obviously been scribbled over many times. He spread it out in front of me and suddenly began to explain the surgical procedure.
 
- Shortly thereafter, the surgery on my left hand began.
+Shortly thereafter, the surgery on my left hand began.
 
- This surgical case was published in the academic journal “Surgical Treatment for Leprosy Patients with Limb Dysfunction”, published in March 1976. He was recognized for his achievements as an orthopedic surgeon and received the 21st Leprosy Society of Japan Award at the 53rd Annual Meeting of the Leprosy Society of Japan in 1980.
+This surgical case was published in the academic journal “Surgical Treatment for Leprosy Patients with Limb Dysfunction”, published in March 1976. He was recognized for his achievements as an orthopedic surgeon and received the 21st Leprosy Society of Japan Award at the 53rd Annual Meeting of the Leprosy Society of Japan in 1980.
 
- “At least three surgeries are required on your left hand only. The interval between the surgeries will be about two months, and the main method is to transfer the tendon, which is a functional shift, and it means that the functions in your body that have been working under the command of your brain will be changed to another function. It changes the voluntary nerve commands themselves, so the body image that has been held has to be broken down for once. That is why the rehabilitation after the surgery will be hard for you, I think. The key to success or failure depends on our single-minded cooperation.
+“At least three surgeries are required on your left hand only. The interval between the surgeries will be about two months, and the main method is to transfer the tendon, which is a functional shift, and it means that the functions in your body that have been working under the command of your brain will be changed to another function. It changes the voluntary nerve commands themselves, so the body image that has been held has to be broken down for once. That is why the rehabilitation after the surgery will be hard for you, I think. The key to success or failure depends on our single-minded cooperation.
 
- The first surgery took place.
+The first surgery took place.
 
 The pronator teres muscle[^1]: was separated from the radius[^2]:, and the flexor carpi radialis muscle was separated from the medial wrist joint. The flexor carpi radialis muscle was pulled out between the radius and ulna[^3]: to the dorsal side of the hand and divided into two, then the pronator teres muscle was connected to the extensor carpi radialis brevis and extensor carpi radialis longus muscles. One of the separated flexor carpi radialis muscles was attached to the extensor pollicis longus muscle[^4]:, another one was attached to the extensor digitorum communis[^5]: , extensor digitorum propria[^6]: and extensor digiti mini. Then part of the tendon of the flexor carpi longus muscle was torn off and attached to the tendon of the abductor pollicis longus muscle to improve support for the thumb, and that was the end of the surgery.
 
- Three weeks later, the cast was cut and the stitches removed.
+Three weeks later, the cast was cut and the stitches removed.
 
 “The stitches are clean. Tomorrow we'll finally start rehabilitation for functional conversion. It's going to be tough from now on.”
 
- He was right. We struggled for four hours in the rehab room, but my wrists remained stiff and could not dorsiflex.
+He was right. We struggled for four hours in the rehab room, but my wrists remained stiff and could not dorsiflex.
 
 “Twist your wrist inward about 15 degrees. Instruct your brain to do so!”
 
 The doctor's voice echoed through the room. No matter how many times I tried, my wrist would not move an inch.
 
- “Listen, let go of all your preconceptions. Turn your wrist inward. Draw a picture in your mind--inside--”
+“Listen, let go of all your preconceptions. Turn your wrist inward. Draw a picture in your mind--inside--”
 
- Sweat poured from both our heads. It was 10:00 a.m. and four hours had passed. “Oh, no. Let's take a break and have lunch.”
+Sweat poured from both our heads. It was 10:00 a.m. and four hours had passed. “Oh, no. Let's take a break and have lunch.”
 
 “I'm fine, Doc. Let's keep going.”
 
 “Now I'm going to support you with my hand, so just look at the point. Turn the wrist inward. Good, good, I can feel it moving a little. Good, continue.”
 
- The clock hands pointed to just before 4:00 p.m.
+The clock hands pointed to just before 4:00 p.m.
 
 ---twitch---
 
 ---moved---
 
- My wrist twitched slightly upward.
+My wrist twitched slightly upward.
 
 “That's it! Good! It is moving. Mr. Iha. It's moving. You've got it, good. Keep it up.”
 
@@ -328,13 +327,13 @@ The second surgery took place two months later.
 
 They separated the flexor digitorum superficialis muscle of the third finger at its base, pulled it out to the central part of the palm, divided it into four equal parts, and reattached them to four fingers: the index, middle, ring, and little fingers.
 
- The third flexor digitorum superficialis is separated at the base of the finger, drawn out to the appendage site of the palm, quartered, and connected to the index, middle, ring, and the fourth finger.
+The third flexor digitorum superficialis is separated at the base of the finger, drawn out to the appendage site of the palm, quartered, and connected to the index, middle, ring, and the fourth finger.
 
- The third surgery would be completed with an opposite plasty for the thumb, using the flexor digitorum superficialis muscle of the fourth finger[^7]:.
+The third surgery would be completed with an opposite plasty for the thumb, using the flexor digitorum superficialis muscle of the fourth finger[^7]:.
 
 The same procedure was performed on the right hand.
 
- It passed four weeks since the surgery.
+It passed four weeks since the surgery.
 
 “Mr. Iha, please throw this tennis ball with all your strength.”
 
@@ -347,20 +346,15 @@ The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 ![fig.1](../../images/fig1.jpg)
 ![fig.2](../../images/fig2.jpg)
 ![fig.3](../../images/fig3.jpg)
-> Figures 1.2.3. are from “Orthopedic Treatment of Leprosy Patients with Limb Dysfunction” (Lepra. 45. 1974)　by Hashizume Chozo.
+
+> Figures 1.2.3. are from “Orthopedic Treatment of Leprosy Patients with Limb Dysfunction” (Lepra. 45. 1974)　 by Hashizume Chozo.
 
 [^1]: Rotator cirrus muscle: A muscle running from the end of the radius to the ulnar (little finger) side of the elbow on the front surface of the forearm, which twists the forearm inwards (palm facing downwards).
-
 [^2]: Radius: Tubular long bone on the outer side of the forearm.
-
 [^3]: Ulna Tubular: long bone located on the inner side of the forearm along with the radius.
-
 [^4]: Extensor: digitorum longus muscle Functions to extend the thumb.
-
 [^5]: Extensor: digitorum totalis muscle A long muscle on the dorsal aspect of the forearm that functions to extend the index, middle, ring, and little fingers.
-
 [^6]: Intrinsic instruction extensor muscle: which functions to extend the index finger alone.
-
 [^7]: Superficial flexor of the third(fourth) finger Function to flex the middle joint of the middle and ring fingers
 
 ## Bonds of Okinawa
@@ -369,7 +363,7 @@ Ever since I moved to the mainland for high school, there has been a problem tha
 
 In March 1963, I unfolded a newspaper delivered from Okinawa. On the front page was a report on the “Myth of Autonomy” by the High Commissioner for Okinawa, P. W. Caraway.
 
- He argued, “Autonomy at the present time is a myth; it does not exist. And it won't exist unless you Ryukyuans (Okinawans) determine of your own free wills that you wish once again to become an independent nation-state.” (Okinawa Prefectural Archive Materials)
+He argued, “Autonomy at the present time is a myth; it does not exist. And it won't exist unless you Ryukyuans (Okinawans) determine of your own free wills that you wish once again to become an independent nation-state.” (Okinawa Prefectural Archive Materials)
 
 It was the same thing to threaten the residents of Okinawa: This island was taken from the Japanese military by the precious blood of the American army. As third-class citizens, Okinawans cannot have the ability to govern themselves. It is nothing but an illusion that you have the ability to decide the direction of Okinawa. The chief executive of Okinawa is the High Commissioner, and his authority is absolute. Therefore, as the High Commissioner, I appoint the Chief Executive of the Ryukyu Islands Government. It is absurd for you, the residents of Okinawa, to return to Japan. When Ryukyu becomes independent, we will give you self-government.
 
@@ -381,7 +375,7 @@ When I close my eyes, it reminds me of the summer of 1955, when the farmers of I
 
 The farmers gathered under the eaves of Ishikawa market and sang songs while playing the sanshin (Okinawan three-stringed instrument).
 
- “The AMERIKAA took our land, all our houses and fields. 152 families have been forced to leave our village. We have to go begging.”
+“The AMERIKAA took our land, all our houses and fields. 152 families have been forced to leave our village. We have to go begging.”
 
 Many people gathered around and they were all in tears. Then, one by one, they put money into the empty cans placed in front of the mats on which they were sitting.
 
@@ -405,13 +399,13 @@ Suddenly I was slapped in the face. My father was standing there with his arms f
 
 “Why is that? Always, only Okinawa, even now...”
 
- Mr. Ishigaki, who took care of me in Kagoshima, had recommended that I meet Mr. Chiba Osamu after I entered high school.
+Mr. Ishigaki, who took care of me in Kagoshima, had recommended that I meet Mr. Chiba Osamu after I entered high school.
 
 “He has much to learn as a human being. Your sensitivity is too acute, so you can learn the serenity of life from him. In 1937, at the age of 27, he developed the disease in Okinawa, resigned from his teaching position, and is now under medical care at Nagashima Aiseien. I think he will be a good mentor, both as a Christian and as a man of letters.”
 
 I visited Mr. Chiba's house whenever I could find the time. He was calm, clear, and cool, and he listened to me, who was young and thoughtless, vehemently questioning him, but he never imposed his opinions on me.
 
- However, when he expressed his feelings about Okinawa in Japanese poetry, there was a surprising intensity that was far from his usual nature.
+However, when he expressed his feelings about Okinawa in Japanese poetry, there was a surprising intensity that was far from his usual nature.
 
 > Since the day my family register was burned at the Battle of Okinawa,  
 > I have been erased, yet I am alive like this
@@ -430,7 +424,7 @@ I visited Mr. Chiba's house whenever I could find the time. He was calm, clear, 
 >
 > (Anthology ‘Coral Reef’ by Chiba Osamu)
 
- After a while, my words to Mr. Chiba turned nasty. It was because “Okinawa” in my mind began to reject the prayer of Jesus Christ.
+After a while, my words to Mr. Chiba turned nasty. It was because “Okinawa” in my mind began to reject the prayer of Jesus Christ.
 
 “Mr. Chiba, will Okinawa be returned just by expressing anger in letters? Can poems change Yamato's (Mainland's) mistakes? Can the prayer of Jesus Christ save Okinawa today?”
 
@@ -450,7 +444,7 @@ The classroom became a place of debate between the teacher and me.
 
 “Mr. Iha, it is early to have a biased opinion in your high school days with little social experience.”
 
- My homeroom teacher started to warn me. I was definitely a student who embarrassed teachers. But I could not accept his advice about being “biased” either.
+My homeroom teacher started to warn me. I was definitely a student who embarrassed teachers. But I could not accept his advice about being “biased” either.
 
 “Teaching the world and society through balance is not education. We should speak in facts. All the more, it is a deception for America to brandish so-called justice all over the world. I saw it in Okinawa!”
 
@@ -464,13 +458,13 @@ The change in my consciousness was evident in the daily routine of my high schoo
 
 The Niirada Class had not been allowed to go on field trips since its founding.
 
- At best, a one-day bus trip with limited destinations or a boat trip to Oshima Seishoen, a Hansen's disease sanatorium in Kagawa Prefecture, were typical class trips.
+At best, a one-day bus trip with limited destinations or a boat trip to Oshima Seishoen, a Hansen's disease sanatorium in Kagawa Prefecture, were typical class trips.
 
 What stood in our way was the Leprosy Prevention Law. People who were called “patients” were allowed to leave the sanatorium only after they had been examined by a doctor and had received “permission to leave” or “permission to temporarily return home”.
 
 Since the founding of the school, it had been the earnest wish of all the students to have a school trip, but every year it had been denied. There were three reasons.
 
- First problem. Each of us had to get a “diagnostic permit” to go out. In one class, some were “allowed” and others “not allowed” depending on their individual symptoms, which made it impossible to do a group activity as a class.
+First problem. Each of us had to get a “diagnostic permit” to go out. In one class, some were “allowed” and others “not allowed” depending on their individual symptoms, which made it impossible to do a group activity as a class.
 
 One solution to this problem was special group transportation at the time of admission and graduation, but it was also impossible due to cost issues.
 
@@ -542,7 +536,7 @@ It took her a while to answer.
 
 “My house is poor. Here I can study for free. My teacher recommended me.”
 
- She told me in a low voice with her eyes downcast.
+She told me in a low voice with her eyes downcast.
 
 I thought I had asked something I shouldn't have.
 
@@ -556,13 +550,13 @@ This led to a very natural conversation between us. Soon after, she told me that
 
 “Tokyo.”
 
- Coincidentally, I had also decided to go to Tokyo to study, so we had a lively conversation, dreaming of seeing each other in Tokyo. Later, Akiko brought answer sheets for her correspondence course to my room.
+Coincidentally, I had also decided to go to Tokyo to study, so we had a lively conversation, dreaming of seeing each other in Tokyo. Later, Akiko brought answer sheets for her correspondence course to my room.
 
 The surgeries were repeated and the function of my limbs gradually recovered.
 
 Strangely enough, the “better” that had been the basis for all my decisions began to waver. The state of my mind was rising.
 
- Although still vague, I began to regain some confidence in the society I was about to challenge. I was 23 years old at the time.
+Although still vague, I began to regain some confidence in the society I was about to challenge. I was 23 years old at the time.
 
 The biggest change was in my thinking about the opposite sex. I had decided not to have a relationship with a woman for the rest of my life and tried to restrain myself, but that collapsed before Akiko's existence.
 
@@ -590,17 +584,17 @@ I lost my words. I was beginning to think she was exactly right.
 
 In April of 1967, I was to enter the Chuo Labor College (now the Musashino Foreign Language College). It was established in 1951 with the founding spirit of “bringing learning from the ivory tower to the place of social life. The professors who agreed with this spirit were Marxist economists and theoretical leaders of the left movement of the time, and they taught courses that went beyond the boundaries of the university. The college was positioned as a vocational school, consisting of the main course (politics and economics) and the literature course. I was to study for two years in the main course.
 
- Dr. Narita Minoru of Tama Zenshoen in Tokyo (currently Chairman of the Management Committee of Prince Takamatsu Memorial Hansen's Disease Museum and Honorary Director of the National Sanatorium Tama Zenshoen) took me under his consideration and decided to perform the left big toe extension surgery at Tama Zenshoen, and they performed my transfer procedures.
+Dr. Narita Minoru of Tama Zenshoen in Tokyo (currently Chairman of the Management Committee of Prince Takamatsu Memorial Hansen's Disease Museum and Honorary Director of the National Sanatorium Tama Zenshoen) took me under his consideration and decided to perform the left big toe extension surgery at Tama Zenshoen, and they performed my transfer procedures.
 
- Dr. Narita advised me to make it official that I was “in need of medical treatment”, in fact, if you go to college from Zenshoen, you don't have to worry about housing and living,” so I decided to take advantage of his goodwill. My leprosy treatment was deemed unnecessary six years ago. I was not given any medication at that time.
+Dr. Narita advised me to make it official that I was “in need of medical treatment”, in fact, if you go to college from Zenshoen, you don't have to worry about housing and living,” so I decided to take advantage of his goodwill. My leprosy treatment was deemed unnecessary six years ago. I was not given any medication at that time.
 
 On February 2, 1967, I went to the ticket office at Okayama Station to buy a ticket to Tokyo in five days. I had to buy a ticket for the Sanyo main line from Okayama to Osaka and a reserved ticket for the Shinkansen line from Osaka to Tokyo.
 
- My heart was pounding.
+My heart was pounding.
 
 -----Finally, I can sit with other passengers. Most importantly, I would be able to ride the dreamy bullet train.
 
- The ticket was held in the palm of my hand.
+The ticket was held in the palm of my hand.
 
 It seemed that the whole landscape around me was smiling at me.
 
@@ -668,7 +662,7 @@ I had been struck by an unknown fear a while ago.
 
 -----From now on, I would go through this every day!
 
- I was shaking uncontrollably.
+I was shaking uncontrollably.
 
 -----I knew I could not do it. If only I was satisfied with my life on the island. I shouldn't have had surgeries and so on and tried to go beyond my means.
 
@@ -708,7 +702,7 @@ When he spoke in such a way as to abandon me, on the contrary -- I could no long
 
 It was a completely unexpected turn of events for me.
 
-“These are daily occurrences. This is the level of social understanding today. What will change if you get out of this situation?  If you don't stand up for yourselves, who will change it?”
+“These are daily occurrences. This is the level of social understanding today. What will change if you get out of this situation? If you don't stand up for yourselves, who will change it?”
 
 ## Erased Faces
 
@@ -728,31 +722,31 @@ There is a song that has long been my encouragement when I have lost my way and 
 > The Seto Sea leading to the world  
 > The youth with high ideals,  
 > United here in Niirada  
-> There is hope for us who learn.  
+> There is hope for us who learn.
 >
 > Red tiles shine in the sunset  
 > The sound of the bell echoes in our hearts  
 > Youth with an important mission,  
 > Seeking the eternal truth  
-> There is pride for us who learn.  
+> There is pride for us who learn.
 >
 > The beach breeze is fragrant on the rough shore  
 > White walls shine in the morning sun  
 > Youth bound with firm vows  
 > Seeking the light of peace  
-> There is diligence for us who learn.  
+> There is diligence for us who learn.
 
 In the spring of 1987, I received the commemorative publication ‘Niirada,’ a cloth-covered book in a box, sent by the Committee for the Commemoration of the Closing of the School. According to the book, 280 of the 307 graduates returned to society.
 
 When I looked through the book, I found its contents very strange for a publication commemorating the closing of the school.
 
- At the end of the book were eight pages of lists of former directors, principals, vice-principals, faculty and staff, office workers, and dormitory masters with their addresses. But not a single name of the 307 graduates who were supposed to be the main characters could be found anywhere.
+At the end of the book were eight pages of lists of former directors, principals, vice-principals, faculty and staff, office workers, and dormitory masters with their addresses. But not a single name of the 307 graduates who were supposed to be the main characters could be found anywhere.
 
 It was also unique in giving social meaning to the existence of the school, but it was too “symbolic” as a publication to decorate the closing of the curtain of history.
 
- In addition, the photographs on all the pages were unusual. Most of the photos were taken from a distance or from behind, and those that were taken in frontal close-ups used the “line screen” printing technique to make it impossible to identify the individuals.
+In addition, the photographs on all the pages were unusual. Most of the photos were taken from a distance or from behind, and those that were taken in frontal close-ups used the “line screen” printing technique to make it impossible to identify the individuals.
 
- In short, 307 names and faces of graduates were erased from the school's final commemorative publication.
+In short, 307 names and faces of graduates were erased from the school's final commemorative publication.
 
 It was just too sad to call it “idiocy.”
 

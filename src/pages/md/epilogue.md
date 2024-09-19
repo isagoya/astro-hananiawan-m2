@@ -8,7 +8,7 @@ The history of Hansen's disease (leprosy) in Japan has exactly been one of exclu
 
 Who judged it was the prejudice born of the moral sense against an incurable disease that was thought to be the result of bad karma. And it based its great cause on "public sanitation. The name of the law was "Leprosy Prevention Law" and the crime was "Hansen's Disease". The punishment was imprisonment until death. But more than 5500 people had survived in the place of exile called Hansen's Sanatoriums.
 
-Man, humiliated man, patients were abandoned for the sake of the majority, and their families were neglected under groundless "stigma.  This situation still exists in modern Japan, which enjoys its prosperity.
+Man, humiliated man, patients were abandoned for the sake of the majority, and their families were neglected under groundless "stigma. This situation still exists in modern Japan, which enjoys its prosperity.
 
 In 1996, the Ministry of Health and Welfare admitted its mistakes in administering Hansen's disease and closed the curtain on its 89-year history. However, they did not attempt to investigate the stains committed by the medical administration.
 

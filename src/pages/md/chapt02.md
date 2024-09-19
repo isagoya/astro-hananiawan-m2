@@ -49,7 +49,7 @@ Goya is located in Koza City (now Okinawa City), about a 30-minute bus ride from
 
 My father carried me on his back to the hospital every day. My height had stopped growing since I was in lower elementary school. In those days, I stayed out of school and went to the hospital every other day read books and newspapers when I was at home.
 
- One day I happened to look at the newspaper, and the words "Yagaji," "Airakuen," and "leprosy" jumped into my eyes. I greedily read the article over and over again.
+One day I happened to look at the newspaper, and the words "Yagaji," "Airakuen," and "leprosy" jumped into my eyes. I greedily read the article over and over again.
 
 "Ah!"
 
@@ -88,7 +88,7 @@ My eyes, blurred with tears, saw the Deigo flowers overhanging the fence. Over m
 
 ## Sanyama-bushi (Ryukyuan Classical Music)
 
-  In October 1956, I returned to the first grade of junior high school.
+In October 1956, I returned to the first grade of junior high school.
 
 "Toshio, come here."
 
@@ -166,13 +166,13 @@ As a 14-year-old boy, that was all I could remember what came out from his mouth
 
 He handed me a book called "Ryukashu" (Ryukyu Song Anthology) written by Shimabukuro Seibin.
 
-  I began to search for the lyrics that began with "Makotoka, Jichika..." It was only a fine thread of memory.
+I began to search for the lyrics that began with "Makotoka, Jichika..." It was only a fine thread of memory.
 
 "Makotoka... jichika..."
 
 "Ah, here it is! I found it!"
 
- ---Makotoka Jichika Wachimu Furiburito Nizami udoruchinu Yuminukukuchi (Is this true and real, my heart is awake, amazing and dreamy)
+---Makotoka Jichika Wachimu Furiburito Nizami udoruchinu Yuminukukuchi (Is this true and real, my heart is awake, amazing and dreamy)
 
 The title was written, "Sanyama-bushi".
 
@@ -198,7 +198,7 @@ The Sanyama-bushi pierced my memory of that time. I wondered if what was happeni
 
 ## My Father's Back
 
-  The shutters remained closed.
+The shutters remained closed.
 
 Our family sat quietly around me in the center. I was staring at the Furoshiki (Japanese wrapping cloth) my mother had prepared for me. My mother was outside the circle. She sat alone looking backwards apart from us with her shoulders trembling.
 
@@ -214,7 +214,7 @@ My father yelled, and that was the end of everything.
 
 It took about an hour by bus from my house to Nago, but strangely enough, my memory of that time has completely slipped away. It is as if the boy's fear had erased even his memory. The curtain of memory opens only from Nago Town (now a city), the bus transfer point to Yagaji Island.
 
- The sweet smell of gasoline filled the bus station, and the whistles to guide buses were heard. Only the depots for Naha-bound and Ishikawa-bound buses were busy, with lines of people forming and breaking.
+The sweet smell of gasoline filled the bus station, and the whistles to guide buses were heard. Only the depots for Naha-bound and Ishikawa-bound buses were busy, with lines of people forming and breaking.
 
 The leaves of the Common garcinia trees planted in the windbreak shone as if embracing the morning sun.
 
@@ -234,9 +234,9 @@ We were on time, but the door was open for a while. I could feel the vibration o
 
 The conductor whistled and shut the door. The driver spoke to her as he started the bus.
 
- "Mamoru didn't get on, was something wrong with him?"
+"Mamoru didn't get on, was something wrong with him?"
 
- "Yesterday he told me there would be a funeral tomorrow."
+"Yesterday he told me there would be a funeral tomorrow."
 
 They were talking about the regular passengers.
 
@@ -281,9 +281,9 @@ I replied, although the meaning of his words was not clear to me. It was not unt
 
 A row of one-story houses lined up on either side, filled with the sweet scent of oleander flowers. Soon, a concrete gatepost appeared in front of us. On the right side of the gatepost was a sign that read "Okinawa Airakuen".
 
- My father explained the purpose of our visit at the reception desk of the main building.
+My father explained the purpose of our visit at the reception desk of the main building.
 
- "Ah, you are Mr. Iha, aren't you?  We heard about your visit. You must have had a hard time since early this morning. I'll go and tell everyone about you ..."
+"Ah, you are Mr. Iha, aren't you? We heard about your visit. You must have had a hard time since early this morning. I'll go and tell everyone about you ..."
 After a short wait, a middle-aged man led us to a high gray wall with rough pebbles mixed in. Inside the gate, three men were waiting for us.
 
 "Mr. Kishimoto, please come to the consulting room at 9:00 a.m. for an examination. Then, you are expected in the office later."
@@ -304,7 +304,7 @@ My father stared at me in silence and did not try to get up from his chair.
 
 "I know your heartache to leave him, but, now "
 
- Being urged again, my father finally got up and bowed deeply to him.
+Being urged again, my father finally got up and bowed deeply to him.
 
 "Well, take care of my son, please."
 
@@ -399,7 +399,7 @@ Just then, I burst into tears for no reason. Suddenly, uncontrollable sadness ov
 You idiot! Idiot I am!
 The voice of self-blame rose from under my feet.
 
- I ran out of the room and immediately went to the chapel.
+I ran out of the room and immediately went to the chapel.
 
 In the front row of the silent chapel, the man was praying alone.
 
@@ -417,7 +417,7 @@ Evangelist Aoki Keisai (1893-1969) was ordained as deacon in 1966. He was sent a
 
 By 1909, five public leprosy sanatoriums had been established on the mainland. Okinawa Prefecture, the poorest prefecture in Japan at the time, had more than three times as many leprosy patients as any other prefecture on the mainland. Nevertheless, the establishment of sanatoriums was not realized because since 1910, the authorities of Okinawa Prefecture had repeatedly promoted plans to establish sanatoriums, but whenever the proposed site came to light, local residents fiercely opposed to the plan, despite the exercise of strong public authority.
 
-Evangelist Aoki saw the unfortunate situation of these friends in Okinawa, worked hard to get the land for them, thinking that even a piece of land would be enough if they could treat their disease without the pressure of　others. Finally, he was able to buy 9,900 square meters of wasteland in Ufudoubaru, Yagaji Island, in the name of another person. On December 28, 1935, he forced the patients who had been wandering in vain to go to the land in Ufudoubaru, Yagaji Island, in the shadow of the night.
+Evangelist Aoki saw the unfortunate situation of these friends in Okinawa, worked hard to get the land for them, thinking that even a piece of land would be enough if they could treat their disease without the pressure of 　 others. Finally, he was able to buy 9,900 square meters of wasteland in Ufudoubaru, Yagaji Island, in the name of another person. On December 28, 1935, he forced the patients who had been wandering in vain to go to the land in Ufudoubaru, Yagaji Island, in the shadow of the night.
 
 But the place where the patients had finally arrived was not for a peaceful life. They were repeatedly attacked by the locals, and their tents were constantly torn down. If that’s so…they decided to build a cabin. They thought that building their own hut on their own land would be protected by the police, unlike the temporary tent, but it was a futile effort in the face of the angry locals. Even the huts were thrown into the sea. Evangelist Aoki, the leader, even had his life threatened.
 
@@ -429,10 +429,10 @@ But the place where the patients had finally arrived was not for a peaceful life
 
 Three years later, his life's work was finally rewarded. In 1938, Okinawa Prefecture overcame the opposition of local residents and completed "Kunigami Airakuen. It was built on the wasteland purchased by Aoki and the adjacent land purchased by Okinawa MTL (Mission to Lepers - the organization for Christian mission, visitation and leprosy awareness) in the name of Rev. Hattori Danjiro.
 
-　I met Evangelist Aoki in 1957 when he had already lost both legs and the fingers of both hands. It was as if he was carrying the heavy burden all over his body in exchange for the salvation of the lepers in Okinawa.
+I met Evangelist Aoki in 1957 when he had already lost both legs and the fingers of both hands. It was as if he was carrying the heavy burden all over his body in exchange for the salvation of the lepers in Okinawa.
 
 Evangelist Aoki and I sat side by side and prayed.
 
- Later, I visited the monument "Praise the Virtue of Aoki Keisai" as the only way to express my deep gratitude for that day. His haiku (Japanese poetry) is engraved on it.
+Later, I visited the monument "Praise the Virtue of Aoki Keisai" as the only way to express my deep gratitude for that day. His haiku (Japanese poetry) is engraved on it.
 
- >> Shells go through pain, be pearls in spring
+> > Shells go through pain, be pearls in spring
