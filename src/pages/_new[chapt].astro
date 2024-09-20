@@ -1,0 +1,80 @@
+---
+// chapters.jsonを利用しないで表示するコード
+
+// import chapters from "./data/chapters.json";
+// console.log(chapters);
+
+// `./src/pages/md`の`.md`で終わるすべてのファイルをインポート
+const dataHtmls = await Astro.glob("./md/*.{md,mdx}");
+// dataHtmls.map((dataHtml, i) => {
+//   console.log(i, dataHtml.frontmatter.title);
+// });
+console.log(dataHtmls.length);
+const len = dataHtmls.length;
+
+// ページ分の param を用意する
+export function getStaticPaths() {
+  let staticPath = [];
+  //13このファイル名 chapt-1 ~ chapt13 を作る
+  for (let i = 0; i < 13; i++) {
+    // chapters.slice(2, 13).map((chapter, i) => {
+    staticPath.push({ params: { chapt: "chapt-" + (i + 1) } });
+  }
+  // console.log(staticPath);
+
+  return staticPath;
+
+  // chaoter.jsonの配列2から15番目までのchapterを取得
+  // return chapters.slice(2, 15).map((chapter, i) => {
+  //   return {
+  //     params: { chapt: "chapt-" + (i + 1) },
+  //     // props: { chapter, i },
+  //   };
+  // });
+}
+// console.log(getStaticPaths());
+
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Footer from "../components/Footer.astro";
+import Pagination from "../components/Pagination.astro";
+// import HtmlData from "../data/chapt1_inner.html";
+import Header from "../components/Header.astro";
+import { Component } from "preact";
+
+const { chapt } = Astro.params;
+// console.log('chapt:', chapt );
+const { chapter, i } = Astro.props;
+// console.log(chapter, i);
+
+const num = parseInt(chapt.replaceAll(/[^0-9]/g, ""));
+// console.log("num:", num)
+// const title = chapters[num + 1].title;
+const title = "";
+const type = "contents";
+const dataHtml = dataHtmls[num - 1];
+---
+
+<!-- <BaseLayout pageTitle={title} pageType={type} title={chapter.title} num={num}> --><!-- <Header title={chapter.title} num={num} description={chapter.description} /> -->
+<BaseLayout
+  pageTitle={title}
+  pageType={type}
+  title={dataHtml.frontmatter.title}
+  num={num}
+>
+  <Header
+    title={dataHtml.frontmatter.title}
+    num={num}
+    description={dataHtml.frontmatter.description}
+  />
+  <!-- {dataHtml.frontmatter.title}
+  {dataHtml.frontmatter.description} -->
+
+  <dataHtml.default size={24} />
+
+  <!-- {dataHtmls.slice(i, i + 1).map((dataHtml) => <dataHtml.default size={24} />)} -->
+
+  <Footer>
+    <Pagination />
+    <script src="../scripts/donation.js"></script>
+  </Footer>
+</BaseLayout>
