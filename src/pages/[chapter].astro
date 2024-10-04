@@ -5,20 +5,20 @@
 // console.log(chapters);
 
 // `./src/pages/md`の`.md`で終わるすべてのファイルをインポート
-const dataHtmls = await Astro.glob("./md/*.{md,mdx}");
-// dataHtmls.map((dataHtml, i) => {
-//   console.log(i, dataHtml.frontmatter.title);
+const mdDatas = await Astro.glob("./md/*.{md,mdx}");
+// mdDatas.map((mdData, i) => {
+//   console.log(i, mdData.frontmatter.title);
 // });
-console.log(dataHtmls.length);
-const len = dataHtmls.length;
+// console.log(mdDatas.length);
+// const len = mdDatas.length;
 
 // ページ分の param を用意する
 export function getStaticPaths() {
   let staticPath = [];
-  //13このファイル名 chapt-1 ~ chapt13 を作る
+  // 13個のファイル名 ch-1 ~ ch-13 を作る
   for (let i = 0; i < 13; i++) {
     // chapters.slice(2, 13).map((chapter, i) => {
-    staticPath.push({ params: { chapt: "chapt-" + (i + 1) } });
+    staticPath.push({ params: { ch: "chapter-" + (i + 1) } });
   }
   // console.log(staticPath);
 
@@ -41,37 +41,37 @@ import Pagination from "../components/Pagination.astro";
 import Header from "../components/Header.astro";
 import { Component } from "preact";
 
-const { chapt } = Astro.params;
-// console.log('chapt:', chapt );
-const { chapter, i } = Astro.props;
+const { ch } = Astro.params;
+// console.log('ch:', ch );
+// const { chapter, i } = Astro.props;
 // console.log(chapter, i);
 
-const num = parseInt(chapt.replaceAll(/[^0-9]/g, ""));
+const num = parseInt(ch.replaceAll(/[^0-9]/g, ""));
 // console.log("num:", num)
 // const title = chapters[num + 1].title;
 const title = "";
 const type = "contents";
-const dataHtml = dataHtmls[num - 1];
+const mdData = mdDatas[num - 1];
 ---
 
 <!-- <BaseLayout pageTitle={title} pageType={type} title={chapter.title} num={num}> --><!-- <Header title={chapter.title} num={num} description={chapter.description} /> -->
 <BaseLayout
   pageTitle={title}
   pageType={type}
-  title={dataHtml.frontmatter.title}
+  title={mdData.frontmatter.title}
   num={num}
 >
   <Header
-    title={dataHtml.frontmatter.title}
+    title={mdData.frontmatter.title}
     num={num}
-    description={dataHtml.frontmatter.description}
+    description={mdData.frontmatter.description}
   />
-  <!-- {dataHtml.frontmatter.title}
-  {dataHtml.frontmatter.description} -->
+  <!-- {mdData.frontmatter.title}
+  {mdData.frontmatter.description} -->
 
-  <dataHtml.default size={24} />
+  <mdData.default size={24} />
 
-  <!-- {dataHtmls.slice(i, i + 1).map((dataHtml) => <dataHtml.default size={24} />)} -->
+  <!-- {mdDatas.slice(i, i + 1).map((mdData) => <mdData.default size={24} />)} -->
 
   <Footer>
     <Pagination />

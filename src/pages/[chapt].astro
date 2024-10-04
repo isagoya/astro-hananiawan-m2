@@ -2,9 +2,12 @@
 import chapters from "./data/chapters.json";
 
 // `./src/pages/data`の`.html`で終わるすべてのファイルをインポート
-const dataHtmls = await Astro.glob("./md/*.md");
+const dataHtmls = await Astro.glob("./md/*.{md, mdx}");
+dataHtmls.forEach(function (dataHtml) {
+  console.log(dataHtml.frontmatter.title);
+});
 
-// ページ分の param を用意する
+// ページ分の param を用意す
 export function getStaticPaths() {
   // let staticPath = [];
   // //chaoter.jsonの配列3番目から13番目までを読み込む
