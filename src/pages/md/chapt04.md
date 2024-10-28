@@ -8,17 +8,17 @@ title: Ninguwachikajimai (February Monsoon)
 
 It was after four o’clock in the afternoon when my father suddenly appeared at the home of his second daughter, Kinue.
 
-"What’s the matter, Father?" she said.
+"What’s the matter with you, Father?" she said.
 
 "Well, I have something to talk to Yutaka."
 
-He was always like this. He relied on Yutaka Kubo, his son-in-law, whenever he had important consultations. His attitude was different than usual.
+He was always like this. He relied on Yutaka Kubo, his son-in-law, whenever he had important consultations. He looked different from usual.
 
 "When will he be back?"
 
 "I do not know his schedule for the evening, but I will call him," she said.
 
-Kinue, my elder sister, had been told by her husband not to call him while he was working at the office. However, she had no choice but to break the ban when she saw the thoughtful expression on his face.
+Kinue, my elder sister, had been told by her husband not to call him while he was working at the office. However, she had no choice but to break the ban before his worried expression.
 
 "Mr. Kubo, you have a call. I’ll transfer it to you." Ms. Touyama, the clerk said in a high-pitched voice, and Mr. Kubo picked up the phone.
 
@@ -42,17 +42,17 @@ Yutaka sensed something serious about my father.
 
 For a while, his father-in-law repeated casual small talk as usual, hesitating to speak, his answers were half-hearted.
 
-"What’s wrong with you?" Yutaka asked.
+"Do you have any ploblem?" Yutaka asked.
 
 "Um..."
 
 "What’s wrong?" Yutaka asked again.
 
-"Yutaka... Toshio, Toshio is..."
+"Yutaka... It's Toshio, Toshio is..."
 
 He cut off his words again.
 
-"What’s wrong with Toshio?"
+"What happend to Toshio?"
 
 "I want to let him out of Yagaji."
 
@@ -84,7 +84,7 @@ My father explained to Yutaka what I had told him.
 
 "Thank you. Thank you very much, Yutaka." Finally, winkles between his brows disappeared. He rejected the offer to ride him home the next morning and got on the last bus to Ishikawa.
 
-The next morning, Yutaka called Okubo and K. right away. It looked like the passport problem would be relatively easy to solve.
+The next morning, Yutaka called out Okubo and K. It looked like the passport problem would be relatively easy to solve.
 
 "Mr. Kubo, please prepare three photos of his upper body. I will make its purpose as private use for his study abroad. I will also apply for his father’s passport as a guarantor and prepare the necessary papers later."
 
@@ -94,11 +94,11 @@ The boarding process was difficult.
 
 "Yes, he does. His fingers on both hands are crooked."
 
-"I see. ...his hands... you know, if he has no problem, it won’t be so difficult to get mixed with the ordinary passengers. They have strict controls both at Tomari Port to get on the ship and at Kagoshima Bay to get off the ship under the Immigration Control Law and the Quarantine Law. Especially strict for leprosy."
+"I see. ...his hands... you know, if he has no problem, it won’t be so difficult to get mixed with other passengers. They have strict controls both at Tomari Port to get on the ship and at Kagoshima Bay to get off the ship under the Immigration Control Law and the Quarantine Law. Especially strict for leprosy."
 
 "I’ll just cross that bridge when I come to it. I want to make his dreams come true. I need your help."
 
-"If it is discovered, he will be denied boarding or deported."
+"If discovered, he will be denied boarding or forced to repatriate."
 
 Finally, my brother-in-law’s enthusiasm moved Mr. K.
 
@@ -153,13 +153,13 @@ Masakazu must have had some sense. He was in the fourth grade now and asked me w
 
 "Susumu, are you going somewhere?"
 
-"Uh-uh---no, I’m not going anywhere."
+"Uh ---no, I’m not going anywhere."
 
 That night he asked me the same question in his bed.
 
 "Susumu, are you going somewhere?"
 
-"Uh-uh---No, I’m not. I’ll be with you all the way."
+"Uh ---No, I’m not. I’ll be with you all the way."
 
 "Really?"
 
@@ -335,15 +335,15 @@ My mother showed us a picture wrapped with a Japanese paper. There were my fathe
 
 "Wow! What a picture! Did you know it, Yoneko?"
 
-"No, this is the first time to me. Why didn’t you tell us before? That’s very much like him. He was well prepared and never complained..."
+"No, this is the first time for me to see it. Why didn’t you tell us before? That’s very much like him. He was well prepared and never complained..."
 
 "Not really, in fact, he mentioned of his own death twice..."
 
-"Oh!" The children shouted in surprise.
+"Did he!" The children shouted in surprise.
 
-"The first time was almost a month after Toshio was sent to the sanatorium in Yagaji, we were on our way back from Mr. Hamasaki’s housewarming party in Higashiyama when your father started to say something strange. He said, ‘Let’s stop for a walk.’ I thought it was unusual for him, the first time he had ever suggested a walk. He had already had a few drinks, so I thought he was drunk and followed him. He went down the road to the beach to Kombu. He told me to sit down, and I sat there for a while. He said abruptly, ‘We’ll die together.’ I asked back ‘Why are you suddenly such a fool?’
+"The first time was almost a month after Toshio was sent to the sanatorium in Yagaji, we were on our way back from Mr. Hamasaki’s housewarming party in Higashiyama when your father started to say something strange. He said, ‘Let’s stop for a walk.’ I thought it was unusual for him, the first time he had ever suggested a walk. He had already had a few drinks, so I thought he was drunk and followed him. He went down the road to the beach to Kombu. He told me to sit down, and I sat there for a while. He said abruptly, ‘Let's die together.’ I asked back ‘Why are you suddenly such a fool?’"
 
-Then he answered, ‘I have finally got my feelings straightened out, since Okinori’s suicide four years ago. And now, it is Toshio’s illness. I have lost my will to live in the midst of all the noise and laughter of the celebration," he said.
+"Then he answered, ‘I have finally got my feelings straightened out, since Okinori’s suicide four years ago. And now, it is Toshio’s illness. I have lost my will to live in the midst of all the noise and laughter of the celebration,' he said."
 
 No one could speak up.
 
@@ -351,6 +351,6 @@ No one could speak up.
 
 It was the first time for us to hear an unexpected aspect of our father.
 
-"Unlike me, he was too serious and died early, you know, I am a relaxed type of person, so I could live long, see unusual things, eat delicious food, to this day, because I have lived a long life," she said.
+"He was deferrent from me, he was too serious and died early, I am a relaxed type of person, so I could live long, see unusual things, eat delicious food, to this day." she said.
 
 My father died on February 20, 1979. He never regained consciousness after suffering a brain hemorrhage and died six months later at the age of 82. It was a very quiet time of death, as if he was fading away.
