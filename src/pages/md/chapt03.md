@@ -18,13 +18,13 @@ Whenever the lights were turned off, Masakazu always began to cry.
 
 “Mom, I want to go home! Mom!”
 
-Every night I did not know what to do with him for his crying. All I could do was hold him in my arms and nurse him to sleep, and then he would finally stop crying.
+Every night I did not know what to do with his crying. All I could do was hold him in my arms and nurse him to sleep, and then he would finally stop crying.
 
 Last night, Masakazu had been fussy but now is fast asleep on my bed with his back turned.
 
-“Masakazu, get up. Come on, here’s the drum. Stand up and lift your right leg.”
+“Masakazu, get up. Come on, the drum is beating. Stand up and raise your right leg.”
 
-I started to put on him the shirt and pants I had prepared the night before, calling to him. After I finished dressing him, he did not seem to be fully awake.
+I began to put on the shirt and pants I had prepared the night before, while calling out to him. After I finished dressing him, he did not seem to be fully awake.
 
 Since there was no other way, I moved Masakazu on to the desk, which was about 40 centimeters long and 60 centimeters wide, and then put the bedclothes for both of us into the closet.
 
@@ -34,7 +34,7 @@ I grabbed Masakazu’s sleeve and hurried to the washroom three rooms ahead of u
 
 In the boys’ and girls’ dormitories, there lived dormitory father Kishimoto Masao, mother Minami Masako, brother Ishigaki Tamotsu and sister Shinjo Taeko, who took care of the children. There was an unwritten rule among us that children above the second year of junior high are assigned to share a room with the lower grades and take care of their daily lives. I was supposed to take care of Masakazu. I had to put a stop to Masakazu’s giggling and urged him to get out into the front yard in time for the 6:30 radio exercise. After washing their faces and hands, 24 elementary school students and 32 junior high school students (33 boys and 23 girls) spread out in the front yard.
 
-“Good morning,” said Tamotsu’s dorm brother. “This week, Yasuo’s group is on rabbit duty. Norio’s group is on food duty. Are you okay? Let’s have a good day.”
+“Good morning,” said Tamotsu’s dorm brother. “This week, Yasuo’s group is on rabbit duty. Norio’s group is on meal duty. Are you okay? Let’s have a good day.”
 
 He gave the usual confirmation before the radio exercise. This was the beginning of a day of our community life with 56 members.
 
@@ -114,15 +114,15 @@ I replied impudently, at my best, and then began to cry. All at once I wanted to
 
 “You fool! Don’t be spoiled.”
 
-Dad. Kishimoto slapped my cheek.
+The dorm father Kishimoto slapped my cheek.
 
 ## Slender Hands
 
 It was June 1958, and I was in the third grade of junior high school. Ms. Tokuda Setsuko, the Japanese teacher, entered the classroom with a flushed face.
 
-“Big news! Big news to tell you! Mr. Yasunari Kawabata, the author of ‘Izu no Odoriko’ (The Dancing Girl of Izu), will be here in Airakuen the day after tomorrow!”
+“Big news! Big news to tell you! Mr.Kawabata Yasunari, the author of ‘Izu no Odoriko’ (The Dancing Girl of Izu), will be here in Airakuen the day after tomorrow!”
 
-Ms. Setsuko was a new graduate teacher who was assigned to our school at the beginning of the new school year. During classes, she would often become confused and be tearful in response to my nasty questions. I wondered what had happened to the way she looked so excited today, in contrast to her gloomy mood when she entered the classroom these days.
+Ms. Setsuko was a new graduate teacher who was assigned to our school at the beginning of the new school year. In classes, she would often become confused and be tearful in response to my nasty questions. I wondered what had happened to make he looked so excited today, in contrast to her gloomy mood when she entered the classroom in these days.
 
 I had good reason to be unkind to her. In April, at the same time with her assignment to our school, all the patient assistant teachers left the school.
 
@@ -130,7 +130,7 @@ Only if Ms. Setsuko had not come.... My one-sided assumption grew stronger every
 
 She said, “I also hear that he will be visiting our school in particular. He asked us to bring your essays to his hotel tonight, because he is eager to read your writings. So, I will bring them to him.”
 
-Mr. Kawabata Yasunari, the president of the Japan Pen Club, visiting Okinawa had been reported in all the newspapers. He requested to visit Airakuen apart from his schedules, also meet the students of Sumii Elementary and Junior High School.
+Mr. Kawabata Yasunari, the president of the Japan Pen Club, visiting Okinawa had been reported in all the newspapers. He asked to visit Airakuen and meet the students of Sumii Elementary and Junior High School as an addition to his schedule.
 
 On the 8th of June, I was called out of the blue to see Principal Yasuda before classes started. “Mr. Kawabata called me. He has read your essay and wants to talk to you. When I tell you his arrival, come to the teachers’ room and answer his questions clearly.
 
@@ -138,13 +138,13 @@ Now I do not have the essay in my hand, but as I recall, the title was ‘A Sing
 
 A stream, whose source is the Sumuide tribe, flows into a creek at the southern border of Airakuen. Around the creek, where the river and the sea mix, mangroves glow in clusters. Right at the broken end of the creek, was a weir and a sluice gate. It also was my favorite secret place.
 
-As I watched the creek from the sluice gate, a single stalk with its ear of rice flows and gets caught in the edge of the weir. And it repeated, sinking and rising. I stared at the scene, and before I knew it, I found myself encouraging the single ear of rice, ‟Good luck, good luck. At the same time I remembered the faces of my father and mother. I remember the rough outline of the essay something like this.
+As I watched the creek from the sluice gate, a single stalk with its ear of rice flows and gets caught in the edge of the weir. And it repeated, sinking and rising. I stared at the scene, and before I knew it, I found myself encouraging the single ear of rice, ‟Good luck, good luck." At the same time I recalled the faces of my father and mother in my mind. I remembered the rough outline of the essay was something like this.
 
 The second period, social studies, was coming to an end. Mr. Kawabata entered the classroom, accompanied by the principal, Mr. Oyadomari, and the head nurse, Ms. Chinen.
 
-‟You’re all studying hard, aren’t you?” he said, looking into each of their faces, his voice sounding thin and weak. He was the only one not wearing armor and wearing his own clothes.
+‟You’re all studying hard, aren’t you?” he said, looking into each of their faces, his voice sounding thin and weak. He was the only one not wearing protective cloths, but his own.
 
-After a while, Ms. Setsuko came saying, ‟Susumu, come to the teacher’s room. Answer him clearly if he asks you something.” She repeated what the headmaster had told me, but I did not answer.
+After a while, Ms. Setsuko came saying, ‟Susumu, come to the teacher’s room. Answer him clearly if he asks you something.” She repeated what the principal had told me, but I did not answer.
 
 ‟Excuse me, this is Sekiguchi,”
 
@@ -176,21 +176,21 @@ He asked me several questions about my essay.
 
 ‟I see. Which part is that?” he asked me again.
 
-‟He wrote, ‘To live or to die, this problem was important to me. That was a fundamental question for me, rather than literature. The attitude toward life came next. If you can believe in man, you can endure to live. To believe in man or not.’” These passages, which I had transcribed over and over again in my diary, came out of my mouth easily.
+‟He had written : ‘To live or to die, this problem was important to me. That was a fundamental question for me, rather than literature. The attitude toward life came next. If you can believe in man, you can endure to live. To believe in man or not.’” These passages, which I had transcribed over and over again in my diary, came out of my mouth easily.
 
 Mr. Kawabata listened to me with tearful eyes and nodded his head. Then he reached out his slender hands and squeezed mine. But for some reason, I tried to pull my hands away.
 
-‟You know what he means,” he said. ‟You know the sadness of Tamio, of ‘The First Night of Life.’”
+‟You know what he means,” he said. ‟You understand the sorrow of Tamio, the saddness of ‘The First Night of Life.’”
 
 He tapped my knee with his veined hand. ‟Write a lot. Store a lot within yourself”, he said.
 
 ‟Mr. Kawabata, it is time for you to leave,” the director urged him.
 
-‟I see. We had a good talk today. Thank you... Sekiguchi, is there anything you want?”
+‟I see. We had a good talk today. Thank you...Mr.Sekiguchi, is there anything you want?”
 
 ‟Books!” I answered him in a loud voice.
 
-Four weeks later, I received many cardboard boxes that were full of books.
+Four weeks later, I received many cardboard boxes full of books.
 
 ## Visiting Day
 
@@ -210,13 +210,13 @@ As if we had been waiting for the call of the eldest one, everyone reached out t
 
 ‟Teruo, hold it with your both hands. Look, the milk is dripping. Your pants are getting wet.”
 
-I looked forward to Sundays every two weeks. Around 10 o’clock, I waited impatiently for the call from the office. ‟Susumu, you have a visitor. Go to the visiting room.” When I hear Dad. Kishimoto’s voice, I ran out of my room.
+I looked forward to Sundays every two weeks. Around 10 o’clock, I waited impatiently for the call from the office. ‟Susumu, you have a visitor. Go to the visiting room.” I ran out of my room with Dad Kisimoto's voice.
 
-The visiting room was within the walls of the sanatorium, a 24-square-meter building with red tiles on the roof.
+The visiting room was inside the walls of the sanatorium, a 24-square-meter building with red tiles on the roof.
 
 My father and mother were sitting behind a long desk attached to the wall.
 
-‟Toshio, how are you? Is anything wrong with you?”
+‟Toshio, how are you? Nothing changed?”
 
 Every time my mother began our visiting day with this question. Then she would take my hands and hold them close to her chest. My father always said the same words.
 
@@ -232,7 +232,7 @@ To arrive Airakuen at that time, they had to leave their home early in the morni
 
 They never said, ‟To the Hansen’s disease sanatorium,” but it was well known in the neighborhood where they were going.
 
-‟Chimugurusanyaa! (What a pity) Today they are going to visit their son again in Airakuen.
+‟Chimugurusanyaa! (What a pity) Today they are going to visit their son in Airakuen again.
 
 Tempura and sweets were already laid out on the long table in the visitors’ room.
 
@@ -242,15 +242,15 @@ My mother would just sob and sob.
 
 ‟What a pity, for this little child...”
 
-I had some nasty words for a mother like that. ‟I don’t like it. I don’t want you to visit me. All you do is sob and sob. I’m the one who wants to cry! You came here to cheer me up, didn’t you?”
+I had some nasty words for such a mother like that. ‟I don’t like it. I don’t want you to visit me. All you do is sob and sob. I’m the one who wants to cry! You came here to cheer me up, didn’t you?”
 
 Later, I preferred that my father visit me alone.
 
-Then my mother visited me rarely, my father came by himself more often.
+Then my mother's visits became much less frequent, and my father came more often by himself.
 
 ## Torrent of my Soul
 
-Summer vacation was coming.
+Summer vacation was just around the corner.
 
 In the schoolyard, Principal Higa Yoshiyuki was taking apart the engine he had removed from his car.
 
@@ -276,11 +276,11 @@ The body had several holes, and large holes were covered with sheet metal. The r
 
 We shouted in excitement when Mr. Yoshiyuki said.
 
-‟Be quiet. We’re going camping during the summer vacation. August 18th.”
+‟Be quiet. We go camping during the summer vacation. August 18th.”
 
 We all cheered again.
 
-At the beach on the northern outskirts of Airakuen, the children were excited all the morning. Bathing in the ocean, playing games, and eating outside was all new to them.
+At the beach on the northern outskirts of Airakuen, the children were excited all the morning. Bathing in the ocean, playing games, and eating outside were all new to them.
 
 As the sun set, everyone held hands around the blazing campfire and sang the dormitory song.
 
@@ -292,7 +292,7 @@ As the sun set, everyone held hands around the blazing campfire and sang the dor
 
 As we finish singing the third verse, Dad Kishimoto called us to sit down with a loud voice.
 
-‟Today I introduce a wonderful person to you all. This is Mr. S., a senior student. He is a sophomore at Oku High School in Okayama Prefecture on the mainland. He is back in Okinawa for his summer vacation, so I asked him to come here and talk to you all. Please be quiet and listen to him.”
+‟Today I will introduce a wonderful person to you all. This is Mr. S., your senior student. He is a sophomore at Oku High School in Okayama Prefecture on the mainland. He is back in Okinawa for his summer vacation, so I asked him to come here and talk to you all. Please be quiet and listen to him.”
 
 Mr. S. took off his school cap and tucked it under his armpit and began to talk. Every word out of his mouth was like lightning to me.
 
@@ -312,11 +312,11 @@ I became obsessed with Oku High School in Okayama Prefecture as if I had a fever
 
 Since then, I have visited Mr. Tokuda over and over again.
 
-He said, ‟I feel sorry for you, Sekiguchi, but unfortunately there is nothing we can do at the moment. You see, Okinawa is under U.S. administration. And there are obstacles such as the Immigration Control Ordinance, big walls like the Immigration Control Law, the Quarantine Law, and the Leprosy Prevention Law. It is difficult for leprosy patients to get out of Airakuen, let alone it is almost impossible for us to cross over from Okinawa to the mainland...”
+He said, ‟I feel sorry for you, Sekiguchi, but unfortunately there is nothing we can do at the moment. You see, Okinawa is under U.S. administration. And there are big walls 'Immigration Control Law', 'Quarantine Law' and 'Leprosy Prevention Law'. It is difficult for leprosy patients to get out of Airakuen, let alone it is almost impossible for us to cross over from Okinawa to the mainland...”
 
 No matter how many times I asked him, his answer was always the same. That day I listened to him with slumped shoulders.
 
-‟Sekiguchi, you want to go to high school so badly, right? Okay, then I’ll give you some good advice. Remember, I’m just talking this to myself, okay? The obstacle to your dream of going to the mainland is the law. If you follow the law and it becomes an obstacle, then you have to break the law. To be unlawful is another wisdom of man.” He laughed “wah-har-har”
+‟Sekiguchi, you want to go to high school so badly, right? Okay, then I’ll give you good idea. Remember, I’m just talking this to myself, okay? The obstacle to your dream of going to the mainland is the law. If you follow the law and it becomes an obstacle, then you have to break the law. To be unlawful is another wisdom of man.” He laughed “wah-har-har”
 
 I was at a loss to understand the meaning of what Chairman Tokuda told me, because it sounded so complicated.
 
@@ -334,11 +334,11 @@ The next day I visited Evangelist Aoki after a long time.
 
 I melted the candle wax into an empty can. Then I added a wick to get ready my lamp. The desk was an empty cardboard box of sōmen (Japanese thin wheat noodles).
 
-After the lights went out, the lower part of the closet, emptied of bedding, became my study. It was the best of the best. But the closet door had to be closed to keep the light out. So, my face was blackened with soot ever since I started studying in the special room.
+After the lights went out, the lower part of the closet, emptied of bedding, became my study. It was the best of the best. But the closet door had to be closed to keep the light out. There was nothing I could do with my face blackened by soot ever since I started studying in the special room.
 
 ## Scorebrand Memorial Hill
 
-At the beginning of the second semester, I wrote a letter. Unusually, I wrote my mother to visit me by herself. I had decided to tell my mother first. If I told my father first, and he objected, there was no way to reverse the decision. Therefore it was my secret intention to avoid predictable dangers by going through my mother.
+At the beginning of the second semester, I wrote a letter. Unusually, I asked my mother to visit me alone. I had decided to tell my mother first. If I told my father first, and he objected, there was no way to reverse the decision. Therefore it was my secret intention to avoid predictable dangers by going through my mother.
 
 That Sunday I took my mother to Scorebrand Park instead of the visiting room.
 
@@ -364,19 +364,19 @@ We sat down side by side on a bench.
 
 I had been hesitating how to broach the subject...At last I made up my mind.
 
-‟I will graduate from junior high school next March, and since Airakuen doesn’t offer any education beyond that, I want to study, but I can’t keep up. I want to learn more and more. In Yamato (mainland), there is a high school in Okayama Prefecture where sick people like me can study. After I graduate from junior high school, I want to go to Yamato! Mom, please ask Dad!”
+‟I will graduate from junior high school next March, and since Airakuen doesn’t offer any further education, I can't go on studying. I want to learn more and more. In Yamato (mainland), there is a high school in Okayama Prefecture where sick people like me can study. After I graduate from junior high school, I want to go to Yamato! Mom, please ask Dad for his help!”
 
 My mother swallowed her words and did not answer me.
 
 ‟Please, let me go to Yamato!”
 
-Her words a few minutes ago were fragile and broken. She began to cry again.
+What she said a few minutes ago crumbled so easily. She began to cry again.
 
 ‟Airakuen is far enough for us, and yet you want to go further. No. Oh, no.”
 
 I was desperate too. It was the first time I cried in front of my mother.
 
-‟Please allow me to study some more. If I continue like this, I will be ruined...”
+‟Please allow me to study some more. If I go on like this, I will be ruined...”
 
 The first attempt to persuade her failed.
 
@@ -388,7 +388,7 @@ I thought, my mother did not tell it to my father, after all.
 
 Graduation was approaching. But I became impatient because my plan to go to Yamato was not progressing.
 
-Out of 8 classmates (3 boys and 5 girls), none of them were expected to recover from their illnesses and prospect to leave the sanatorium. There was a mood of giving up among them.
+Out of eight classmates (3 boys and 5 girls), none of them were expected to recover from their illnesses and to leave the sanatorium. There was a mood of giving up among them.
 
 At the class meeting, I made an appeal. ‟If things continue as they are, when we graduate from junior high school, we will all have to go to the youth and virgin dormitories. However, there is no environment where you can study in both dormitories. Now, I have a suggestion for you. How about staying here in this boys’ and girls’ dormitory for another one year as a time limit, and figure out the way to continue your study?”
 
@@ -448,12 +448,12 @@ In January 1960, Dad Kishimoto called me into the dining room of the sanatorium.
 
 He has been worried about the after-effects of my limbs for a long time.
 
-‟How I wish you could study on the mainland, Susumu. But I’m afraid that your illness with your limping hands might be known before you get on the ship!”
+‟How I wish you to study on the mainland, Susumu. But I’m afraid that your illness with your limping hands might be known before you get on the ship!”
 
 But Dad Kishimoto was a little different than usual that day.
 
 ‟Do you bet?”
 
-‟Yes, I’ll run away!”
+‟Yes, I do. I’ll scape!”
 
 All the blood in my body was making noise.

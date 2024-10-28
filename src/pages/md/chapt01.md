@@ -64,7 +64,7 @@ When we came back home from Yambaru (a generic name for the northern part of Oki
 
 Atsuko making the tea told us that she has visited there many times.
 
-“We would never talk about Ikusayū (war years) face to face without an opportunity like today...Obā (mom), you are the key person of today, so you have to answer Toshio's interview properly.”
+“We would never talk about Ikusayū (war years) face to face without an opportunity like today... Obā (mom), you are the key person of today, so you have to answer Toshio's interview properly.”
 
 “Ah, can I recall the past? I’m getting too old...”
 
@@ -76,7 +76,7 @@ My name is Iha Toshio, born on March 14, 1943, on Minamidaito Island, Okinawa Pr
 
 Minamidaito Island is located 350 km east of Okinawa Island in the sea, and covers an area of 26 square kilometers. It is a flat plateau surrounded by steep cliffs and is a small island whose main product has been brown sugar ever since. My family was a relatively wealthy farmer with 13 hectares of land and five servants. Today, we can understand that we occupied a large plot of land from my late father's description of “a light railroad running through our field”.
 
-My 92year old mother frowns and tries to remember those days.
+My mother, who is 92 years old, frowns and tries to remember those days.
 
 “Ojī (father) was fashionable, so as soon as he finished his farm work, he used to put on a white suit and Panama hat and go out, but after the army had arrived, his clothes were quickly put away in the closet.”
 
@@ -114,7 +114,7 @@ My two sisters began to talk, piecing together their remaining memories.
 
 My mother interrupted.
 
-“On the day of the air raid, October 10, Yoshiko died coughing up blood. She had suffered from her illness for a long time... No, she was not killed by a bullet, she dies from the shock of coughing up blood. My family didn't even prepare an air-raid shelter because there was only my grandmother and Yoshiko, who was sick, in Nakijin, so we didn't dig it.”
+“On the day of the air raid, October 10, Yoshiko died coughing up blood. She had been suffering from her illness for a long time... No, she was not killed by a bullet, she died from the shock of coughing up blood. My family didn't even prepare an air-raid shelter because there was only my grandmother and Yoshiko, who was sick, in Nakijin, so we didn't dig it.”
 
 “How old was my grandmother then, Yoneko?”
 
@@ -158,11 +158,11 @@ My sister Yoneko nodded and continued her story with a shrug.
 
 “As soon as the artillery fire was over, the surveillance planes came in low over our heads. I still remember the sound of their engines as they buzzed over the mountains. The artillery fire and the surveillance planes took turns. My body was shaking, but somehow my mind was cool.”
 
-“We covered our roofs with tree branches and the inhabitants scattered here and there to hide. Toshio cried a lot! The people who hid with us kicked us a lot, saying that if Toshio started to cry, the Americans would find us.
+“We covered our roofs with tree branches and the inhabitants scattered here and there to hide. Toshio cried a lot! The people who hid with us kicked us a lot, saying that if Toshio cried, the Americans would find us."
 
-My mother interrupted my sister.
+My mother interrupted her.
 
-My breasts did not come out because there was nothing to eat,” she said. “Toshio cried because he was so hungry. Nothing could be done. Our family was thrown out and had to run away from the ship's cannons... It was the time of year when the Rubus sieboldii were ripe, and Toshio ate them a lot. He finally stopped crying when I put the berries into his mouth. It must have been about ten days since we hid in the mountains. Our uncle from the East was with us, but you were crying so much that he urged me to kill you, saying, “Put this rag in his mouth and kill him!
+"My breasts did not come out because there was nothing to eat,” she said. “Toshio cried because he was so hungry. Nothing could be done. Our family was thrown out and had to run away from the ship's cannons... It was the time of year when the raspberries were ripe, and Toshio ate them a lot. He finally stopped crying when I put the berries into his mouth. It must have been about ten days since we hid in the mountains. Our uncle from the East was with us, but you were crying so much that he urged me to kill you, saying, “Put this rag in his mouth and kill him!"
 
 Tears fell from my mother's eyes.
 
@@ -198,17 +198,17 @@ Yoneko's soft voice grew louder.
 
 “Do you ask me whether all American soldiers are good people or not? No, not necessarily. Once a pimply-faced soldier came and pulled our mother out at gunpoint. She was still young, and he threatened her to follow him. He tried to lower Toshio down from his mother’s back. Gah! The American suddenly screamed and ran back in a hurry...
 
-“Toshio bit the AMERIKAA's (Okinawan dialect) nose. Toshio saved my life.”
+“Toshio bit the AMERIKAA's (Okinawan dialect: American) nose. Toshio saved my life.”
 
 My mother giggled and then laughed out loud.
 
 ## Tōnuka Cave
 
-“Toshio, why does your sandhill got so many stripes? Make a proper triangle!”
+“Toshio, why does your sand mound got so many stripes? Make a proper triangle!”
 
-Yasuo, began to yelled at me like a bully.
+Yasuo, began to yell at me like a bully.
 
-I tried to make sandhill again and again, but every time my crooked little finger of left hand struck it, and I could not make a sandhill without streaks.
+I tried to make sand mound again and again, but every time my crooked little finger of left hand struck it, and I could not make a sandhill without streaks.
 
 “I remember when Toshio was in the third grade. I watched him running from behind, and I thought he had a strange way of running with his left toe down.
 
@@ -226,7 +226,7 @@ I really wanted to know the rout of my infection.
 
 Suddenly, my mother began to talk strange things.
 
-“It was in Tōnuka Cave that Toshio was infected ...We had no choice but to flee to Tōnuka Cave because we had just returned from Minamidaito Island and couldn't dig our own air raid shelter. The whole village warned us, saying, “Iha's father, you will be in big trouble if you take such little children to that cave. It used to be the dwelling of lepers. ...But we had no choice because there were no bomb shelters for us to escape to...Until ten days before we entered the cave, the lepers lived there. Then the soldiers came and took them to Yagaji. In the cave of Tōnuka there still remained some rags they had used. I made you crawl around naked in the cave, that's how you got sick.
+“It was in Tōnuka Cave that Toshio was infected ...We had no choice but to flee to Tōnuka Cave because we had just returned from Minamidaito Island and couldn't dig our own air raid shelter. The whole village warned us, saying, “Iha's father, you will be in big trouble if you take such little children to that cave. It used to be the dwelling of lepers. ...But we had no choice because there were no bomb shelters for us to escape to...Until ten days before we entered the cave, the lepers lived there. Then the soldiers came and took them to Yagaji. In the cave of Tōnuka there still remained some rags they had used. I made you crawl around naked in the cave, that's how you got sick."
 
 My mother uses the terms “Buddhist saint” or “blood patient” to refer to the leprosy patients. Her story was connected with the following events.
 

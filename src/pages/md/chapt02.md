@@ -34,7 +34,7 @@ Something unusual was happening to my body. The whole nerves of my body began to
 
 December came, and the clinic director began to tilt his head in doubt.
 
-"Father, I'm afraid, but it looks like his illness is not a normal.
+"Mr. Iha, I'm afraid, but it looks like his illness is not a normal one.
 
 I could hear unfamiliar words as they whispered to each other.
 
@@ -70,7 +70,7 @@ It was May and I was thirteen years old.
 
 My father's back was sweaty, and his scent filled my nostrils as I waited on his back for the bus.
 
---- It is the time! I have to say it now, I have to say it soon...
+----- It is the time! I have to say it now, I have to say it soon...
 
 The impulse surged up.
 
@@ -118,11 +118,11 @@ On May 1, I was supposed to receive medical treatment at the Koza Central Hospit
 
 At six in the morning, I tied the rope to the beam of the outside latrine. Just when I raised up body to hang my head from the rope, my sister Fumiko knocked on the latrine door.
 
-"Toshio, hurry up! How dare you stay there so long?"
+"Toshio, hurry up! How?"
 
 "Oh... no... "
 
-In a great hurry, I removed the rope, wrapped it around my waist, covered it with my shirt, and then switched with her.
+In a great hurry, I removed the rope, wrapped it around my waist, covered it with my shirt, and then switched the toilet with her.
 
 The column clock of Central Hospital struck 9:00.
 
@@ -144,7 +144,7 @@ My grandmother uttered a voice that sounded like a scream as she listened to his
 
 "Watta chisujini unu pyoukinumuuya uran! (No, no one in my family has this disease!)"
 
-Then she stood up with a loud clucking of her tongue and walked in front of me without saying a word to me. My grandmother was still proud of her samurai family, the Iha family, as she used to say. The only pride she had fell to the ground when her grandson was declared a leper.
+Then she stood up with a loud clucking of her tongue and walked in front of me without saying a word to me. My grandmother was still proud of her samurai family, the Iha family, as she used to say. The only pride she had collapsed so easily when her grandson was declared a leper.
 
 "Toshio, come and sit here."
 
@@ -194,7 +194,7 @@ There was no doubt. It was this "Sanyamabushi" that my father had sung.
 
 The image of my father at that time came back from the depths of my memory.
 
-The Sanyama-bushi pierced my memory of that time. I wondered if what was happening to me was real? If so, I hope it is a daydream.
+The Sanyama-bushi pierced my memory of that time. I wondered if what was happening to me was real? If so, I hoped it was a daydream.
 
 ## My Father's Back
 
@@ -224,7 +224,7 @@ My father looked at the schedule pinned above the sign "Shimabukuro Bedclothes S
 
 It's always been that way. I was so small for my age that I could have been mistaken for a lower grade elementary school boy, and that day, too, my ticket was for an elementary school student.
 
-There were only three of us, a man with a bag on his lap, my father and I, at the tin-roofed bus stop. Under the bench in the corner were four cats playing with each other. A kitten with a blackish bicolor kept jumping up and down on lying mother cat's tail.
+There were only three of us, a man with a bag on his lap, my father and me, at the tin-roofed bus stop. Under the bench in the corner were four cats playing with each other. A kitten with a blackish bicolor kept jumping up and down on lying mother cat's tail.
 
 The bus arrived just in time for departure, but only three people boarded.
 
@@ -314,7 +314,7 @@ From inside the gate, I watched my father walk away with his back arched.
 
 In the consulting room, a doctor and a nurse with masks and prophylactic gowns were waiting for me.
 
-"Come and sit here. Your new name is nice, isn't it? Susumu Sekiguchi, from now on you are Susumu Sekiguchi."
+"Come and sit here. Your new name is nice, isn't it? Sekiguchi Susumu, from now on you are Sekiguchi Susumu."
 
 "Ah!"
 
@@ -336,7 +336,7 @@ As soon as he sat down in front of me, he threw off his legs, pong, pong. His le
 
 ...Oh, no... I swallowed my breath.
 
-His mouth was twisted, drool glistening at the corner of his upturned mouth. His almost fingerless hands were clutching a Sata Andagi (Okinawan doughnut) the size of a tennis ball.
+His mouth was twisted, drool glistening at the corner of his upturned mouth. His almost fingerless hands were clutching a Sata Andagi the size of a tennis ball.
 
 "Did you leave home early this morning?"
 
@@ -349,15 +349,15 @@ I replied with all my courage.
 "I see. Could you tell me your name and where you are from?"
 
 "From Ishikawa City. My name is Iha Toshio...",
-"Uh, Iha? That's your real name, right? Didn't you get a new name?"
+"Uh, Iha? That's your real name, right? Didn't you get your new name?"
 
 "Oh, yes, I did," I said.
 
 "That's right. You will have to answer with your new name from now on."
 
-"Yes...I was told my name was Sekiguchi Susumu."
+"Yes...I was told my name will be Sekiguchi Susumu."
 
-"I see. You are Sekiguchi Susumu. ...from Ishikawa City, early in the morning.... Are you not hungry? Eat this."
+"I see. You are Sekiguchi Susumu. ----- from Ishikawa City, early in the morning.... Are you not hungry? Eat this."
 
 He handed me a Sata Andagi with his fingerless hand. It stayed on my palm for a while.
 
