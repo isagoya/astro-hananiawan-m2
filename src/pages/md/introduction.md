@@ -1,12 +1,12 @@
 ---
-title: Prologue
+title: Introduction
 ---
 
-## Prologue
+## Introduction
 
 In 1958, at the age of 15, I celebrated my second June at “Okinawa Airakuen,” a sanatorium for Hansen's disease in Okinawa Prefecture.
 
-The Nobel Prize winner for literature, Yasunari Kawabata, spoke to me with his hands on my knees. “Write a lot, my dear, and store them inside you.” I can hear his call from the depths of my memory, the quiet voice that introduced me to the joy of reading.
+The Nobel Prize winner in literature, Kawabata Yasunari, spoke to me with his hands on my knees. “Write a lot, my dear, and store them inside you.” I can hear his call from the depths of my memory, the quiet voice that introduced me to the joy of reading.
 
 Books were filled with dreams that could flap their wings. There was no world in which people humiliated others, let alone denied human life by a single 'stigma'.
 
