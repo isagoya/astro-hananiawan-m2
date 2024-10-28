@@ -1,6 +1,6 @@
 [
   {
-    "title": "Prologue",
+    "title": "Introduction",
     "description": "",
     "subChapters": [],
     "subAlias": [],
@@ -16,21 +16,43 @@
   {
     "title": "Single File",
     "description": "",
-    "subChapters": ["Mt.Oppadake", "Minamidaito Island", "Single  File", "Tōnuka Cave"],
+    "subChapters": [
+      "Mt.Oppadake",
+      "Minamidaito Island",
+      "Single  File",
+      "Tōnuka Cave"
+    ],
     "subAlias": ["", "", "", ""],
     "fileName": "chapt-1"
   },
   {
     "title": "Yagaji Island",
     "description": "",
-    "subChapters": ["Deigo Flower", "Sanyama-bushi", "My Father’s Back", "Sata Andagi" ],
-    "subAlias": ["(Indian Coral Tree)", "(Ryukyuan Classical Music)", "", "(Okinawan Doughnut)"],
+    "subChapters": [
+      "Deigo Flower",
+      "Sanyama-bushi",
+      "My Father’s Back",
+      "Sata Andagi"
+    ],
+    "subAlias": [
+      "(Indian Coral Tree)",
+      "(Ryukyuan Classical Music)",
+      "",
+      "(Okinawan Doughnut)"
+    ],
     "fileName": "chapt-2"
   },
   {
     "title": "Mangrove",
     "description": "",
-    "subChapters": ["The First thing in the morning, Paranku", "Slender Hands", "Visiting Day", "Torrent of my Soul", "Scorebrand Memorial Hill", "School for Seven Students"],
+    "subChapters": [
+      "The First thing in the morning, Paranku",
+      "Slender Hands",
+      "Visiting Day",
+      "Torrent of my Soul",
+      "Scorebrand Memorial Hill",
+      "School for Seven Students"
+    ],
     "subAlias": ["", "", "", "", "", ""],
     "fileName": "chapt-3"
   },
@@ -40,44 +62,74 @@
     "subChapters": ["Escape", "Flashing Light", "One-Way Passport"],
     "subAlias": ["", "", "", ""],
     "fileName": "chapt-4"
-
   },
   {
     "title": "Airano",
     "description": "",
-    "subChapters": ["Smoke from Sakurajima", "Forced Repatriation", "Connected Route", "Evening Primrose", "Notice of Rejection", "The 31st Person to Pass the Examination", "Railway Track in the Dark", "Because Transporting Infected Patients"],
+    "subChapters": [
+      "Smoke from Sakurajima",
+      "Forced Repatriation",
+      "Connected Route",
+      "Evening Primrose",
+      "Notice of Rejection",
+      "The 31st Person to Pass the Examination",
+      "Railway Track in the Dark",
+      "Because Transporting Infected Patients"
+    ],
     "subAlias": ["", "", "", "", "", "", "", ""],
     "fileName": "chapt-5"
-
   },
   {
     "title": "Seto Island Sea",
     "description": "",
-    "subChapters": ["Niirada Class, Oku High School", "Blue Blade", "Modified Man", "Informed Consent", "Bonds of Okinawa", "Wall after Wall", "Refusal", "The Ticket", "Erased Faces"],
+    "subChapters": [
+      "Niirada Class, Oku High School",
+      "Blue Blade",
+      "Modified Man",
+      "Informed Consent",
+      "Bonds of Okinawa",
+      "Wall after Wall",
+      "Refusal",
+      "The Ticket",
+      "Erased Faces"
+    ],
     "subAlias": ["", "", "", "", "", "", "", "", ""],
     "fileName": "chapt-6"
-
   },
   {
     "title": "Stigma",
     "description": "",
-    "subChapters": ["The Gate of Holly Tree", "In My Pockets", "Soft Landing", "The way back"],
+    "subChapters": [
+      "The Gate of Holly Tree",
+      "In My Pockets",
+      "Soft Landing",
+      "The Way Back"
+    ],
     "subAlias": ["", "", "", ""],
     "fileName": "chapt-7"
-
   },
   {
     "title": "Human Rainbow",
     "description": "",
-    "subChapters": ["Our Pledge", "Blue Partition", "Workplace Discussion", "Bottom of Bowl", "Human Shape"],
+    "subChapters": [
+      "Our Pledge",
+      "Blue Partition",
+      "Workplace Discussion",
+      "Underside of Bowl",
+      "Human Shape"
+    ],
     "subAlias": ["", "", "", "", "", "", ""],
     "fileName": "chapt-8"
-
   },
   {
     "title": "House of Sand",
     "description": "",
-    "subChapters": ["Ripples", "Human Archipelago", "Quicksand", "Crests of Waves"],
+    "subChapters": [
+      "Ripples",
+      "Human Archipelago",
+      "Quicksand",
+      "Crests of Waves"
+    ],
     "subAlias": ["", "(NHK TV Program)", "", ""],
     "fileName": "chapt-9"
   },
@@ -87,15 +139,18 @@
     "subChapters": ["Doorplate", "Underground  Stem"],
     "subAlias": ["", "", ""],
     "fileName": "chapt-10"
-
   },
   {
     "title": "Kagiyadefuu",
     "description": "(Ryukyuan Dance for a Feast)",
-    "subChapters": ["Group of Urns", "Threads of Perception", "Kagiyadefuu", "The Family"],
+    "subChapters": [
+      "Groups of Urns",
+      "Threads of Perception",
+      "Kagiyadefuu",
+      "Family"
+    ],
     "subAlias": ["", "", "(Ryukyuan Dance for a Feast)", ""],
     "fileName": "chapt-11"
-
   },
   {
     "title": "Suppl.1 About face!",
@@ -103,7 +158,6 @@
     "subChapters": [],
     "subAlias": [],
     "fileName": "chapt-12"
-
   },
   {
     "title": "Suppl.2 The Silence of Damien",
@@ -111,7 +165,6 @@
     "subChapters": [],
     "subAlias": [],
     "fileName": "chapt-13"
-
   },
   {
     "title": "Afterword",
@@ -119,7 +172,6 @@
     "subChapters": [],
     "subAlias": [],
     "fileName": "end"
-
   },
   {
     "title": "References",
@@ -127,6 +179,5 @@
     "subChapters": [],
     "subAlias": [],
     "fileName": ""
-
   }
 ]

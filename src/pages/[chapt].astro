@@ -1,11 +1,11 @@
 ---
-import chapters from "./data/chapters.json";
+import chapters from "./md/chapters.json";
 
 // `./src/pages/data`の`.html`で終わるすべてのファイルをインポート
 const dataHtmls = await Astro.glob("./md/*.{md, mdx}");
-dataHtmls.forEach(function (dataHtml) {
-  console.log(dataHtml.frontmatter.title);
-});
+// dataHtmls.forEach(function (dataHtml) {
+//   console.log(dataHtml.frontmatter.title);
+// });
 
 // ページ分の param を用意す
 export function getStaticPaths() {
