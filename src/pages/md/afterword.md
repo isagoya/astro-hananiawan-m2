@@ -26,15 +26,15 @@ What in the world could "Hansen's disease" be?
 
 For me, dealing with Hansen's disease and living my life have been synonymous since the outbreak of the disease when I was 14 years old.
 
-The cloudless soul and hope had been given to me as well. But the reality of life with “Hansen’s disease” peeled them off one by one.
+The cloudless soul and hope had been given to me as well. But the reality of life with "Hansen’s disease" peeled them off one by one.
 
 When I lost my way and almost lost sight of other people, there were always meetings with many people who supported me. And each time it was these people who gave me peace of mind and showed me the way. For me, people are the "flowers" themselves.
 
 It was people who killed people, but it was also people who kept people alive and healed people.
 
-The title of this book, " Aspire to Meet the Flowers", was named after the last haiku (Japanese poem) by Dan Kazuo; "Mogari wistle, how many nights to blow aspiring to meet the flowers". His last novel was “Kataku no Hito (A person immerses himself in hobbies, unaware of danger and suffering.)”
+The title of this book, " Aspire to Meet the Flowers", was named after the last haiku (Japanese poem) by Dan Kazuo; "Mogari wistle, how many nights to blow aspiring to meet the flowers". His last novel was "Kataku no Hito (A person immerses himself in hobbies, unaware of danger and suffering.)"
 
-When the disease was cured, I would live a normal life in society. Because of this small wish, I decided to live declaring myself “cured of Hansen’s disease”, but perhaps the time was not yet ripe, I had to go along with many frustrations and sacrifices.
+When the disease was cured, I would live a normal life in society. Because of this small wish, I decided to live declaring myself "cured of Hansen’s disease", but perhaps the time was not yet ripe, I had to go along with many frustrations and sacrifices.
 
 My greatest regret was the loss of three members of my family. After all, my challenge to punch a hole in a solid wall only opened a narrow path for me to get out, not wide enough for the four of us to walk through hand in hand.
 
