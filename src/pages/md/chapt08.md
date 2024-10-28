@@ -57,7 +57,7 @@ Two days later I received the “Monthly National Colony” file.
 
 My eyes were glued to the message written by Chairman Nomura Minoru for the first issue in February 1961.
 
-> “This association was born as an organization for nationwide communication and cooperation among those who struggle with the difficulties of returning to society, not only for themselves, but also for the sake of others who suffer from the same illnesses and get stuck.…… (omission)
+> “This association was born as an organization for nationwide communication and cooperation among those who struggle with the difficulties of returning to society, not only for themselves, but also for the sake of others who suffer from the same illnesses and get stuck....... (omission)
 >
 > What narrows their paths? We all know that there are many problems and none of them is small. Not only we, but also officials, scientists, doctors and social workers understand it. Although some measures have been taken, albeit in a meager and crude way, there are still a number of tuberculosis survivors who are in trouble, suffering from the burden of their lives and worried about tomorrow's relapse.
 >
@@ -155,7 +155,7 @@ The interview had ended in obvious failure.
 
 “Thank you very much.”
 
------I knew it was impossible…
+-----I knew it was impossible...
 
 I was overcome with an indescribable feeling of despair. I left the office and walked toward Egota Station on the Seibu Ikebukuro Line. After about a hundred meters, someone shouted from behind me.
 
@@ -335,7 +335,7 @@ There was also something strange about the use of the men's shower room. I took 
 
 Eight other people went to the nearby public bathhouse “Bath for Everyone” on purpose, saying, “We want to take a bath just before going to bed. This was to avoid taking a bath with me.
 
-It's hard… I suddenly felt depressed.
+It's hard... I suddenly felt depressed.
 
 A few days later, I was called into the director's room.
 

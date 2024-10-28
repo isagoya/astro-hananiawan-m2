@@ -6,7 +6,7 @@ title: Supplement 2 The Silence of Damien
 
 The lights in the auditorium faded and the hymn began to play. There was the voice of Father Damien from the stage of total darkness.
 
-“Usually around this time. At dusk. The sun was setting and…”
+“Usually around this time. At dusk. The sun was setting and...”
 
 The curtain rose for the play ‘Father Damien’ starring Yamazaki Tsutomu. I sat in the back row of Parco Space Part 3 in Shibuya and fixed my eyes on the stage.
 
@@ -20,7 +20,7 @@ The two-act one-man play was about to end.
 
 “Was I too stubborn not to change my temperament?
 
-“But because of my temperament, I had sought you hard and burned myself out. Once I knew the pain of love, there was no other way. You stayed with me in the ‘leper house’. The sufferings I had comforted, the wounds I had healed, were Yours …they were suffering of Christ and His wound. Please tell me it was, it exactly was. Give me your one word. And then all my suspicions will fade away like smoke.
+“But because of my temperament, I had sought you hard and burned myself out. Once I knew the pain of love, there was no other way. You stayed with me in the ‘leper house’. The sufferings I had comforted, the wounds I had healed, were Yours ...they were suffering of Christ and His wound. Please tell me it was, it exactly was. Give me your one word. And then all my suspicions will fade away like smoke.
 
 Lord, if what separates you and me is this suspicion, I will throw it away. I will renounce it in your name. Whether I have done wrong or right, I am your servant. You are my God. I believe in your great love."
 

@@ -10,7 +10,7 @@ I was on my way home from visiting our family grave with my brother Yoshiyasu, w
 
 “That's so true. Toshio, do you remember this place? When we went to visit my aunt in Izumi, we walked this path together. We got scared on our way and ran through holding our hands. Look, the water level of the Ōigawa River has decreased a lot. By the way, have you ever climbed Mt. Oppadake?”
 
-“As I remember, when I was in the first grade of elementary school, I followed my older brothers to pick raspberries. I was told to throw stones into the bush before entering there, because there were Hubs, (poisonous snakes in Okinawa) waiting under the branches of the raspberries to catch small birds, and so I put my feet into the bush full of fear, entered with trepidation... It has been, you know, it was more than 40 years ago!”
+“As I remember, when I was in the first grade of elementary school, I followed my older brothers to pick raspberries. I was told to throw stones into the bush before entering there, because there were Hubs, (poisonous snakes in Okinawa) waiting under the branches of the raspberries to catch small birds, and so I put my feet into the bush full of fear, entered with trepidation... that was more than 40 years ago!”
 
 “Yes, right, ... We still have time, so let's take a side trip.”
 
@@ -60,13 +60,13 @@ My brother repeated only the name of Yagaji Island twice.
 
 When we came back home from Yambaru (a generic name for the northern part of Okinawa Island), my mother and my sisters, Yoneko and Atsuko were waiting anxiously for our return which was later than expected.
 
-“You made a leisurely drive, didn’t you? I hear you climbed Mt. Oppadake, how was it? Kusunokiyama is not the same as it used to be...That mountain left nothing but fear to my childhood, yet it's strange, I always want to visit there whenever something happens…”
+“You made a leisurely drive, didn’t you? I hear you climbed Mt. Oppadake, how was it? Kusunokiyama is not the same as it used to be...That mountain left nothing but fear to my childhood, yet it's strange, I always want to visit there whenever something happens...”
 
 Atsuko making the tea told us that she has visited there many times.
 
 “We would never talk about Ikusayū (war years) face to face without an opportunity like today...Obā (mom), you are the key person of today, so you have to answer Toshio's interview properly.”
 
-“Ah, can I recall the past? I’m getting too old…”
+“Ah, can I recall the past? I’m getting too old...”
 
 The switch of the tape recorder was set to on.
 
@@ -154,7 +154,7 @@ My sister Yoneko nodded and continued her story with a shrug.
 
 “Sister, his voice sounded so loud then, didn’t it?” Each of us leaned against the trunk of a large camphor tree to avoid the shooting.
 
-“Atsuko would have been 8 and Fumiko 6. Remembering that time, I am proud of them for not crying…The mountains shook and the camphor leaves fell silently. Shivering, they clung to the tree trunks on the opposite side from where the rain of shells were falling.
+“Atsuko would have been 8 and Fumiko 6. Remembering that time, I am proud of them for not crying...The mountains shook and the camphor leaves fell silently. Shivering, they clung to the tree trunks on the opposite side from where the rain of shells were falling.
 
 “As soon as the artillery fire was over, the surveillance planes came in low over our heads. I still remember the sound of their engines as they buzzed over the mountains. The artillery fire and the surveillance planes took turns. My body was shaking, but somehow my mind was cool.”
 

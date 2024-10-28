@@ -106,7 +106,7 @@ When my turn was over, the school doctor began trembling for some reason. He dip
 
 Contrary to those panic, my heart was filled with a sense of relief.
 
-"Now, at last…"
+"Now, at last..."
 
 They said, my desk and chair were burnt down in a corner of the playground a few days later.
 
@@ -419,7 +419,7 @@ By 1909, five public leprosy sanatoriums had been established on the mainland. O
 
 Evangelist Aoki saw the unfortunate situation of these friends in Okinawa, worked hard to get the land for them, thinking that even a piece of land would be enough if they could treat their disease without the pressure of 　 others. Finally, he was able to buy 9,900 square meters of wasteland in Ufudoubaru, Yagaji Island, in the name of another person. On December 28, 1935, he forced the patients who had been wandering in vain to go to the land in Ufudoubaru, Yagaji Island, in the shadow of the night.
 
-But the place where the patients had finally arrived was not for a peaceful life. They were repeatedly attacked by the locals, and their tents were constantly torn down. If that’s so…they decided to build a cabin. They thought that building their own hut on their own land would be protected by the police, unlike the temporary tent, but it was a futile effort in the face of the angry locals. Even the huts were thrown into the sea. Evangelist Aoki, the leader, even had his life threatened.
+But the place where the patients had finally arrived was not for a peaceful life. They were repeatedly attacked by the locals, and their tents were constantly torn down. If that’s so...they decided to build a cabin. They thought that building their own hut on their own land would be protected by the police, unlike the temporary tent, but it was a futile effort in the face of the angry locals. Even the huts were thrown into the sea. Evangelist Aoki, the leader, even had his life threatened.
 
 "Not even a sparrow will fall to the ground without the will of your Father. All we have to do is to surrender everything to the will of God.
 

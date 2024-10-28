@@ -102,15 +102,15 @@ Mr. Ishigaki Yaeo, my father, and I were at the office of the sanatorium.
 
 “That is ridiculous. That was the matter of tacit agreement between the community association and this sanatorium, wasn't it?”
 
-“Well, the Ministry of Health and Welfare has shown some understanding in this matter…but since Okinawa is still under U.S. military control, we must ask for instructions from the Ministry of Health and Welfare.”
+“Well, the Ministry of Health and Welfare has shown some understanding in this matter...but since Okinawa is still under U.S. military control, we must ask for instructions from the Ministry of Health and Welfare.”
 
 “It is not right to talk about procedures now. How long are you going to make us wait? That's why the children of Okinawa have no choice but to go this way.” He said, sounding irritated.
 
-“That boy escaped from Okinawa Airakuen, didn't he? There are various issues to be resolved on both sides…”
+“That boy escaped from Okinawa Airakuen, didn't he? There are various issues to be resolved on both sides...”
 
 “Then you will force him to be repatriated, won't you?”
 
-“I didn't say that…”
+“I didn't say that...”
 
 “See, he is standing right in front of you!”
 
@@ -122,7 +122,7 @@ One of the staff at the counter told her the whole story so far. I could see her
 
 “And what are you going to do with him?” It was almost an accusatory tone.
 
-“Well, there are some things to make contact with…”
+“Well, there are some things to make contact with...”
 
 “What kind of contact?”
 
@@ -134,7 +134,7 @@ One of the staff at the counter told her the whole story so far. I could see her
 
 “Then, are you going to send him back to Okinawa?” she asked severely.
 
-“Well, there are some things to do with papers and so on…”
+“Well, there are some things to do with papers and so on...”
 
 “Papers? What kind of papers?” I can write them for you if you need them. Shall I write that he needs to be treated in the sanatorium? I've just diagnosed him, as a doctor. Is that all right?”
 
@@ -271,7 +271,7 @@ During dinner, I was asked about the difference between Airakuen and Keiaien, an
 
 Mr. Ishigaki took out a green folder from the bookshelf. Inside were newspaper clippings and booklets, and he pointed to the page where a discolored sheet of galley paper was tucked.
 
-“This is the 'Guidelines for Entering and Exiting Patient Residential Areas' for outsiders and staff. It is much simpler now. Some people in Japan even lie that the reason there have been no cases of infection among the sanatorium staff in the long history of Japanese leprosy sanatoriums is because they have taken such strict precautions against contact with infected people… With the verification of time, the error is gradually being corrected.” It said the following.
+“This is the 'Guidelines for Entering and Exiting Patient Residential Areas' for outsiders and staff. It is much simpler now. Some people in Japan even lie that the reason there have been no cases of infection among the sanatorium staff in the long history of Japanese leprosy sanatoriums is because they have taken such strict precautions against contact with infected people... With the verification of time, the error is gradually being corrected.” It said the following.
 
 > [Guidelines for Entering and Exiting the Patient Area]
 >
@@ -479,7 +479,7 @@ Students who wanted to take the exam had to submit a written report from a docto
 
 -----Special consideration is given to total loss of function in both hands, both wrists, left ankle drop-----
 
------That one! That's all I can think of. Physical function was the problem… but that not possible...
+-----That one! That's all I can think of. Physical function was the problem... but that not possible...
 
 I thought about what the “physical reasons” could be.
 
@@ -709,7 +709,7 @@ The “Rome Resolution” sponsored by the Order of Malta was even more overwhel
 
 -----Leprosy is already a curable disease and discriminatory laws must be abolished and educational activities intensified to eliminate prejudice. The policy of isolation should be corrected and treatment in community hospitals or at home and rehabilitation in the community should be recommended-----
 
------What a mess! This is all the opposite of what's going on in Japan today, isn't it? … What on earth is the reason for the humiliation we're experiencing in this car right now?
+-----What a mess! This is all the opposite of what's going on in Japan today, isn't it? ... What on earth is the reason for the humiliation we're experiencing in this car right now?
 
 My body started shaking uncontrollably. I felt as if all my pores had opened.
 

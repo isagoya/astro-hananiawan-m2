@@ -372,7 +372,7 @@ As the car passed through Ikinomatubara, Nokonoshima appeared again.
 
 “Yes, I visited Dan Kazuo’s second house. There was no sign of anyone living there, but I excused myself and entered the house through the garden. There was a dock below, and I could see Fukuoka City on the opposite shore. I suppose he was driven away by various pains in this landscape...Man can easily endure the pains of disease...Healing from the pains of the heart is more difficult...This house was filled with the passions of three women. Ritsuko, who died, Keiko, who appears in his novel ‘House on Fire’, and his wife. I think he was always closely watched by the three of them and would not fit into that small house.
 
-“Your way of reading books is always a little different from others…”
+“Your way of reading books is always a little different from others...”
 
 I wondered if the fine June weather would keep pumping the seawater up into the sky? The series of landscapes that were distant shadows of islands and cityscapes blurred as if seen through an azure screen.
 
@@ -394,7 +394,7 @@ The breeze blowing across Imazu Bay hit my face through the open car window.
 
 -----Who would collect my ashes? Suddenly, it came to my mind.
 
-“Shall we stop by Akizuki? It won’t take long on the highway…”
+“Shall we stop by Akizuki? It won’t take long on the highway...”
 
 Akizuki is a castle town in the mountainous region in the northern part of Amagi City. Surrounded by mountains on all sides, the clear river cuts through the central part of the town and was quiet because it was a weekday. We entered the former residence of Lord Kuroda, continued along the cherry trees about 700 meters long, climbed up the stone steps at the end of the cherry trees, the Ohte-mon Gate, called the Black Gate Standing with Arms Akimbo, was proud of its appearance.
 
@@ -458,7 +458,7 @@ I brushed off his words and stared at the cup of local liquor. I had been distra
 
 “He composed good haiku when I told him that Akizuki is the southern limit of Japanese boxwood.”
 
-“It just came to my mind…”
+“It just came to my mind...”
 
 “Kayoko, bring me my accessories bag over there. I wrote it down on the notebook so I wouldn’t forget. Here it is.”
 
@@ -476,7 +476,7 @@ Mr. Matsuo opened his notebook and read my haiku.
 
 “Let’s go down to the sea, Iha. Kayoko, we’ll have another drink when we get back.”
 
-“Oh, are you okay…being that drunk?”
+“Oh, are you okay...being that drunk?”
 
 Even though he had drunk so much, his step was firm.
 

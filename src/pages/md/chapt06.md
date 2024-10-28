@@ -339,7 +339,7 @@ It passed four weeks since the surgery.
 
 I grabbed the ball and threw it.
 
------ Ah…Finally, me too…
+----- Ah...Finally, me too...
 
 The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 
@@ -674,7 +674,7 @@ Dr. Hashizume must have heard that I had returned from Okayama Station and was s
 
 “Good morning. How are you? Are you ready to go to Tokyo?”
 
------I suddenly thought: If only that doctor had not appeared before me…
+-----I suddenly thought: If only that doctor had not appeared before me...
 
 “I think I'll stop going.”
 

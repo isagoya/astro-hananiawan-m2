@@ -147,7 +147,7 @@ The blood blister on the bottom of my left foot at the end of last year had grow
 
 Even the short distance of walking caused the blood blister on some point of the left foot sole, which is cornified and thickened by the pressure of weight. Usually, the blood blister hardens after several days of rest. But this time I could not even have those several days of rest. The inflammation became bigger and deeper.
 
------ Long-term rest treatment? …What should I do?...
+----- Long-term rest treatment? ...What should I do?...
 
 The collapse of the bubble economy was a blow to Tokyo Colony’s business. Under the business situation at that time, I had to lead the group as the head to overcome the difficulty.
 
@@ -366,7 +366,7 @@ The smell of incense was all around us.
 
 “...Whether we cry or laugh... This is the family.”
 
------The Family ----- As I recall, it was as if I had been on a continuous journey to find my family since I was diagnosed with Hansen’s disease…
+-----The Family ----- As I recall, it was as if I had been on a continuous journey to find my family since I was diagnosed with Hansen’s disease...
 
 “...Whether crying or laughing...this is the family.”
 

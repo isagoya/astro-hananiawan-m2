@@ -329,7 +329,7 @@ Yoshiyasu asked me, ‟Come to think of it... there is a photo in the album of o
 
 My mother, who had been silently listening to our conversation opened her mouth.
 
-‟He had a good reason for holding your hand. The night before we were to take Toshio to Kagoshima, he told me, ‘If Toshio’s illness is discovered, we may not be able to go to Kagoshima. Then Toshio and I will jump into the sea together. Even if we could land in Kagoshima, the hospital in Kagoshima might not accept Toshio. If you do not hear from me, give up waiting for us.’ Then he left me detailed instructions on how to dispose of his property and told me to take good care of the children. Two days before you left, we went to a photo studio to have the last picture of you taken. Wait a minute--this must be the one from that time…”
+‟He had a good reason for holding your hand. The night before we were to take Toshio to Kagoshima, he told me, ‘If Toshio’s illness is discovered, we may not be able to go to Kagoshima. Then Toshio and I will jump into the sea together. Even if we could land in Kagoshima, the hospital in Kagoshima might not accept Toshio. If you do not hear from me, give up waiting for us.’ Then he left me detailed instructions on how to dispose of his property and told me to take good care of the children. Two days before you left, we went to a photo studio to have the last picture of you taken. Wait a minute--this must be the one from that time...”
 
 My mother showed us a picture wrapped with a Japanese paper. There were my father and mother side by side, dressed in formal attire.
 
@@ -337,7 +337,7 @@ My mother showed us a picture wrapped with a Japanese paper. There were my fathe
 
 ‟No, this is the first time to me. Why didn’t you tell us before? That’s very much like him. He was well prepared and never complained...”
 
-‟Not really, in fact, he mentioned of his own death twice…”
+‟Not really, in fact, he mentioned of his own death twice...”
 
 ‟Oh!” The children shouted in surprise.
 

@@ -240,7 +240,7 @@ Tempura and sweets were already laid out on the long table in the visitors’ ro
 
 My mother would just sob and sob.
 
-‟What a pity, for this little child…”
+‟What a pity, for this little child...”
 
 I had some nasty words for a mother like that. ‟I don’t like it. I don’t want you to visit me. All you do is sob and sob. I’m the one who wants to cry! You came here to cheer me up, didn’t you?”
 
@@ -376,7 +376,7 @@ Her words a few minutes ago were fragile and broken. She began to cry again.
 
 I was desperate too. It was the first time I cried in front of my mother.
 
-‟Please allow me to study some more. If I continue like this, I will be ruined…”
+‟Please allow me to study some more. If I continue like this, I will be ruined...”
 
 The first attempt to persuade her failed.
 

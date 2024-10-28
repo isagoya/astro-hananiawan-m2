@@ -140,7 +140,7 @@ Afterwards, we had a little chat.
 
 I was grateful for my friend's good will, but my hands were still under the table.
 
-“Do you have any plans for the upcoming Obon holidays? I'm going back to Kumamoto after a long time. How about coming to my house if you want, it's in the rural area of Kumamoto…”
+“Do you have any plans for the upcoming Obon holidays? I'm going back to Kumamoto after a long time. How about coming to my house if you want, it's in the rural area of Kumamoto...”
 
 After the bell rang to end the lesson, Yamaguchi invited me to join him.
 
