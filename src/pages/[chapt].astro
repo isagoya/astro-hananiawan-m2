@@ -1,8 +1,8 @@
 ---
 import chapters from "./md/chapters.json";
 
-// `./src/pages/data`の`.html`で終わるすべてのファイルをインポート
-const dataHtmls = await Astro.glob("./md/*.{md, mdx}");
+// `./src/pages/md`の`chapt`で始まり、`.md`で終わるすべてのファイルをインポート
+const dataHtmls = await Astro.glob("./md/chapt*.{md, mdx}");
 // dataHtmls.forEach(function (dataHtml) {
 //   console.log(dataHtml.frontmatter.title);
 // });
@@ -36,12 +36,12 @@ import Pagination from "../components/Pagination.astro";
 import Header from "../components/Header.astro";
 
 const { chapt } = Astro.params;
-// console.log('chapt:', chapt );
+// console.log("chapt:", chapt);
 const { chapter, i } = Astro.props;
-// console.log( chapter, i );
+// console.log(chapter, i);
 
 const num = parseInt(chapt.replaceAll(/[^0-9]/g, ""));
-// console.log("num:", num)
+// console.log("num:", num);
 // const title = chapters[num + 1].title;
 const title = "";
 const type = "contents";
