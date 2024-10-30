@@ -16,7 +16,7 @@ There are two leprosy sanatoriums on Nagashima Island. Nagashima Aiseien, locate
 
 Oku Komyoen, located at the western end of the island, was opened in 1938 and originally existed as Sotojima Sanatorium in Osaka City, which was directly hit by Typhoon Muroto in 1934, the disaster was so devastating that it even killed a large number of people. Reconstruction of the sanatorium in Osaka met with local opposition, so it was rebuilt under a different name on distant Nagashima Island, Okayama Prefecture.
 
-For outsiders who just pass by and look, the island where the lepers live in exchange for their lives is undoubtedly breathtaking, filled with white sand, green pine trees and sky in the bay.
+For outsiders who just passing by and look, the island where the lepers live in exchange for their lives is undoubtedly breathtaking, filled with white sand, green pine trees and sky in the bay.
 
 The gateway of Nagashima was the Funakoshi Pier. Once off the boat, the road splits into left and right, but all patients take the left road. A 500-meter walk along the pine-lined road by the sea leads to an ivy-covered treatment ward. Administrators refer to the area beyond as the "patient zone.
 
@@ -26,15 +26,15 @@ If you take the upper path of the playground instead of the one along the shore,
 
 There were ten rooms to a boys' dormitory, up to three boys to each room, but those who came from the same sanatorium were assigned rooms to avoid sharing a room as much as possible.
 
-Niirada classroom of Oku High School was established in 1955, and only leprosy patients study there. It is a regular day school with a capacity of 30 students per class. I entered the school as the seventh generation, and at that time there were 80 boys and 35 girls.
+Niirada Class of Oku High School was established in 1955, and only leprosy patients study there. It is a regular day school with a capacity of 30 students per class. I entered the school as the seventh generation, and at that time there were 80 boys and 35 girls.
 
 Although it was a normal high school, students were required to choose an elective from the three subjects of Commerce, Agriculture, and Home Economics, perhaps as preparation for returning to society after graduation.
 
-Classes were 50 minutes long, three hours in the morning, and the morning session ended at 12:20.
+Classes were 50 minutes long, three hours in the morning, and the morning session ended at 12:20 p.m.
 
 We ate lunch in the dormitory cafeteria, and classes usually ended with fourth period in the afternoon. The class schedule was set at 25 hours per week, which was not a tight schedule, and each student participated in club activities after school.
 
-The late start time of 9:20 a.m. was due to the special circumstance that students were treated until that hour.
+The late start time of 9:20 a.m. was due to the special circumstance of students being treated until then.
 
 ## Blue Blade
 
@@ -50,7 +50,7 @@ In 1993, I had the opportunity to join the banquet with Dr. Tsuyama Naoichi. He 
 
 "It was Mr. Hashizume Chozo, who worked at a leprosy sanatorium in Okayama."
 
-"Wow, Mr. Hashizume. I see...Mr. Hashizume... his surgery skill is the highest."
+"Wow, Mr. Hashizume. I see...Mr. Hashizume... his surgical skill is top class."
 
 I was surprised to know that they knew each other. The encounter with the young, excellent doctor, whose name now rings out in the orthopedic surgery community, would change my life 180 degrees.
 
@@ -181,7 +181,9 @@ My attitude, which had always been negative, changed too easily with this discus
 
 I had my first surgery in December 1963.
 
-For the next five years, my days revolved around orthopedic surgery and rehabilitation. Twelve operations were performed, and Dr. Hashizume said, "The number of times the scalpel was used on one person and the record for sutures will probably never be broken. Ten of them were concentrated in the last three years, which meant that I would have had an operation every four months.
+For the next five years, my days revolved around orthopedic surgery and rehabilitation. Twelve operations were performed, and Dr. Hashizume said, "The number of times the scalpel was used on one person and the record for sutures will probably never be broken."
+
+Ten of them were concentrated in the last three years, which would have meant that I have an operation every four months.
 
 Even counting the time spent in rehabilitation, I could not help but wonder, how dare my body be cut up so many times?
 
@@ -205,13 +207,13 @@ The tourniquet on my left thigh was tightened with great force. A blood pressure
 
 Dr. Hashizume silently disinfected my leg as the nurse lifted it.
 
-"Surgery starts at 9:18."
+"Surgery starts at 9:18 a.m."
 
 Curiously, the nurse standing to my left covered her body as she leaned toward my face. Through her surgical gown I could feel her soft and warm breasts against my face. For a moment I was distracted by the swell of her breasts.
 
 Just at that moment. There was a sharp pain in my right leg as if I had been stabbed with a burning fire chop stick.
 
------Snip!-----
+-----Snap!-----
 
 Something was pulled out with a sound. It happened so fast, there was no time to scream "Ouch! "
 
@@ -239,7 +241,7 @@ Dr. Hashizume's voice rang out during the operation.
 
 "(5) Alright." "(10) Done."
 
-The charts with illustrations on the wall must have been a surgical procedure. The clock in the operating room showed past 10:30.
+The charts with illustrations on the wall must have been a surgical procedure. The clock in the operating room showed past 10:30 a.m.
 
 "Lift your toe as high as you can."
 
@@ -253,15 +255,15 @@ Just a few minutes ago, the tourniquet had cut into my thigh, and I was struck w
 
 "The anesthetic is wearing off. Mr. Iha, can you hold on a little longer?"
 
-When asked, "Can you hold on?" we rarely deny it by saying, "No, I can't."
+When asked, "Can you hold out?" we rarely deny it by saying, "No, I can't."
 
-"Yes, I'm okay. I can hold on..."
+"Yes, I'm okay. I can hold out..."
 
-The ticking of the seconds was high and slow.
+The ticking of the seconds sounded high and slow.
 
 My face unconsciously swayed from side to side from the pain of the tourniquet on my thigh.
 
-"Mr. Iha, I'm stitching you up right now, so it's almost over."
+"Mr. Iha, I'm stitching up right now, so it's almost over."
 
 Thirty minutes had passed since I was told it was almost over.
 
@@ -269,7 +271,7 @@ Thirty minutes had passed since I was told it was almost over.
 
 Dr. Hashizume's loud voice reached my ears.
 
-I took a deep breath and looked at the clock on the wall, which read 11:22.
+I took a deep breath and looked at the clock on the wall, which read 11:22 a.m.
 
 ## Informed Consent
 
@@ -359,7 +361,7 @@ The ball I threw with all my might was rolling far ahead of me, up to 30 meters.
 
 ## Bonds of Okinawa
 
-Ever since I moved to the mainland for high school, there has been a problem that has gripped me and won't let go. It is "Okinawa for me". The "Okinawa" that I should have run away from became bigger and bigger in my mind as the days went by.
+Ever since I moved to the mainland for high school, there has been a problem that has gripped me and won't let go. It is "Okinawa for me". The "Okinawa" that I was supported to have escaped from became bigger and bigger in my mind as the days went by.
 
 In March 1963, I unfolded a newspaper delivered from Okinawa. On the front page was a report on the "Myth of Autonomy" by the High Commissioner for Okinawa, P. W. Caraway.
 
@@ -369,7 +371,7 @@ It was the same thing to threaten the residents of Okinawa: This island was take
 
 "My Okinawa" was being humiliated. Anger with no outlet ran through my body.
 
-I threw away the newspaper and lay down on the tatami mat. The spring sunlight shone directly into the room without a curtain.
+I threw away the newspaper and lay down on the tatami mat. The spring sunlight shone directly into the room without curtains.
 
 When I close my eyes, it reminds me of the summer of 1955, when the farmers of Iejima-maja were dispossessed of their land by the U.S. military and had to go begging.
 
@@ -387,7 +389,7 @@ As I looked back, there on Ishikawa Beach, separated by a wire fence across the 
 
 I could also hear the sound of American soldiers and the flirtatious voices of red-lipped women at the party held every Saturday at "Miss Ishikawa," the Japanese restaurant near my parents' house.
 
-An American soldier held a woman under his arm. They leaned over the parapet of the second floor and tossed chewing gum and even condoms into the circle of swarming children below.
+An American soldier held a woman under his arm. Others leaned over the parapet of the second floor and dropped chewing gum and even condoms into the circle of swarming children below.
 
 "Please give me. Please."
 
@@ -399,7 +401,7 @@ Suddenly I was slapped in the face. My father was standing there with his arms f
 
 "Why is that? Always, only Okinawa, even now..."
 
-Mr. Ishigaki, who took care of me in Kagoshima, had recommended that I meet Mr. Chiba Osamu after I entered high school.
+Mr. Ishigaki, who took care of me in Kagoshima, had told me to visit Mr. Chiba Osamu after I entered high school.
 
 "He has much to learn as a human being. Your sensitivity is too acute, so you can learn the serenity of life from him. In 1937, at the age of 27, he developed the disease in Okinawa, resigned from his teaching position, and is now under medical care at Nagashima Aiseien. I think he will be a good mentor, both as a Christian and as a man of letters."
 
@@ -424,33 +426,33 @@ However, when he expressed his feelings about Okinawa in Japanese poetry, there 
 >
 > (Anthology ‘Coral Reef’ by Chiba Osamu)
 
-After a while, my words to Mr. Chiba turned nasty. It was because "Okinawa" in my mind began to reject the prayer of Jesus Christ.
+After a while, my words to Mr. Chiba turned nasty. It was because "Okinawa" in my mind began to reject even the prayer of Jesus Christ.
 
 "Mr. Chiba, will Okinawa be returned just by expressing anger in letters? Can poems change Yamato's (Mainland's) mistakes? Can the prayer of Jesus Christ save Okinawa today?"
 
 He only shed tears and did nothing to refute my harsh questions. His wife who was listening to our conversation beside us, wept as well.
 
-After a while, I began to stay away from Mr. Chiba.
+It was no longer before, I began to stay away from Mr. Chiba.
 
-"My Okinawa" gradually turned to believe in the "power of politics." I also began to change in school. I couldn't stand the fact that they taught "peace", "freedom" and "democracy" in the abstract without living words. I also began to change in school. I couldn't stand the fact that they taught "peace", "freedom" and "democracy" in the abstract without living words.
+"My Okinawa" gradually turned to believe in the "power of politics." I also began to change in school. I couldn't stand the fact that they taught "peace", "freedom" and "democracy" in the abstract without living words.
 
 I vehemently refuted their domino theory, which said ---in the Vietnam War, America sent its troops at the request of the South Vietnamese government---if Vietnam became a communist state, Asian democratic countries would be under great threat.
 
 "At least American 'democracy' and 'freedom' with Okinawa as a relay base are deceptive. The choice of a country's political system should be made by its people.
 
-"I also objected to their explanation summarizing "nationalism" only by "race." "It is wrong to view nationalism in terms of the general concepts of 'ethnic group' and 'religion'. Even within the same ethnic group, the meaning of nationalism can be quite different depending on the class to which one belongs".
+"I also object to their explanation summarizing "nationalism" only by "race." "It is wrong to view nationalism in terms of the general concepts of 'ethnic group' and 'religion'. Even within the same ethnic group, the meaning of nationalism can be quite different depending on the class to which one belongs".
 
 The classroom became a place of debate between the teacher and me.
 
 "Mr. Iha, it is early to have a biased opinion in your high school days with little social experience."
 
-My homeroom teacher started to warn me. I was definitely a student who embarrassed teachers. But I could not accept his advice about being "biased" either.
+My homeroom teacher began to warn me. I was definitely a student who embarrassed teachers. But I could not accept his advice about being "biased" either.
 
-"Teaching the world and society through balance is not education. We should speak in facts. All the more, it is a deception for America to brandish so-called justice all over the world. I saw it in Okinawa!"
+"To teach the world and society by balance is not education. We should speak in facts. All the more, it is a deception for America to brandish so-called justice all over the world. I saw it in Okinawa!"
 
 Later, at our reunion, the repeated debate between the teacher and the student of those days came up.
 
-"We never had such a pleasant class."
+"We never had such a pleasant class as that."
 
 ## Wall after Wall
 
@@ -460,7 +462,7 @@ The Niirada Class had not been allowed to go on field trips since its founding.
 
 At best, a one-day bus trip with limited destinations or a boat trip to Oshima Seishoen, a Hansen's disease sanatorium in Kagawa Prefecture, were typical class trips.
 
-What stood in our way was the Leprosy Prevention Law. People who were called "patients" were allowed to leave the sanatorium only after they had been examined by a doctor and had received "permission to leave" or "permission to temporarily return home".
+The wall stood in our way was the Leprosy Prevention Law. People who were called "patients" were allowed to leave the sanatorium only after they had been examined by a doctor and had received "permission to leave" or "permission to temporarily return home".
 
 Since the founding of the school, it had been the earnest wish of all the students to have a school trip, but every year it had been denied. There were three reasons.
 
@@ -496,7 +498,7 @@ Collective negotiations were held with all the students and the principal, and m
 
 Nevertheless, the committee decided that it would be difficult to take a straight forward approach by waiting for the time to pass, so they came up with the following method.
 
-1. Each person applies for a winter vacation in pieces.
+1. Each person applies for the winter vacation separately.
 
 2. Negotiate with the community association to raise funds, and high school students will work at the sanatorium after school to earn wages.
 
@@ -508,19 +510,19 @@ At first, the 7th graders, the senior class, were sent out separately on the sam
 
 Finally, we were able to send them to Osaka, Nara and Kyoto for five days and four nights from January 3, 1965, under the name of "group homecoming".
 
-I was at the center of the development of this policy, but I was not a member. The reason was that I was lying on the operating table for my sixth orthopedic surgery.
+Despite being the central figure in the preparation of the plan, I was not included in the participants. Because I was on the operating table for my sixth orthopaedic surgery.
 
-After that, it took another 10 years for the Niirada Class to have its "authorized school trip".
+After that, it took another 10 years before the Niirada Class obtained "authorized school trips".
 
-One day in 1995, the north wind rattled the windows.
+One day in 1995, the north wind was rattling the windows.
 
-"Hello, Mr. Iha, this is Setsuko from the eighth graduating class of the high school. I called Keiko and finally got your phone number. Yes, it's been 30 years! Have you been watching TV? No, you don't watch singing programs, do you? I was watching ‘The Hit Parade of the Good Old Days on TV a while ago. Funaki Kazuo sang "The Third Year of High School," and I always remember your face when I hear that song. Suddenly, I wanted to talk with you, and I asked everywhere for your information. When I hear this song, I can't stop crying. Because you were our leader and you strongly encouraged us to make our dream come true. You yourself knew that you could not join us, but you never said a word. I will never forget that.
+"Hello, Mr. Iha, this is Setsuko from the eighth graduating class of the high school. I called Keiko and finally got your phone number. Yes, it's been 30 years! Have you been watching TV? No, you don't watch singing programms, do you? I was watching ‘The Hit Parade of the Good Old Days on TV a while ago. Funaki Kazuo sang "The Third Year of High School," and I always remember your face when I hear that song. Suddenly, I wanted to talk with you, and I asked everywhere for your information. When I hear this song, I can't stop crying. Because you were our leader and you strongly encouraged us to make our dream come true. You yourself knew that you could not join us, but you never said a word. I will never forget that.
 
 ## Refusal
 
 It was my ex-wife, Akiko, who was a surgical nurse in the operating room during my major orthopedic surgeries. She had, in a sense, observed the entire "human body modification" process, both during the surgeries and in rehabilitation after the surgeries. After graduating from Associate Nursing School, she was assigned to the surgical unit. The new nurse's main task was to take care of the patients before and after surgery, and she also served as a liaison between the patients and Dr. Hashizume.
 
-When I was on the stretcher on my way to my fourth operation, Akiko asked me.
+When I was on the stretcher for my fourth operation, Akiko asked me.
 
 "Mr. Iha, why do you keep repeating surgeries as if you were obsessed with something?"
 
@@ -528,13 +530,13 @@ When I was on the stretcher on my way to my fourth operation, Akiko asked me.
 
 "Ordinary?"
 
-She laughed and said that the expression was funny.
+She laughed and said that the expression was interresting.
 
-"I have to ask you something, too--you are from Kagoshima Prefecture, right? Why did you come to this faraway nursing school in Okayama? It's not that there are no nursing schools in Kagoshima. By the way, why did you choose the one in a leprosy sanatorium? "
+"I have something to ask you --you are from Kagoshima Prefecture, right? Why did you come to this faraway nursing school in Okayama? It's not that there are no nursing schools in Kagoshima. By the way, why did you choose the one in a leprosy sanatorium? "
 
 It took her a while to answer.
 
-"My house is poor. Here I can study for free. My teacher recommended me."
+"My house is poor. Here I can study for free. My teacher recommended this school to me."
 
 She told me in a low voice with her eyes downcast.
 
@@ -548,25 +550,25 @@ This led to a very natural conversation between us. Soon after, she told me that
 
 "What nursing school are you applying to?"
 
-"Tokyo."
+"In Tokyo."
 
 Coincidentally, I had also decided to go to Tokyo to study, so we had a lively conversation, dreaming of seeing each other in Tokyo. Later, Akiko brought answer sheets for her correspondence course to my room.
 
 The surgeries were repeated and the function of my limbs gradually recovered.
 
-Strangely enough, the "better" that had been the basis for all my decisions began to waver. The state of my mind was rising.
+Strangely enough, the "better" that had been the basis for all my decisions began to waver. My mental state was rising within me.
 
 Although still vague, I began to regain some confidence in the society I was about to challenge. I was 23 years old at the time.
 
 The biggest change was in my thinking about the opposite sex. I had decided not to have a relationship with a woman for the rest of my life and tried to restrain myself, but that collapsed before Akiko's existence.
 
-But there was a rejection waiting for me, born of a big mistake.
+But there was a refusal waiting for me, born of a big mistake.
 
 Anyway, all the planned surgeries were completed. It was November, and I was to leave for Tokyo two months later.
 
 "Akiko, will you please be friend with me after we leave for Tokyo?"
 
-For a moment, Akiko had a doubtful look on her face.
+For a moment, Akiko had a puzzled look on her face.
 
 "What do you mean by be friends?"
 
@@ -582,7 +584,9 @@ I lost my words. I was beginning to think she was exactly right.
 
 ## The Ticket
 
-In April of 1967, I was to enter the Chuo Labor College (now the Musashino Foreign Language College). It was established in 1951 with the founding spirit of "bringing learning from the ivory tower to the place of social life. The professors who agreed with this spirit were Marxist economists and theoretical leaders of the left movement of the time, and they taught courses that went beyond the boundaries of the university. The college was positioned as a vocational school, consisting of the main course (politics and economics) and the literature course. I was to study for two years in the main course.
+In April of 1967, I was to enter the Chuo Labor College (now the Musashino Foreign Language College).
+
+It was established in 1951 with the founding spirit of "Bringing academics out of the ivory tower into the society and the place of daily life. The professors who agreed with this spirit were Marxist economists and theoretical leaders of the left movement of the time, and they taught courses that went beyond the boundaries of the university. The college was positioned as a vocational school, consisting of the main course (politics and economics) and the literature course. I was to study for two years in the main course.
 
 Dr. Narita Minoru of Tama Zenshoen in Tokyo (currently Chairman of the Management Committee of Prince Takamatsu Memorial Hansen's Disease Museum and Honorary Director of the National Sanatorium Tama Zenshoen) took me under his consideration and decided to perform the left big toe extension surgery at Tama Zenshoen, and they performed my transfer procedures.
 
@@ -594,15 +598,15 @@ My heart was pounding.
 
 -----Finally, I can sit with other passengers. Most importantly, I would be able to ride the dreamy bullet train.
 
-The ticket was held in the palm of my hand.
+Exactry the ticket was held in the palm of my hand.
 
 It seemed that the whole landscape around me was smiling at me.
 
 At the Tenmaya restaurant in front of Okayama Station, I spent a lot of money and ordered an omelet for the first time. I even felt as if the 10 fingers on both of my hands had been restored to perfect condition after the surgeries.
 
-Oh, my dear! Is that what it was?
+-----So, that's what it was.
 
-The word "kiyu," which means groundless fear, weighed heavily on my mind.
+The Chinese caractor "杞憂(kiyu)", which means groundless fear, floated in my mind with tremendous size.
 
 At the bus station in front of Tenmaya, I checked the departure time for Mushiake, and to my luck, there was a 14:15 departure for Mushiake around Ushimado. I didn't have to wait that long.
 
@@ -654,13 +658,13 @@ The next moment, the conductor suddenly did something unexpected.
 
 The ticket-----he kicked it off the wharf and into the sea.
 
------Ah...!
+-----Ah!
 
 All I could hear was the sound of the ferry's engine.
 
 I had been struck by an unknown fear a while ago.
 
------From now on, I would go through this every day!
+-----From now on, I have to go through this every day!
 
 I was shaking uncontrollably.
 
@@ -674,7 +678,7 @@ Dr. Hashizume must have heard that I had returned from Okayama Station and was s
 
 "Good morning. How are you? Are you ready to go to Tokyo?"
 
------I suddenly thought: If only that doctor had not appeared before me...
+-----I suddenly thought: If only this doctor had not appeared before me...
 
 "I think I'll stop going."
 
@@ -698,7 +702,7 @@ When he spoke in such a way as to abandon me, on the contrary -- I could no long
 
 "Oh, no! I'll never forgive him!"
 
-"After all, you admit to his unreasonable behavior, and you just tried to turn tail and run away once, didn't you?"
+"After all, you approved his unreasonable behavior, so turned your tail and run away at the first attempt, didn't you?"
 
 It was a completely unexpected turn of events for me.
 
@@ -708,13 +712,11 @@ It was a completely unexpected turn of events for me.
 
 In March 1987, Oku High School Niirada Class, my alma mater, sent out its last graduates and finally closed after 32 years of operation. The high school was unique in the world because it was established exclusively for Hansen's disease patients.
 
-The issue of revising the 1953 Leprosy Prevention Law had been the subject of intense patient activism since the previous year. The opportunity to study in high school has also been a longstanding demand of patients.
-
 The issue of revising the 1953 "Leprosy Prevention Law" had been the subject of intense patient activism since the previous year. The opportunity to study in high school was also one of the patient's long-standing requests. The proposed "Leprosy Prevention Law", in Article 14, Paragraph 2, clearly stated the provisions of Article 75, Paragraph 2 of the "School Education Law". It finally guaranteed high school education, which had long been denied to Hansen's disease patients.
 
 The school was founded in September 1955. Zenkankyo News (National Hansen's Disease Patients' Council) featured it on the front page of the October 1 issue, showing the high expectations of patients throughout the country. Mitsuda Kensuke, who received the Order of Culture, gave a congratulatory speech at the opening ceremony in which he said, "I hope that the school will be a leader for Hansen's disease patients all over the world."
 
-I also studied there for five years. I was enrolled for five years in a four-year regular high school because I had 12 orthopedic surgeries during my school years, so I missed my attendance credits and had to keep them for another year. The "academic truths" I learned in the closed society taught me ideals and realities so far apart. Paradoxically, it could be the ‘best educational environment’ for young people with a desire to learn. Every chapter and sentence of the textbooks and every word spoken by the teachers penetrated deep into my organs, and I learned how "learning, truth, human rights, peace and equality" were colored with make-believe, from my daily classroom.
+I also studied there for five years. I was enrolled for five years in a four-year regular high school because I had 12 orthopedic surgeries during my school years, so I missed my attendance credits and had to keep them for another year. The "academic truths" I learned in the closed society taught me the ideals and the realities so far apart. Paradoxically, it could be the ‘best educational environment’ for young people with a desire to learn. Every chapter and sentence of the textbooks and every word spoken by the teachers penetrated deep into my organs, and I learned how "learning, truth, human rights, peace and equality" were colored with make-believe, from my daily classroom.
 
 There is a song that has long been my encouragement when I have lost my way and people, or myself. It is the school song of Niirada, Oku High School. The Niirada Class of Oku High School, which has this school song, is the starting point of my spirit.
 
@@ -744,7 +746,7 @@ At the end of the book were eight pages of lists of former directors, principals
 
 It was also unique in giving social meaning to the existence of the school, but it was too "symbolic" as a publication to decorate the closing of the curtain of history.
 
-In addition, the photographs on all the pages were unusual. Most of the photos were taken from a distance or from behind, and those that were taken in frontal close-ups used the "line screen" printing technique to make it impossible to identify the individuals.
+In addition, the photographs on all the pages were unusual. Most of them were taken from a distance or from behind, and those that were taken in frontal close-ups used the "line screen" printing technique to make it impossible to identify the individuals.
 
 In short, 307 names and faces of graduates were erased from the school's final commemorative publication.
 
@@ -754,6 +756,6 @@ Thirty-two years ago, people suffering from Hansen's disease all over the countr
 
 It should have been to develop human resources to break through the "unjustified social discrimination" against Hansen's disease.
 
-Outrageous! The 307 students gave their brilliant answers after 32 years by erasing their names and faces.
+Outrageous! The 307 students gave their brilliant answers in their 32nd years by erasing their names and faces.
 
 The "soul" of the group, repeatedly rejected, will remain closed forever.

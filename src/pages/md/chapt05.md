@@ -543,7 +543,7 @@ I rewrote the letter to the Okayama Board of Education over and over again.
 
 It was almost midnight when I finished writing the letter.
 
-It was ten days after I sent the letter that Mr.Morimoto, the principal, suddenly came to see me.
+It was ten days after I sent the letter that Mr. Morimoto, the principal, suddenly came to see me.
 
 "Mr. Iha, you might be able to get an extra pass. I heard that you sent them a letter. They read it, and one of them from the Okayama Prefectural Board of Education is here today. He wants to see your daily life here in private. So, behave more cheerfully than usual, are you okay?"
 

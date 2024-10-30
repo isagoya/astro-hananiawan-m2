@@ -26,9 +26,9 @@ I saved money to buy books and spent weekends going to second-hand bookstores in
 
 It was around this time that my youngest sister, Chie, came to visit me in Zenshoen, and she was surprised to see how poor my life was.
 
-"Toshio, your father wanted me to give you this."
+"Toshio, your father asked me to give you this."
 
-She gave me 20,000 yen as she left. Although I knew the source of the money was clearly part of her salary, I had no choice but to accept her lie.
+She handed me 20,000 yen as she left. Although I knew the source of the money was clearly part of her salary, I had no choice but to accept her lie.
 
 It's been about two weeks since I enrolled. I was greeted by three young men and women who approached my seat during the break.
 
@@ -38,13 +38,13 @@ It's been about two weeks since I enrolled. I was greeted by three young men and
 
 "My name is Taira." "I am Kaneshiro."
 
-For a while after that, the conversation in the classroom was limited at most to that group of two women and a man from Iejima. I rarely talked to them myself.
+For a while after that, the conversation in the classroom was limited at most to that group of two women and a man from Iejima. I rarely talked to them from myself.
 
 From our brief conversation, I learned that they were about 20 years old and were sent by Ahagon Shokou, president of the "Iejima Land Protection Association," which continues to protest land confiscation by the U.S. military.
 
-I always sat in the front row in the middle of the classroom. This was because I always wanted to escape as much as possible from the gaze cast on my hands. In the middle of the front row, I only had to look at the professor.
+I always sat in the front row in the middle of the classroom. It was because I always wanted to avoid from the gaze cast on my hands as much as posible. Sitting in the middle of the front row, the only gaze cast on me from the professor.
 
-I can name only four or five classmates, although I attended almost every class for two years, except for three days when I was sick in bed. This shows how much I avoided contact with others at that time.
+I can name only four or five classmates, although I attended almost every class for two years, except for three days when I was sick in bed. This shows how much I stayed out of contact with others at that time.
 
 Anyway, I was afraid of the stares of the people around me.
 
@@ -108,7 +108,7 @@ That day, I arrived at Shibuya Station an hour earlier than usual to buy my comm
 
 "Mr. Iha, you're quite early today."
 
-Mr. Shigeo Hatada, a professor of international politics who would later run for governor of Tokyo, greeted me.
+Mr. Hatada Shigeo, a professor of international politics who would later run for governor of Tokyo, greeted me.
 
 "Hello. I came to buy my commuter pass."
 
@@ -128,7 +128,7 @@ I nervously followed him across the bridge to Tokyu Plaza. He took a table by th
 
 I was so happy. The professor mentioned Rev. Taira's prayer.
 
-"His name is Pastor Osamu Taira!"
+"His name is Pastor Taira Osamu!"
 
 It was customary for pastors to pray at the inauguration ceremonies of successive High Commissioners, but this 33-year-old local pastor made an appeal that could be described as unusual. He prayed.
 
@@ -184,25 +184,25 @@ Although he had made the reservation, his order ended with only beers.
 
 Since a few minutes ago, I had been feeling anxious because of the completely unpredictable course of events.
 
-We had a routine toast.
+We made a customary toast.
 
-"Now, I will tell you my story. That doesn't mean I am urging you to tell your story instead. You can just listen and pass it off.
+"Now, I will tell you my story. That doesn't mean I am urging you to tell your story instead. You can just listen and pass it off."
 
 He took off his glasses, sat up straight, and opened his mouth.
 
-"When I was a sophomore in high school, I was a bad boy and caused a lot of trouble around me. Before I knew it, I was flattered to become the leader of the gang. There was an agricultural high school in the next town and we were always in trouble with them, once a trivial matter led to a big fight between the bad boys. You know, I thought I was pretty sophisticated back then. I decided that this was the day to settle the matter with the leader of the group I was fighting with. I went into the fight with a hidden knife. To be honest, the knife was meant as a threat. But as it turned out, the other guy was seriously injured. So I was sent to juvenile detention for two years. That's the classic course. And I couldn't go back to that high school, and after that I came to Tokyo and finally graduated from night school.
+"When I was a sophomore in high school, I was a bad boy and caused a lot of trouble around me. Before I knew it, I was flattered to become the leader of the gang. There was an agricultural high school in the next town and we were always in trouble with them, once a trivial matter led to a big fight between the bad boys. You know, I thought I was pretty sophisticated back then. I decided that this was the day to settle the matter with the leader of the group I was fighting with. I went into the fight with a hidden knife. To be honest, the knife was meant as a threat. But as it turned out, the other guy was seriously injured. So I was sent to juvenile detention for two years. That's the classic course. And I couldn't go back to that high school, and after that I came to Tokyo and finally graduated from night school."
 
 He stopped talking and glared at me.
 
 "It may be a nuisance to you, but your existence bothers me in a strange way," he said, swallowing the rest of the beer in his glass.
 
-"For some reason I can't bear to look at you."
+"Somehow, looking at you is unbearable to me."
 
 His words stopped and there was a pause.
 
 "I don't know why, but I feel miserable! I can hardly stand it!"
 
-Yamaguchi's words hit me hard. Suddenly, I began to think that he must be the only one I can...
+Yamaguchi's words hit me hard. Suddenly, I began to think that he might be the only one I can...
 
 "Thank you...Yamaguchi, have you ever heard of Hansen's disease?"
 
@@ -234,7 +234,7 @@ Suddenly, Yamaguchi threw the wet napkin at me.
 
 "You bastard! This is even stranger, isn't it? In my case, I did it myself. There is no excuse for that from my side. Do you blame yourself for your disease! I was sent to juvenile detention from my own human nature. That’s why I am too ashamed to face the world. Even with my whole life, I can't atone for my sins. But your sickness, your disease, has nothing to do with your human nature, doesn't it?
 
-Yamaguchi's loud voice echoed through the small room and tears came to my eyes.
+Yamaguchi's loud voice echoed through the small room and tears welled up my eyes.
 
 That one word from Yamaguchi had changed me almost too easily.
 
@@ -258,13 +258,13 @@ Two hundred yen was a lot of money for me, but her sincere attitude impressed me
 
 "Okay, I'll take one. By the way, what kind of movie is it?"
 
-The girl who called herself as Kusakai, hastily held out the flyer with a flushed face.
+The girl who called herself as Kusakai, hastily held out the leaflet with a flushed face.
 
-"Please read this flyer, there are details in it."
+"Please read it, there are details."
 
 "It begins at seven o'clock. We expect you to come."
 
-I read the explanation on the flyer.
+I went through the leaflet.
 
 -----Itoga Kazuo, Biwako Gakuen, Cerebral Palsy, Development Assurance----
 
@@ -306,7 +306,7 @@ I knocked on the door and entered the room and was stunned. The small room was c
 
 I did not know the reason, but they all greeted me with applause.
 
-"Let me introduce you. Today's main guest, the only prince, has arrived!"
+"Let me introduce him to you all. Today's main guest, the only prince, has arrived!"
 
 I was completely distracted by the unexpected situation.
 
@@ -346,11 +346,11 @@ My second wife Shigeko was one of them. The days I spent with them opened my clo
 
 The "society" I had thought of as a distant world began to become visible. My heart needed time for a "soft landing," but these girls also helped me prepare my mind to return to society.
 
-## The way back
+## The Way Back
 
 In March 1969 we had the graduation ceremony at the Central Labor Academy.
 
-I was proud only of my attendance, but to my surprise the office manager told me that I had been chosen to represent the graduates of that generation. To this day I realize that this honor was based on the standard of "hard worker.
+I was proud only of my attendance, but to my surprise the office manager told me that I had been chosen to represent the graduates of that generation. To this day I realize that the honor was based only on the standard of "hard worker."
 
 Without hesitation, I extended my hand to Mr. Hori Makoto, the headmaster, and shook his hand in return.
 
@@ -366,9 +366,9 @@ Therefore, in February, I applied to leave the sanatorium and talked face to fac
 
 "Ms. Sato, I will tell them that I am cured of my illness. Of course, I will not hide the fact that it was Hansen's disease."
 
-"Oh, that's outrageous. May I tell you that I've sent out many people who have been cured of the disease to the society. Most of them have no after-effects. Even those who returned to society hid all their past... In your case, the aftereffects of Hansen's disease are obvious to everyone, so..."
+"Oh, that's outrageous. May I tell you that I've sent out many people who have been cured of the disease into the society. Most of them have no after-effects. Even those who returned to society hid all their past... In your case, the aftereffects of Hansen's disease are obvious to everyone, so..."
 
-"That's why I can't escape it...so the only way is to live face to face with Hansen's disease."
+"That's why I can't escape it... the only way is to live face to face with Hansen's disease."
 
 "You can't take today's society lightly. They stubbornly reject people who have recovered from Hansen's disease. Especially your after-effects can make things difficult. The conversation between the social worker and me went on and on.
 
@@ -404,10 +404,10 @@ Ms. Sato said, and it sounded like my mental strength was the only thing I could
 
 The worried looks on the faces of all the doctors there did not go away.
 
-Dr. Hirako called to me as he wrote on my medical report.
+Dr. Hirako called out to me as he wrote on my medical report.
 
 "Mr. Iha, you are always welcome to come back if you feel you can't do your best."
 
-"Thank you very much. But I have no intention of going through that gate again!"
+"Thank you very much. But I have no intention of going back that gate again!"
 
-[^1]: In 1943, the American Faget announced that a derivative of the sulfonamide drug Promin was effective as a treatment for leprosy. In Japan, after the war, Morizo Ishidate, a former professor at the University of Tokyo, succeeded in synthesizing the drug. Promin was injected intravenously. Subsequently, Dapsone was developed as an oral drug, paving the way for outpatient treatment. Rifampicin was subsequently developed. Since 1983, multidrug combination therapy (DDS, B663, and rifampicin) has been the mainstay of treatment. With this combination therapy, leprosy loses its infectivity in a few days.
+[^1]: In 1943, the American Faget announced that a derivative of the sulfonamide drug Promin was effective as a treatment for Hansen's disease. In Japan, after the war, Ishidate Morizo, a former professor at the University of Tokyo, succeeded in synthesizing the drug. Promin was injected intravenously. Subsequently, Dapsone was developed as an oral drug, paving the way for outpatient treatment. Rifampicin was subsequently developed. Since 1983, multidrug combination therapy (DDS, B663, and rifampicin) has been the mainstay of treatment. With this combination therapy, leprosy loses its infectivity in a few days.

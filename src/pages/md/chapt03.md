@@ -120,7 +120,7 @@ The dorm father Kishimoto slapped my cheek.
 
 It was June 1958, and I was in the third grade of junior high school. Ms. Tokuda Setsuko, the Japanese teacher, entered the classroom with a flushed face.
 
-"Big news! Big news to tell you! Mr.Kawabata Yasunari, the author of ‘Izu no Odoriko’ (The Dancing Girl of Izu), will be here in Airakuen the day after tomorrow!"
+"Big news! Big news to tell you! Mr. Kawabata Yasunari, the author of ‘Izu no Odoriko’ (The Dancing Girl of Izu), will be here in Airakuen the day after tomorrow!"
 
 Ms. Setsuko was a new graduate teacher who was assigned to our school at the beginning of the new school year. In classes, she would often become confused and be tearful in response to my nasty questions. I wondered what had happened to make he looked so excited today, in contrast to her gloomy mood when she entered the classroom in these days.
 
@@ -186,7 +186,7 @@ He tapped my knee with his veined hand. "Write a lot. Store a lot within yoursel
 
 "Mr. Kawabata, it is time for you to leave," the director urged him.
 
-"I see. We had a good talk today. Thank you...Mr.Sekiguchi, is there anything you want?"
+"I see. We had a good talk today. Thank you...Mr. Sekiguchi, is there anything you want?"
 
 "Books!" I answered him in a loud voice.
 

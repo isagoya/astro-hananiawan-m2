@@ -271,7 +271,7 @@ On November 4, 1986, the evening edition of The Mainichi Newspaper carried the m
 >
 > "Looking back on the course of this argument, my ‘declaration of innocence’ began to seem like a too superficial ‘general remark’. But Mr. Fuyu’s third essay was so severe as to silence the opponents, and I wondered if I was the only one who felt that his sense of being victimized had been aggravated to emotional..."
 >
-> Rather, I felt that his attitude was to stick to his own opinion and not to listen to others. In addition, his reference to the ‘removal of the statue of Damien’ as the ‘general opinion’ of the association was not appropriate. When I first attended their meeting in January 1986, they talked about it only a little. I think Mr.Fuyu had already finished his text by then. It was after the statue had been
+> Rather, I felt that his attitude was to stick to his own opinion and not to listen to others. In addition, his reference to the ‘removal of the statue of Damien’ as the ‘general opinion’ of the association was not appropriate. When I first attended their meeting in January 1986, they talked about it only a little. I think Mr. Fuyu had already finished his text by then. It was after the statue had been
 > removed, and the meeting was adjourned for lack of time without a vote, but I thought from the beginning that it was going too far to demand its removal...
 >
 > It is necessary to make our general opinion known to the outside world.

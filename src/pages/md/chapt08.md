@@ -10,13 +10,13 @@ In March 1969, the buds of the cherry blossom avenue began to change color.
 
 "Mr. Iha, are you free tomorrow? I'm sorry to rush you, but I need your help to proofread the conference program. Can you come with me to the printing office in Nakano Ward?"
 
-Mr. Yabe Hiroaki, former secretary general of the Tokyo Nursery School Labor Union (now director general of the Japan Elderly Welfare Problem Research Society), approached me. I met him at the Japanese Association for the Study of Issues of Persons with Disabilities, and we were close friends visiting each other. After finishing proofreading, Mr. Yabe led me on a tour of the Tokyo Colony work area. At the entrance to the two-story block building factory were signs lined up that read "Tokyo Colony Corporate Headquarters" and "Secretariat of the National Association of Colonies for Social Welfare"
+Mr. Yabe Hiroaki, former secretary general of the Tokyo Nursery School Labor Union (now director general of the Japan Elderly Welfare Problem Research Society), approached me. I met him at the Japanese Association for the Study of Issues of Persons with Disabilities, and we were close friends visiting each other. After the proofreading, Mr. Yabe led me on a tour of the Tokyo Colony work area. At the entrance to the two-story block building factory were signs lined up that read "Tokyo Colony Corporate Headquarters" and "Secretariat of the National Association of Colonies for Social Welfare"
 
-I stopped in front of the frame hanging on the wall and turned discolored.
+I stopped in front of the frame hanging on the wall that has started discolor.
 
 > Our Pledge
 >
-> (Pioneer Road)  
+> (Pioneer Path)  
 > 1.We are the pioneers who open roads where no one has dared to go.  
 > (Joy of Work)  
 > 2. We feel that life is worth living when we work hard against adversity rather than spend in comfort and receive pity.  
@@ -29,7 +29,7 @@ I stopped in front of the frame hanging on the wall and turned discolored.
 
 "What is this, Mr. Yabe?"
 
-"Oh, this is the policy of the National Colony Association, which has its office here." I heard that they formulated it in 1967 after a long discussion. Their policy consists of the introduction and 'Our Pledge'.
+"Oh, this is the policy of the National Colony Association, which has its office here." I heard that they formulated it in 1967 after a long discussion. Their policy consists of the forward and 'Our Pledge'.
 
 "Could you wait a little while for me to write them down?"
 
@@ -57,17 +57,17 @@ Two days later I received the "Monthly National Colony" file.
 
 My eyes were glued to the message written by Chairman Nomura Minoru for the first issue in February 1961.
 
-> "This association was born as an organization for nationwide communication and cooperation among those who struggle with the difficulties of returning to society, not only for themselves, but also for the sake of others who suffer from the same illnesses and get stuck....... (omission)
+> "This association was born as an organization for nationwide communication and cooperation among those who struggle with the difficulties of returning to society, not only for themselves, but also for the sake of others who suffer from the same illnesses and get stuck. ...
 >
 > What narrows their paths? We all know that there are many problems and none of them is small. Not only we, but also officials, scientists, doctors and social workers understand it. Although some measures have been taken, albeit in a meager and crude way, there are still a number of tuberculosis survivors who are in trouble, suffering from the burden of their lives and worried about tomorrow's relapse.
 >
-> The problem is too big, too complicated, too inaccessible. This is the voice of the public. But those who cannot stand idly by, those who feel it in their own skin, have no choice but to stand up. Here are two different approaches to the problem, one from the outside, the other from the inside. (later omission)"
+> The problem is too big, too complicated, too inaccessible. These are the general comments. But those who cannot stand idly by, those who feel it in their own skin, have no choice but to stand up. Here are two different approaches to the problem, one from the outside, the other from the inside. ..."
 
 I also found that in the National Colony Monthly Report No. 5, August, Chairman Nomura shed light on the dream I had been searching for.
 
 > "We are in high spirits for the upcoming Tuberculosis Prevention Week at the end of October, when we will organize a meeting of the Tuberculosis Colonies scattered throughout the country. We are very small and poor in numbers and skills. There are less than 15, including those in the planning stage. The total number of cured people in the colony is 250 to 260.
 >
-> It would not be worth the buzzing of a bee to the eyes of politicians or businessmen. Even the word in high spirit might be common only among us.
+> It would not even worthy of the buzzing bee to the eyes of politicians or businessmen. Also the word in high spirit might be common only among us.
 >
 > However, a preparatory meeting was held at the end of July, and a total of 10 institutions had gathered, some from as far away as Yamagata, Fukuoka, Kumamoto, Yamaguchi, Nagano and Kanagawa prefectures.
 >
@@ -79,9 +79,9 @@ I also found that in the National Colony Monthly Report No. 5, August, Chairman 
 >
 > For that reason I expect. I expect a lot. Not because I have any influential background, such as political, ideological or social. It is just to win without fighting.
 >
-> That is why I expect it.
+> That is why I have high expectations for it.
 >
-> I think Tokugawa Ieyasu (Japan's first general in the Edo period) must have felt the same when he considered which side to take in the stone battle on the bank of the Abeno River. People are strong when they are weak and can live most purely when they are the fewest.(later omission)"
+> I think Tokugawa Ieyasu (Japan's first general in the Edo period) must have felt the same when he considered which side to take in the stone battle on the bank of the Abeno River. People are strong when they are weak and can live most purely when they are the fewest. ..."
 
 Examined in the relationship between the social welfare policies of the time, the Council for the Employment of the Physically Handicapped finally reported its measures on "Promoting Employment of Persons with Severe Physical Disabilities, Cured of Tuberculosis, and Mentally Retarded" only in May of that year, and it was surprising that the statements of Chairman Nomura were full of foresight so much.
 
@@ -97,13 +97,13 @@ I visited the Tokyo Colony on March 28.
 
 I was taken to the office, a room the size of eight tatami mats divided by a partition of blue cloth. In the room on the left, two ladies sat at their desks doing office work. In the inner room there was a sofa with its springs sticking out.
 
-"How do you do? My name is Iha. I want to work here and came to talk to you. How do I get to work here?"
+"How do you do? My name is Iha. I want to work here and came to talk to you. How can I get a job here?"
 
 The man, who introduced himself as a case worker, looked surprised at my sudden broaching of the subject.
 
 "Where do you live?"
 
-"I'm staying at Tama Zenshoen in Higashi Murayama Ward for now. But I have permission to leave, so I can leave the facility at any time."
+"I'm staying at Tama Zenshoen in Higashi Murayama Ward for now. But I have permission to leave, so I can get out of the facility at any time."
 
 "Tama Zenshoen? Is that for Hansen's disease patients? Then you have had the disease, haven't you?
 
@@ -113,7 +113,7 @@ The man, who introduced himself as a case worker, looked surprised at my sudden 
 
 "No, I haven't."
 
-"Oh no. Please contact the welfare office of your jurisdiction first...without their introduction paper...your coming in person causes a little trouble..."
+"Oh no. Please contact the welfare office of your jurisdiction first...without their introduction ...your coming in person causes a little trouble..."
 
 "I'm sorry to bother you. As Mr. Yabe suggested me to, and so on..."
 
@@ -173,7 +173,7 @@ Her eyes were filled with tears.
 
 "Sure, but you cannot talk with me directly. Please tell my name."
 
-"Give me the phone number. I will arrange for him to call you."
+"Give me your phone number. I will arrange for him to call you."
 
 "Thank you very much."
 
@@ -229,7 +229,7 @@ I wrote my name and address on the paper.
 > National Sanitarium Tama Zenshoen  
 > Iha Toshio
 
-"You are good with hands. You write much better than I do."
+"You write skillfully, much better than I do."
 
 Mr. Shirabe picked up a telephone.
 
@@ -255,9 +255,9 @@ Ms. Mori took my hands close to her and examined their functions.
 
 "Thank you very much. I'll call you later."
 
-"Mr. Iha. I heard that you've told yourself that you are recovering from Hansen's disease."
+"Mr. Iha. I hear that yourself recovered from Hansen's disease."
 
-"Yes, I have. I would like to have a job without hiding the fact that I have recovered from Hansen's disease as much as possible."
+"Yes, I do. I would like to have a job without hiding the fact that I have recovered from Hansen's disease as much as possible."
 
 "I see. I myself suffered from tuberculosis for a long time, so I think I have medical knowledge. A few days ago, I visited the Ministry of Health and Welfare and saw that they were mobilizing the guards to provide a formidable security presence against the Hansen's disease patients' appeal movement. An official in charge ordered the guards, "Do not let them take a single step here. I was angry at the attitude of the authorities. We have to stop this nonsense as soon as possible..."
 
@@ -305,11 +305,11 @@ Mr. Shirabe, the general manager, made the final decision.
 
 However, there was one last problem to solve. It was who could be my roommate in the dormitory.
 
-Mr. Shirabe had anticipated the possibility that no one would agree to be with me. He had also decided to let me stay in his own house in case things went wrong. But this concern was also dispelled by the words of Mr. Hideo Takahashi, who suffered from cerebral palsy.
+Mr. Shirabe had anticipated the possibility that no one would agree to be with me. He had also decided to let me stay in his own house in case things went wrong. But this concern was also dispelled by the words of Mr. Takahashi Hideo, who suffered from cerebral palsy.
 
-"He is fine with my room. I believe in medicine and science!"
+"He can stay in my room. I believe in medicine and science!"
 
-## Bottom of Bowl
+## Underside of Bowl
 
 I was admitted to Tokyo Colony on June 2, 1969.
 
@@ -323,17 +323,17 @@ In the dining room, when I had finished my meal, I usually put my dishes away. T
 
 -----What?
 
-There was a round mark on the back of the bowl. The cook hurriedly picked up the bowl and wrapped it in her apron.
+There was a circle marked on the underside of the bowl. The cook hurriedly picked up the bowl and wrapped it in her apron.
 
------What was that round mark? Why was she in such a hurry? At the morning table the next day, I pretended to be casual and picked up all the dishes in front of me and checked them. As expected, I saw round marks on the backs of all my dishes. It was the same as yesterday.
+-----What was that circle? Why was she in such a hurry? At the morning table the next day, I pretended to be casual and picked up all the dishes in front of me and checked them. As expected, I found all my bowls and dishes had circles on their backs. It was the same as yesterday.
 
-I checked the back of the dishes of Mr. Hideo Takahashi, who was next to me while I helped him clear the table. There were no marks... none on Haruo's dishes either.
+I checked the back of the dishes of Mr. Takahashi Hideo, who was next to me while I helped him clear the table. There were no marks... none on Haruo's dishes either.
 
------I see, it was obvious that the utensils provided for my use were different from those of others.
+-----I see, it was obvious that the utensils provided for my use were distinguished from those of others.
 
-There was also something strange about the use of the men's shower room. I took a closer look and found that only four people were using the shower room: Mr. Haruo Takahashi, the prepress manager, Mr. Hideo Takahashi, Mr. Saburo Kusunoki, the phototypesetting machine operator, and me.
+There was also something strange about the use of the men's shower room. I took a closer look and found that only four people were using the shower room: Mr. Takahashi Haruo, Mr. Takahashi Hideo, the prepress manager, Mr. Kusunoki Saburo, the phototypesetting machine operator, and me.
 
-Eight other people went to the nearby public bathhouse "Bath for Everyone" on purpose, saying, "We want to take a bath just before going to bed. This was to avoid taking a bath with me.
+Eight other people went to the nearby public bathhouse "Bath for Everyone" on purpose, saying, "We want to take a bath just before going to bed. That was to avoid taking a bath with me.
 
 It's hard... I suddenly felt depressed.
 
@@ -377,11 +377,11 @@ Little by little, something like certainty welled up inside myself.
 
 My words must have come as a complete surprise to them. They looked at each other. Director Shirabe thought for a while and opened his mouth.
 
-"What do you think, let's wait this time. It's only been a month and a half since he came here. How about believing that they are just getting ready to take off their old clothes. If he stays the same and doesn't change, then we can think of another way."
+"What do you think, let's wait this time. It's only been a month and a half since he came here. How about believing that they are just getting ready to take off their old clothes. If they stay they are and won't change, then we can think of another way."
 
-There was no need to think of any other way; after about four months, every behavior became natural. Needless to say, the round marks on the bottom of dishes disappeared and everyone returned to the colony bathroom.
+There was no need to think of an other way; after about four months, every behavior became natural. Needless to say, the round marks on the bottom of dishes disappeared and everyone returned to the colony bathroom.
 
-Then, one by one, six young men came to the colony. Who pushed them was the caseworker I'd first met at the colony.
+Then, one by one, six young men came to the colony. Who encourageed them was the caseworker I'd first met at the colony.
 
 ## Human Shape
 
@@ -391,7 +391,7 @@ In 1972, the company was entrusted with the management of Katsushika Welfare Fac
 
 I became the chief editor of the newly established editorial department in 1972, manager of Nakano Factory in 1973, manager of Higashimurayama Printing House in 1983, manager of Colony Printing House in 1988, and the executive director of Tokyo Social Welfare Corporation and Zencolo Corporation in 1993. At the same time, I was assigned to the public role at Japan National Council of Social Welfare and Tokyo Metropolitan Bureau of Social Welfare Council.
 
-The daily life on the "welfare site" led me to a certain kind of doubts. One of them was the limit of my abilities as a welfare manager. I felt that I was losing my passion, and I was sure that the time to leave the role was near.
+The daily life on the "welfare site" led me to a certain kind of doubts. One of them was the limit of my abilities as a welfare manager. I felt that I was losing my passion, and I was sure that the time to leave the role as the chief manager was approaching.
 
 Another factor was that in 1994 the debate about the abolition of the "Leprosy Prevention Law" had begun among the people concerned. I was worried about how it would come to an end, but it was ended by a "total repentance theory" in which no one would take responsibility, as I had thought.
 
@@ -439,7 +439,7 @@ I made the regular management report to Mr. Nomura.
 
 The director's expression changed immediately.
 
-"Mr. Iha, when did we start selecting people with disabilities for our company? Isn't it the other way around? People with disabilities choose Tokyo Colony, don't they? If the Colony closes its doors to them after just one interview, they will never get another chance, will they? I think their abilities can only be confirmed with time, can't they? Where would they go if they were rejected at the interview stage?"
+"Mr. Iha, when did we start selecting people with disabilities for our company? Isn't it the other way around? People with disabilities choose Tokyo Colony, don't they? If the Colony closes its doors to them after just one interview, they will never get another chance, won't they? I think their abilities can only be confirmed with time, can't they? Where would they go if they were rejected at the interview stage?"
 
 It was the rebuke as if I had been drenched with cold water from my head to my feet.
 
@@ -457,7 +457,7 @@ Mr. Sawano, the caseworker, rushed to the principal's room early in the morning.
 
 Then he works hard as if nothing had happened. It had been twelve years since he came to the colony after graduating from the special school. We expected him to change and let him move from the dormitory to the welfare apartment in Nakano Ward and challenge himself to an independent social life.
 
-He cried over his broken love, drank over the failure of his work, sighed and locked himself in his room, saying he could not see his own future, and his every situation became the subject of discussion by the institution's case workers.
+He cried over his broken love, drank over the failure of his work, sighed and locked himself in his room, saying he could not see his own future, and his every situation became the subject of discussion among the institution's case workers.
 
 "He was not ready for life outside the dormitory, he needed certain restraints."
 
