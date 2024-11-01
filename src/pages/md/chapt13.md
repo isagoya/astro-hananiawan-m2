@@ -38,7 +38,7 @@ Follow Damien!
 
 Robert Louis Stevenson, the author of ‘Treasure Island’, visited the island during Father Damien’s lifetime, even after his death, had written an account of his trip in which he said:
 
-> ‘The fools will deny the existence of God when they see the misery of the lepers, but even the fools will worship God in silence when they see how the sisters care for them.'
+> "The fools will deny the existence of God when they see the misery of the lepers, but even the fools will worship God in silence when they see how the sisters care for them."
 > [^1] > [^1]: Later, many Hansen’s disease doctors questioned the idea that Fr. Damien contracted the disease during his relief work on Molokai Island. Some claim, though he did contract the disease, it must have been in his childhood or before his visit to Hawaii.
 
 In the March 1984 issue of ‘Tama’ (the monthly magazine of Tama Zenshoen), Fuyu Toshiyuki published his article entitled "The Statue of ‘Damien Disfigured’".
@@ -51,7 +51,7 @@ Mr. Fuyu’s thesis gave rise to the later arguments, mainly in the magazine ‘
 
 > "The residents of the sanatorium must have heard of Father Damien once or twice. I heard his name several times when I was in the sanatorium. I do not remember them as good impressions. It was because Father Damien was considered to be the only adult ‘leper’ in the over 60-year history of the sanatorium.
 >
-> The fact that Hansen’s disease is not contagious, except in infants, was known early on. The fact that not a single staff member had contracted the 　 disease was a powerful weapon in the fight against the disease. But as if to 　 put a damper on it, ‘absolute isolationists’ said, ‘You know, there’s Damien,　 isn’t there? ‘That was really hard..."
+> The fact that Hansen’s Disease is not contagious, except in infants, was known early on. The fact that not a single staff member had contracted the 　 disease was a powerful weapon in the fight against the disease. But as if to 　 put a damper on it, ‘absolute isolationists’ said, ‘You know, there’s Damien,　 isn’t there? ‘That was really hard..."
 >
 > "...the standing statue of ‘Damien Disfigured’, with nodules erupting from his face and the backs of his hands, stood well over 2 meters on the 　 pedestal. Wearing the formal gauntlet of Father and broad-brimmed hat,　 the slightly downcast figure looked both frightening and somewhat sad..."
 
@@ -70,7 +70,7 @@ Mr. Fuyu presented his essay "‘Damien Disfigured’ After" in May 1985. It con
 
 > "On the east side of the entrance to the doctor’s office is the bronze bust of the late former director Hayashi Yoshinobu...
 >
-> Actually, it is the work of Funakoshi Yasutake, who made the statue of ‘Damin Disfigured’."
+> Actually, it is the work of Funakoshi Yasutake, who made the statue of ‘Damien Disfigured’."
 >
 > "It is too natural that the bust of Mr. Hayashi is realistic, capturing the features of the subject very well, but this realistic technique could be said to the statue of Damien..."
 >
@@ -154,7 +154,7 @@ I presented "The Silence of Damien," the counterargument to Mr. Fuyu, in the Dec
 >
 > The society that can only be changed by waiting is the society that does not progress, and the society that waits idly is the society to come, which is difficult to live in for the socially weak.
 >
-> My body gets hot when I stand in front of the statue of ‘Damien Disfigured’. His sad eyes stare at man. His stooped posture has loneliness all by itself.
+> My body gets hot when I stand in front of the statue of ‘Damien Disfigured’. There are sad eyes looking at people. His stooped posture has loneliness all by itself.
 >
 > Mr. Funakoshi is the artist who engraves objects realistically, moving away from academic realism and brewing up feelings of time and life.
 >
@@ -172,7 +172,7 @@ I presented "The Silence of Damien," the counterargument to Mr. Fuyu, in the Dec
 >
 > It is the low dimensional reading to understand Mr. Funakoshi’s state of mind at that moment, in connection with ‘disfigured’ and ‘devil’.
 >
-> It is said that there were two photographs that inspired Mr. Funakoshi to engrave the statue of Father Damien. One was when he was 13 years old, and the other was 3 months before his death from illness.
+> It is said that there were two photographs that inspired Mr. Funakoshi to engrave the statue of Father Damien. One was when he was 13 years old, and the other was three months before his death from illness.
 >
 > Mr. Funakoshi was robbed of his heart by Father Damien’s noble way of life, and the more he approached the subject realistically, the more the human suffering of Damien, who had left a note saying, ‘Don’t show this picture to my family,’ must have reached his ears.
 >
@@ -184,7 +184,7 @@ I presented "The Silence of Damien," the counterargument to Mr. Fuyu, in the Dec
 >
 > Today, ‘Damien Disfigured’ is under attack by some as ‘an art that encourages prejudice’.
 >
-> To attack it only for its ‘ugliness’ is to deny the whole life of the artwork, considering the intentions behind its creation.
+> If the attack is only for its ‘ugliness’, it is to deny the whole life of the artwork, considering the intentions behind its creation.
 >
 > Mr. Fuyu also criticizes Mr. Funakoshi, saying that his creation of ‘Damien Disfigured’ was itself the result of his ignorance and lack of common sense about Hansen’s disease.
 >
@@ -250,7 +250,7 @@ Mr. Fuyu published his third essay in ‘Tama’, Feb. 1986.
 >
 > ...I have never thought of avoiding the discussion as art. Why did I not write it? The reason is obvious. Because the essence of this argument lies where art has nothing to do with it. To add a little, neither artistic superiority or inferiority affects the strength or weakness of prejudice, nor the essence of the argument is the same whether the writer is famous or unknown.'
 >
-> 'Certainly, prejudice and discrimination may not be something that will go away if left alone.
+> 'Certainly, prejudice and discrimination may not be something that will go away if left alone Can all people fight like Mr. Iha? And what did Mr.Iha gain from fighting?.
 >
 > It is not always the right person who wins the game in the world. Human
 > life cannot be built on logic or public stances alone.
@@ -261,7 +261,7 @@ Mr. Fuyu published his third essay in ‘Tama’, Feb. 1986.
 >
 > But as far as people are concerned, no matter how respectable a person is, he will make a mistake. It happens that you do something for good and the result is the opposite. I know Mr. Funakoshi to be a conscientious man.'
 >
-> 'However, since not only I, but also several people who have returned to society and seen the statue, have come to the conclusion that there is a problem with the statue, it is natural to protest... ‘
+> 'However not just me, but also several people who have returned to society and seen the statue, have come to the conclusion that there is a problem with the statue, it is natural to protest, isn't it?... ‘
 
 Looking at his rebuttal, I had to read the end of the argument between the lines. Because I felt that it was void to continue the argument as it was.
 
@@ -326,4 +326,4 @@ Why did they push Hansen’s patients into the depths of grief?
 
 Do you know?
 
-That they did not even allow the Hansen’s patients to live together...
+That they did not even allow the Hansen’s patients to live together in human society...

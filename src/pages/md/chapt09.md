@@ -10,7 +10,7 @@ January 1970. I finished my training period and received my first salary. It was
 
 Until then, I had met her several times while I was a student at Central Labor Academy (Chūōrōdō Gakuin), but I had only bowed slightly and dared not speak to her.
 
-"Dear Akiko, I have finally been able to work and live on my own. The conditions of three years ago, when you turned down to have friendly relationship with me, are now resolved. Here is my formal proposal to you..."
+"Dear Akiko, I have finally been able to work and live on my own. The conditions of three years ago, when you refused to have friendly relationship with me, are now resolved. Here is my formal proposal to you..."
 
 On Sunday of the following week I wrote to Akiko, who visited me at the colony.
 
@@ -62,13 +62,13 @@ It had been two hours since the three of us sat face to face.
 
 Akiko's father grabbed a cup with both hands and emptied it in one gulp, then took a deep breath and said bluntly.
 
-"I don't care, even if you two die in a ditch... Do whatever you want."
+"I don't care even if you both die in a ditch... Do whatever you want."
 
 We bowed our heads deeply before him.
 
 We were to be married on September 12, 1971.
 
-Akiko's parents, who had said, "We will allow the marriage but not attend the wedding," had come from Kagoshima. Of course, my parents came from Okinawa, accompanied by Yutaka, my brother-in-law.
+Akiko's parents, who had said, "We will allow your marriage but not attend the wedding," had come from Kagoshima. Of course, my parents came from Okinawa, accompanied by Yutaka, my brother-in-law.
 
 The night before the wedding, we had dinner at the inn in front of Yoyogi Station, with both parents present. Akiko's father, however, got drunk and started hurling sharp words at my father.
 
@@ -94,7 +94,7 @@ Our wedding ceremony was held by Mr. and Mrs. Nomura as matchmakers, and "The Co
 
 "I have refused the matchmaker's request as far as possible, but this case is exceptional. The world is a strange place, isn't it? Dr. Hashizume Chozo, who performed an orthopedic surgery on Mr. Iha, is my old friend and our mutual friend. I served as the matchmaker for my old friend, and Mr. Iha served as the host that day."
 
-Our greeting was very tense.
+Our greeting was very stiff.
 
 "Hansen's disease became the tie that bound us together. One suffers from it, the other cares for it, and we talked about discrimination, our way of life, and decided to get married. We are not old enough to talk about our past. On the other hand, the price of our youth was not so low as to forget the tears and anger of the past. It is said that birds singing in the spring know the sword of cold in the winter wind. We begin our new life in the goodwill of all of you."
 
@@ -200,7 +200,7 @@ The executives of NHK, the Liberal Arts Section, the Public Relations Section an
 
 All three of them repeated it again and again, bowing their heads.
 
-I refused their request. In several of our meetings, the fact of the cancellation came out to my persecution.
+I refused their request. In several of our meetings, the real situation of the cancellation came out for the first time by my pursuit.
 
 On the day of the broadcast, a Hansen's disease survivor, accompanied by a representative, visited NHK.
 
@@ -214,7 +214,7 @@ They kept repeating the same words.
 
 "Prejudice is social consciousness toward people. That's why you focused the camera on me, the real being, right?
 
-They accompanied Mr. N., the former Hansen's disease patient's representative, on their fourth visit.
+They took Mr. N., the former Hansen's disease patient's representative with them on their fourth visit.
 
 After exchanging name cards, Mr. N., who called himself the group leader, stared at me and opened his mouth.
 
@@ -230,7 +230,7 @@ After exchanging name cards, Mr. N., who called himself the group leader, stared
 
 "What do you mean by appropriate measures? Something like compensation?"
 
-"That includes"
+"That can also be included"
 
 "Who are you asking for? Is it against NHK or against me?"
 
@@ -246,7 +246,7 @@ I continued to insist that the program be broadcast.
 
 In March of the following year, the document "A Certain Marriage" was finally broadcast as the last episode of "Human Archipelago." The next day, Mr. Ishii, the landlord of our apartment, visited us.
 
-"I was watching TV. It was very nice... By chance, Mr. K. called me and I was on my way back. I wondered whether I should tell you or not. But Mr. K. said, "It seems that Mr. Iha is the one who recovered from Hansen's disease. I want you to evict him from this apartment because I don't want to live in the same apartment with him. And I refused such an unreasonable request. Then he said, 'If you don't do this, we're leaving. When he said that, there was no way, so we dissolved the contract..."
+"I watched the TV. It was very nice... As it happens, Mr. K. called me out and I am on my way back now. I wondered whether I should tell you or not. But Mr. K. said, "It seems that Mr. Iha is the one who recovered from Hansen's disease. I want you to evict him from this apartment because I don't want to live in the same apartment with him. And I refused such an unreasonable request. Then he said, 'If you don't do this, we're leaving. When he said that, there was no way, so we dissolved the contract..."
 
 "I'm sorry about that."
 
@@ -282,7 +282,7 @@ We immediately had a conversation with two committee members.
 
 Even though we had expected some reaction regarding the day care of our newborn, when we knew it was as we had expected, the only ray of light would fade.
 
-"Just wait. Giving our baby to your center is not just for breastfeeding. We just want to raise our child normally. The nursery has its existence value because all the children grow up together, doesn't it? We don't want to hire a private nurse to take care of our child. Besides, I have recovered from my illness. The medical facility where you work has verified that I've recovered and let me go back to work. Why can't his child take advantage of the company's daycare center?"
+"Just wait. Leaving our baby to your center is not just for the nursery care. We just want to raise our child normally. The nursery has its existence value because all the children grow up together, doesn't it? We don't want to hire a private nurse to take care of our child. Besides, I have recovered from my illness. The medical facility where you work has verified that I've recovered and let me go back to work. Why can't his child take advantage of the company's daycare center?"
 
 "It is not the medical issue. It's the emotional problem."
 
@@ -290,11 +290,11 @@ The private negotiations made little progress. The delivery date was approaching
 
 We held a meeting of the Parents' Association with Dr. Arai, Ms. Sato, the caseworker, and two of us.
 
------In spite of our child was not yet born, we were to discuss whether or not to send the baby to the nursery. I joined them, but I could not get rid of my feeling that something was wrong. There was a heated debate between the doctor and the leaders. But what surprised me was that the most of sanatorium staff was against it.
+-----In spite of our baby was not yet born, we were to discuss whether or not to send the baby to the nursery. I joined them, but I could not get rid of my feeling that something was wrong. There was a heated debate between the doctor and the leaders. But what surprised me was that the most of sanatorium staff was against it.
 
 Suddenly, Mr. C., one of the sanatorium staff, who was drunk, came into the room and shouted in a loud voice.
 
-"You won't accept Mr. Iha's child because of the opposition of parents other than the sanatorium staff? That's a damned lie! It is you, the sanatorium staff, who are objecting. Don't make me laugh. The union that protects the interests of the workers, huh? Akiko, hold on. I'll be on your side, even if it's just me!"
+"You won't accept Mr. Iha's child because of the opposition of parents other than the sanatorium staff? That's a damned lie! It is you, the sanatorium staff, who are objecting. Don't make me laugh. The union that protects the interests of the workers, huh? Akiko, keep it up. I'll be on your side, even if it's just me!"
 
 The union officials who moderated the meeting turned pale at the sudden statement of the intruder. After that, the situation of the meeting changed completely.
 
@@ -302,7 +302,7 @@ Then the parents' association voted by an overwhelming majority to admit our chi
 
 Provided that they asked me to make a firm promise that I would never set foot in the patient area of the facility again. I agreed to their request and bowed my head to them.
 
-"Please take care of my child."
+"Please take good care of my baby."
 
 Akiko was in tears on our way home.
 
@@ -316,7 +316,7 @@ On July 2, 1972, we had our first baby. I named him Ryo.
 
 After Akiko's maternity leave was over, he was left to the nursery school. However, some parents still refused to let their children take naps next to Ryo, or refused to let their children wear Ryo's clothes even when the nursery ran out of changing clothes.
 
-After twelve years, Mr. M., who had retired from the kindergarten, visited me at Tokyo Colony. The receptionist told me about his visit, and when I invited him into the meeting room, he suddenly put his hands on the floor and cried.
+After twelve years, Mr. M., who had retired from the kindergarten, visited me at Tokyo Colony. The receptionist told me about his visit, and when I invited him into the meeting room, he suddenly put his hands on the floor and began to cry.
 
 "It has been a long time. I really wanted to meet you and apologize. I was very sorry for you. We should have been more resolute then. There is no regret enough. I know I hurt Ryo's heart. I couldn't refuse the demands of some of the parents... I am ashamed of it. I will regret it for the rest of my life."
 
@@ -334,15 +334,15 @@ They built the staff-only apartment for six families next to the Tama Zenshoen. 
 
 Akiko's co-workers had applied for the public recruitment using our names without our knowledge. Their competition rate was more than four times higher. Lucky or unlucky? We found Akiko's name among the winners on the board. But one by one, the applicants declined, and in the end, even the substitute applicant for the fifth room did not come out.
 
-Half a year passed and we were still the only residents in Holly House. Eventually, the public recruitment was done in a general real estate agency storefront.
+Half a year passed and we were still the only residents in the Holly House. Eventually, the public recruitment was done in a general real estate agency storefront.
 
 With that as a starting point, the smile disappeared from Akiko's face. After a while, she started pleading with me every time.
 
 "Dad, please stop saying you're cured of Hansen's disease. It is enough to say that you are only handicapped in your limbs..."
 
-Our children are growing up. Let's move to some countryside where no one knows your past. Since you are supported by everyone in the colony, you don't understand our real suffering! You always talk about the theory of existence... Please open your eyes and take a good look at reality!
+Our children are growing up. Let's move to some countryside where no one knows your past. Since you are supported by everyone in the colony, you don't understand our real suffering! You always talk the theory on the things are... Please open your eyes and take a good look at reality!
 
-Mutual misunderstandings began to occur. Eventually the problem grew to the point where the way of life between us became controversial. The gap between us grew wider and wider.
+Mutual misunderstandings began to occur. Eventually it developed into a dispute how to live. The gap between us grew wider and wider.
 
 We got divorced in August 1980.
 
@@ -352,7 +352,7 @@ On August 7th. I came home and there were no voices of the children who used to 
 
 There was a note from Akiko on the table.
 
----Thank you for a long time. I will take only happy days with me. As we promised, please do not try to find our destination until the children visit you of their own will...
+---Thank you for a long time. I will take only happy days with me. As we promised, please do not try to find our whereabouts until the children visit you of their own will...
 
 The sound of every families of this past eight years had slipped into underground.
 
@@ -360,7 +360,7 @@ The sound of every families of this past eight years had slipped into undergroun
 
 ## Crests of Waves
 
-It was the early summer of 1983. Suddenly, I wanted to feel the breeze in the birthplace of Dan Fumio’s literature．
+It was the early summer of 1983. Suddenly, I wanted to feel the breeze in the birthplace of Dan Kazuo’s literature．
 
 Last year, I walked around Fukugon Temple in Yanagawa City and Nokonoshima Island by myself, but this time I went to Fukuoka, accepting the kind words of Mr. Matsuo, the manager of Zencolo and Fukuoka Colony.
 
@@ -370,7 +370,7 @@ As the car passed through Ikinomatubara, Nokonoshima appeared again.
 
 "How did you enjoy Nokonoshima Island last year?"
 
-"Yes, I visited Dan Kazuo’s second house. There was no sign of anyone living there, but I excused myself and entered the house through the garden. There was a dock below, and I could see Fukuoka City on the opposite shore. I suppose he was driven away by various pains in this landscape...Man can easily endure the pains of disease...Healing from the pains of the heart is more difficult...This house was filled with the passions of three women. Ritsuko, who died, Keiko, who appears in his novel ‘House on Fire’, and his wife. I think he was always closely watched by the three of them and would not fit into that small house.
+"Oh, I visited Dan Kazuo’s second house. There was no sign of anyone living there, but I excused myself and entered the house through the garden. There was a dock below, and I could see Fukuoka City on the opposite shore. I suppose he was driven away by various pains in this landscape...Man can easily endure the pains of disease...Healing from the pains of the heart is more difficult...This house was filled with the passions of three women. Ritsuko, who died, Keiko, who appears in his novel ‘House on Fire’, and his wife. I think he was always closely watched by the three of them and would not fit into that small house.
 
 "Your way of reading books is always a little different from others..."
 
@@ -380,7 +380,7 @@ I wondered if the fine June weather would keep pumping the seawater up into the 
 
 "I don’t have too much to give up yet."
 
-"You have enough more than you can handle, right? If you wish, shall we go back to Atago Shrine?"
+"You have enough more than you can handle, right? If you have any wish, shall we go back to Atago Shrine?"
 
 Mr. Matsuo teased me as usual.
 
@@ -410,7 +410,7 @@ His wife greeted me. He had described her as "old-fashioned and unassuming".
 
 I was ushered into the living room where the banquet was being prepared.
 
-"You are almost forty and still want to follow in the footsteps of a man of letters, you are naive despite your appearance. Neither independence nor a house on fire suits you. Are you bewitched by women?"
+"You are almost forty and still want to follow in the footsteps of a man of letters, you are naive despite your appearance. Neither a villain nor a living hell suits you. Are you in women?"
 
 I brushed off his words and stared at the cup of local liquor. I had been distracted by the gaze of the Buddha called Amitabha on the alcove, the copy of the fresco wall painting from Hōryūji Temple.
 
@@ -420,11 +420,11 @@ I brushed off his words and stared at the cup of local liquor. I had been distra
 
 "Then it is older than the current Hōryūji mural, isn’t it?"
 
-"I heard that this is the copy of a famous Japanese artist. It is said that this was my grandfather’s favorite among his collections. It’s almost as if our three generations have been watched the whole inside and outside by this Amitabha. Before the war, in the days when Buddhism was abolished, people brought my grandfather various kinds of art works from unknown sources, and this is one of them that he bought. His collections are still piled up unsorted in the warehouse.
+"I heard that this is the copy of a famous Japanese artist. It is said that this was my grandfather’s favorite among his collections. It’s almost as if our three generations have been watched the whole inside and outside by this Amitabha. Before the war, in the days when there was a current of thoughts that advocationed the expulsion of Buddhism, people brought my grandfather various kinds of art works from unknown sources, and this is one of them that he bought. His collections are still piled up unsorted in the warehouse.
 
-"Sweet face..."
+"It has good face..."
 
-"You’re a member of the management, aren’t you? You should be more stubborn. There is nothing more disgusting than a temporary emotion... You are not going all the way..."
+"You’re a member of the management, aren’t you? You should be more determined. There is nothing more disgusting than a temporary emotion... You are not all out..."
 
 "The sound of waves from the Genkai Sea continues for so long!"
 
@@ -432,7 +432,7 @@ I brushed off his words and stared at the cup of local liquor. I had been distra
 
 "No, I don’t."
 
-"Forget them once and for all. It’s been three years, right? You’d better fall in love sometime. You look like bearing Hansen’s disease on your shoulder all by yourself, but martyrs live a smarter way of life."
+"You'd better forget them once and for all. It’s been three years, right? Why not fall in love once in a while. You look like bearing Hansen’s disease on your shoulder all by yourself, but martyrs live a smarter way of life."
 
 "Oh, what’s wrong with you? The lights are out. Thank you for coming. My name is Kayoko. I really appreciate your support of my husband."
 
@@ -460,11 +460,11 @@ I brushed off his words and stared at the cup of local liquor. I had been distra
 
 "It just came to my mind..."
 
-"Kayoko, bring me my accessories bag over there. I wrote it down on the notebook so I wouldn’t forget. Here it is."
+"Kayoko, can you get me my bag. I wrote it down so that I wouldn’t forget it. Here it is."
 
 Mr. Matsuo opened his notebook and read my haiku.
 
-> > Moon reflects on black hair combed by boxwood
+> > The moon reflects on black hair combed by boxwood
 
 "It’s beautiful, isn’t it? I wonder if he is in love with someone else. Besides, he is crazy about Dan Kazuo now."
 
@@ -490,14 +490,14 @@ We walked down the doglegged road for a while to the fishing port where three bo
 
 "Uh..."
 
-"Children grow up without parents, without parents they grow up better... Why not? Remember Dan Kazuo’s last haiku?"
+"Children grow up without parents, without parents they grow up better... Why not? By the way, do you remember Dan Kazuo’s last haiku?"
 
-> **Mogari Whistle, how many nights to blow with aspire to
+> **Mogari whistle, how many nights to blow with aspire to
 > meet the flowers**
 >
 > **モガリ笛 いく夜もがらせ 花ニ逢はん**
 
-"That’s it! Mogari Whistle. The whistling sound of a winter night blowing through the bamboo fence. You should not hear the sound with your ears, but react to it with your guts..."
+"That’s it! Mogari Whistle. The whistling sound of a winter night blowing through the bamboo fence. You should not hear the sound with your ears, but recieve it with your heart..."
 
 His footsteps seemed unsteady, but I continued to walk with him.
 

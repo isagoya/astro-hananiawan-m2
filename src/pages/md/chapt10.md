@@ -66,7 +66,7 @@ I could hear the sound of him coming down the stairs through the phone receiver.
 
 "Yes, I am."
 
-"Well, can I go to Tokyo? Can I visit you? The winter vacation is coming soon. I’d like to go to Tokyo to see you on Sunday the 23rd."
+"Well, can I go to Tokyo? visit you? The winter vacation is coming soon. I’d like to go to Tokyo to see you on Sunday the 23rd."
 
 "Next Sunday, right? I don’t mind. Have you talked enough with your family?"
 
@@ -78,19 +78,19 @@ I could hear the sound of him coming down the stairs through the phone receiver.
 
 "I see. What time should I go to Tokyo Station to meet you?"
 
-"Oh, no. You don’t have to worry about that. I remember our house in Higashimurayama. I can come by myself. It’s the 23rd. Are you sure? I’ll switch the phone with my mother."
+"Oh, no. You don’t have to worry about that. I remember our house in Higashimurayama. I can get there by myself. It’s the 23rd. Is that okay? I’ll switch the phone with my mother."
 
 "I’m sorry to bother you, and I appreciate your kindness."
 
-On the 23rd of December, I had been restless since the early morning. I was thinking about how to meet my son again after ten years. Well, let it be...anyway, be as calm as I can. I made up my mind and prepared myself.
+On December 23, I had been restless since the early morning. I was thinking about how to meet my son again after ten years. Well, let it be...anyway, be as calm as I can. I made up my mind and prepared for the situation.
 
 -----Ding Dong-----
 
-"Hello! I’m here. Ryo is here."
+"Good evening! It's me. Ryo is here."
 
 "Oh, the door is open."
 
-I went to the front door where my son was, looking embarrassed. I looked at him, looking for any sign of him from when we parted eight years ago. It was shameful, but I could not be sure to fill in his appearance, his figure, and the void of ten years.
+I went to the front door where my son was standing, looking embarrassed. I looked at him, seaching for any sign of him from when we parted eight years ago. It was shameful, but I could not be sure to fill in his appearance, his figure, and the void of ten years.
 
 -----In that case, I might not be able to call out "Hi!" to him if we happened to pass each other on the way-----
 
@@ -128,7 +128,7 @@ His ‘Tokyo Kitatama Ward Map’ looked like it had been repaired several times
 
 "Is Yui doing well?"
 
-"Yes, she is preparing for the high school entrance exam next spring and says she is in her last sprint from now on. It’s better than doing nothing. You know, we tell her it’s a little late."
+"Yes, she is preparing for the high school entrance exam next spring and says she is in her last spurt from now on. It’s better than doing nothing. You know, we tell her it’s a little late."
 
 "Well, where do you live now?"
 
@@ -156,17 +156,17 @@ He kept crying until two days before we left, and I was in trouble. Therefore I 
 
 "Yes, it will."
 
-As soon as he heard my answer, Ryo’s expression changed. It was enough to scare his father.
+As soon as he heard my answer, Ryo’s expression changed, which was enough to startle me.
 
-"Hm, I understand. Ryo and Yui would be patient to go with mom. Can I come to dad if I can take care of myself and help you?"
+"Hm, I understand. Ryo and Yui would be patient to go with mom. Can I come to Dad when I grow up, take care of myself and help you?"
 
 "Sure."
 
 He spread his hands in front of me.
 
-I counted his fingers one by one, all ten.
+I counted his ten fingers bending them one by one.
 
-"Okay, Dad. If I’m after the tenth grade, right?"
+"Okay, Dad. you mean the tenth grade, right?"
 
 "That’s right!"
 
@@ -178,7 +178,7 @@ Every morning before I went to work, buttoning bothered me.
 
 Ryo had watched it for some time and put his hands on my shirts and said, "I’ll do it for you." After that, buttoning became Ryo’s daily chore. He was worried about it.
 
------He was eight years old then---so already eighteen years old-----
+-----He was eight years old then---now is already eighteen-----
 
 "Father, could you please change my family name back to Iha?"
 
@@ -202,13 +202,13 @@ Ryo had watched it for some time and put his hands on my shirts and said, "I’l
 
 "I’ve been telling Yui since she was six years old, ‘Look, this is a secret, but the real father of Ryo and Yui is in Tokyo.’"
 
-"I’m sorry, the whole reason is that I tried to do what was beyond my power. I underestimated society. As a result, I crushed you both. I have no word to answer whether I tried my best. It may sound like my self-justification, but there was no other way to get you out of a certain situation. Above all, it was necessary for your mother to feel comfortable as a woman."
+"I’m sorry, the whole reason was that I tried to do what was beyond my power. I underestimated society. As a result, I crushed you both. I have no word to answer whether I tried my best. It may sound like my self-justification, but there was no other way to get you out of a certain situation. Above all, it was necessary for your mother to feel comfortable as a woman."
 
-"In your opinion, children have no choice in their family names."
+"In your opinion, children have no choice even in their family names."
 
 "..."
 
-"It was in my mind never to say this in public... But I was lonely for a long time..."
+"I never wanted to say this in public... But I was lonely for a long time..."
 
 "..."
 
@@ -220,15 +220,15 @@ That was his last word on the subject, and he never mentioned it again. I still 
 
 not know what he really thought or how he came to that conclusion in his mind.
 
-The next day, I saw my son off at Tokyo Station. Ryo stood at the door of Super Express Hikari and called to me,
+The next day, I saw my son off at Tokyo Station. Ryo stood at the door of Super Express Hikari and called out to me,
 
-"Father, I’ll be back. And... you can go now. I hope you find the nice lady soon."
+"Father, I’ll be back. You can go now. I hope you find a nice lady soon."
 
 "None of your business!"
 
 After that, Ryo got permission from his parents in Hiroshima and began to study for four years with my financial support. After all, there was no other way for me to be accused by the miserable feeling of acting as his father only with economic support.
 
-Half a year later, I met my daughter Yui at Hiroshima Station. Afraid that she might not understand me, my ex-wife Akiko accompanied her. As I stepped out of the gate, Akiko waved at me with her stiff face.
+Half a year later, I met my daughter Yui at Hiroshima Station. Afraid that Yui might not recognize me, my ex-wife Akiko accompanied her. As I stepped out of the gate, Akiko waved at me with her stiff face.
 
 "Hi!"
 
@@ -254,7 +254,7 @@ We had no personal contact after 25 years. We only greeted each other when she o
 
 It was February 1993. I went to the supermarket after work and came home with some ingredients for dinner and found a small package hanging on the doorknob. I opened it and found two storied plates of side dishes with a letter.
 
------I cooked them with vegetables from my country. I don’t know if it’s good enough for you. No need to return the plates. From Kuma-chan.
+-----I cooked them with vegetables from my hometown. I don’t know if it’s good enough for you. No need to return the plates. From Kuma-chan.
 
 The next day, I looked up the phone number of the kindergarten where she works and thanked her. Three days later, an envelope arrived in my mailbox.
 
@@ -264,7 +264,7 @@ It had her address and phone number.
 
 It was the first time I knew her name was "Shigeko Yanagisawa" because everyone always called her Kuma-chan.
 
-"Hello, this is Iha. You should accept the principal’s message. It will be good for you to take care of the children at their level."
+"Hello, this is Iha. You had better accept the principal’s notice. It will be good for you to take care of the children at their level."
 
 After that, the relationship with Shigeko, who had appeared out of the blue, had begun. It was really strange, but with each conversation with Shigeko, my awakened heart began to receive warmth, something like happiness. My heart, which had not been opened for decades, came to life again.
 
@@ -306,7 +306,7 @@ Shunpei speaks proudly and with amazement about his new knowledge.
 
 "Really?"
 
-"Yes, it does. Besides, if children don’t play well, the earth slows down and it goes on all night, and we can’t play outside, so I’ll do my best!"
+"Yes, it does. Besides, if kids don’t play enough, the earth slows down and nights go on forever, and we can’t play outside, so I’ll do my best!"
 
 Episodes from the nursery never ended.
 
@@ -320,4 +320,4 @@ Ryo, who had gotten his job in Nagoya, and Yui in Hiroshima began visiting our n
 
 When the children come to visit us, they happily spend more time with Shigeko than with me.
 
-After a while, Ryo teased me by saying, "Dad, you’re pretty good. You have a good eye for women. Very good.
+After a while, Ryo teased me by saying, "Father, you’re pretty good. You have a good eye for women. Very good.
