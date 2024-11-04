@@ -11,9 +11,7 @@ I opened my PC to find an e-mail from my son. After a short greeting, there were
 Despite the fact that it is said to be a less infectious disease, why has it been used as a subject in literature or movies as if it were the representative status of terrible diseases?
 </dt>
 <dd>
-There are several reasons. One is the religious status of Hansen’s disease.
-
-In Japan, it first appeared in the Nihon Shoki (The Chronicles of Japan).
+There are several reasons. One is the religious status of Hansen’s disease.In Japan, it first appeared in the Nihon Shoki (The Chronicles of Japan).
 
 > "In that year, a man came from a country called Kudara. His face and body were covered with white spots, or white leprosy. People hated his strangeness and wanted to throw him into the sea. When he said, ‘If you hate my white spots, you should not raise cattle or horses with white spots all over the country. Besides, I have a little talent for making artificial gardens. So if you let me stay and use me, it will benefit your country.’ As they heard him say so, they did not expel him. They had him build Mt. Sumi and the Kure Bridge in the southern garden. They named him Michinokonotakumi or Shikomaro" (Nihon Shoki Vol.22).
 
